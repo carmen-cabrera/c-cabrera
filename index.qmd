@@ -53,7 +53,7 @@ Carmen Cabrera-Arnau is a **Lecturer in Geographic Data Science** (Assistant Pro
 Prior to her position as a Lecturer, Carmen completed a BSc in Physics, followed by an MSc in Complex Systems, specialising in Network Analysis. She then did a PhD in Applied Mathematics at University College London (UCL), focusing on the development of mathematical models of social behaviours in urban areas, against the theoretical backdrop of agglomeration economies. After graduating from her PhD in 2021, she was a Research Fellow in Urban Mobility at the Centre for Advanced Spatial Analysis (CASA), at UCL, where she currently holds a honorary position. 
 
 
-**Download my [CV](assets/media/CV.pdf)**
+**Download Carmen's [CV](assets/media/CV.pdf)**
 
 <br>
 
@@ -89,7 +89,7 @@ Prior to her position as a Lecturer, Carmen completed a BSc in Physics, followed
 
    <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>MSc in Complex Systems ∙ King's College London ∙ 2017</li>
 
-   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>B.S. in Physics ∙ University of Valencia ∙ 2016</li>
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>B.S. in Physics ∙ University of Valencia (year abroad at Imperial College London) ∙ 2016</li>
 </ul>
 
 :::

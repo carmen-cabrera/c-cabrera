@@ -38,7 +38,7 @@ website:
   
   page-footer:  
     left: >-
-     &#169; 2024 Carmen Cabrera-Arnau &#8729; Made with [Quarto](https://quarto.org), with Silvia Calderon's template.
+     &#169; 2024 Carmen Cabrera-Arnau &#8729; Made with [Quarto](https://quarto.org), using [Silvia Calderon](https://silviacanelon.com/)'s template.
     center: |
       <a class="link-dark me-1" href="https://twitter.com/CarmenCabArn" title="twitter" target="_blank" rel="noopener">{{< fa brands twitter >}}</a>
       <a class="link-dark me-1" href="https://github.com/CrmnCA" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
@@ -46,15 +46,15 @@ website:
       <a class="link-dark me-1" href="https://orcid.org/0000-0002-2732-6436" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
       <a class="link-dark me-1" href="https://scholar.google.com/citations?hl=en&user=qAvR9zgAAAAJ" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
 
-    right: 
-      - text: "Contact"
-        aria-label: "Contact Form"
-        href: "contact.qmd"
-      - text: "License"
-        aria-label: "License Details"
-        href: license.qmd
-      - icon: rss
-        href: posts/index.xml
+    # right: 
+    #   - text: "Contact"
+    #     aria-label: "Contact Form"
+    #     href: "contact.qmd"
+    #   - text: "License"
+    #     aria-label: "License Details"
+    #     href: license.qmd
+    #   - icon: rss
+    #     href: posts/index.xml
 
 format: 
   html:
