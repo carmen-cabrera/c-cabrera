@@ -1,0 +1,492 @@
+[
+  {
+    "objectID": "recent/index.html",
+    "href": "recent/index.html",
+    "title": "Recent activity",
+    "section": "",
+    "text": "Posts\n\n\n\n\n\n\n\n\n\n\nWorkshop – An introduction to spatial network analysis\n\n\nWorkshop at British Society for Population Studies 2024 Conference\n\n\n\n\n\n\n\nNo matching items\n\n\nSee all →\n\n\nPublications\n\n\n\n\n\n\n\n\n\n\nCOVID-19 y movimientos de población entre la jerarquía urbana en México. Un análisis utilizando datos digitales\n\n\n\n\n\n\n\nNo matching items\n\n\nSee all →\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nPhilly Center City District SIPS: An Interactive Map\n\n\nA collection of interactive maps showing restaurants participating in Phily’s CCD SIPS\n\n\n\n\n\n\n\nNo matching items\n\n\nSee all →\n\n\nCourses\n\n\n\n\n\n\n\n\n\n\nPopulation Data Science\n\n\nA course based on R computational notebooks. Designed and delivered by Dr. Carmen Cabrera-Arnau, Prof. Francisco Rowe and Dr. Elisabetta Pietrostefani.\n\n\n\n\n\n\n\nNo matching items\n\n\nSee all →\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "courses/2024-07-01-geo-data-sci/index.html",
+    "href": "courses/2024-07-01-geo-data-sci/index.html",
+    "title": "Geographic Data Science",
+    "section": "",
+    "text": "URL: pietrostefani.github.io/gds/\nDescription: This module will introduce students to the field of Geographic Data Science (GDS), a discipline established at the intersection between Geographic Information Science (GIS) and Data Science. The course covers how the modern GIS toolkit can be integrated with Data Science tools to solve practical real-world problems. Much of the course material is inspired by Dani Arribas-Bel’s course on Geographic Data Science.\nContents: 1. Introduction 2. Spatial Data 3. Mapping Vector Data 4. Mapping Raster Data 5. Points 6. Spatial Weights 7. ESDA 8. Clustering 9. Spatial Netowrks\nDelivery: as part of the BA in Geogrpahy and the MSc in Geographic Data Science at the University of Liverpool.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "courses/index.html",
+    "href": "courses/index.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Population Data Science\n\n\nA course based on R computational notebooks. Designed and delivered by Dr. Carmen Cabrera-Arnau, Prof. Francisco Rowe and Dr. Elisabetta Pietrostefani.\n\n\n\nTeaching\n\n\nR\n\n\nData Science\n\n\nPostgraduate\n\n\n\n\n\n\nJan 1, 2024\n\n\nFrancisco Rowe, Carmen Cabrera-Arnau, Elisabetta Pietrostefani\n\n\n\n\n\n\n\n\n\n\n\n\nGeographic Data Science\n\n\nA course based on R computational notebooks. Designed and delivered by Dr. Elisabetta Pietrostefani and Dr. Carmen Cabrera-Arnau.\n\n\n\nTeaching\n\n\nR\n\n\nData Science\n\n\nPostgraduate\n\n\nUndergraduate\n\n\n\n\n\n\nOct 1, 2023\n\n\nElisabetta Pietrostefani, Carmen Cabrera-Arnau\n\n\n\n\n\n\n\n\n\n\n\n\nAn Introduction to Network Analysis for GIS\n\n\nA course based on R computational notebooks. Delivered by Dr. Carmen Cabrera-Arnau and Prof. Francisco Rowe.\n\n\n\nWorkshop\n\n\nR\n\n\nDigital trace data\n\n\nInternal mobility\n\n\n\n\n\n\nSep 1, 2023\n\n\nCarmen Cabrera-Arnau, Francisco Rowe, Andrew Renninger, Valentina Marín Maureira, Rafael Prieto-Curiel\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Digital Footprint Data to Measure and Monitor Human Mobility\n\n\nA workshop based on R computation notebooks. Delivered by Prof. Francisco Rowe and Dr. Carmen Cabrera-Arnau.\n\n\n\nWorkshop\n\n\nR\n\n\nData Science\n\n\nInternal mobility\n\n\nFacebook\n\n\n\n\n\n\nJul 1, 2023\n\n\nFrancisco Rowe, Carmen Cabrera-Arnau, Miguel González-Leonardo, Ruth Neville, Andrea Nasuto\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "courses/2024-07-01-pop-data-sci/index.html",
+    "href": "courses/2024-07-01-pop-data-sci/index.html",
+    "title": "Population Data Science",
+    "section": "",
+    "text": "URL: population-science.net\nDescription: You will learn applied tools and cutting-edge analytical approaches to use digital footprint data to explore and understand human population trends and patterns.\nContents: 1. Overview 2. Introducing Population Science 3. Geodemographics 4. Sequence Analysis 5. Network Analysis 6. Machine Learning 7. Sentiment Analysis 8. Topic Modelling 9. Modelling Time 10. Assessing Interventions 11. Datasets\nDelivery: as part of the MSc in Geographic Data Science at the University of Liverpool.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "project/2021-07-07-presentable-user2021/index.html",
+    "href": "project/2021-07-07-presentable-user2021/index.html",
+    "title": "Professional, Polished, Presentable",
+    "section": "",
+    "text": "The xaringan package brings professional, impressive, and visually appealing slides to the powerful R Markdown ecosystem. Through our hands-on tutorial, you will learn how to design highly effective slides that support presentations for teaching and reporting alike. Over three hours, you will learn how to create an accessible baseline design that matches your institution or organization’s style guide. Together we’ll explore the basics of CSS—the design language of the internet—and how we can leverage CSS to produce elegant slides for effective communication."
+  },
+  {
+    "objectID": "project/2021-07-07-presentable-user2021/index.html#abstract",
+    "href": "project/2021-07-07-presentable-user2021/index.html#abstract",
+    "title": "Professional, Polished, Presentable",
+    "section": "",
+    "text": "The xaringan package brings professional, impressive, and visually appealing slides to the powerful R Markdown ecosystem. Through our hands-on tutorial, you will learn how to design highly effective slides that support presentations for teaching and reporting alike. Over three hours, you will learn how to create an accessible baseline design that matches your institution or organization’s style guide. Together we’ll explore the basics of CSS—the design language of the internet—and how we can leverage CSS to produce elegant slides for effective communication."
+  },
+  {
+    "objectID": "project/2020-03-25-data-hack-opioid/index.html",
+    "href": "project/2020-03-25-data-hack-opioid/index.html",
+    "title": "Visualizing the Inside Journey of Recovery from Opioid Use Disorder",
+    "section": "",
+    "text": "Referral process pipeline (PDF)"
+  },
+  {
+    "objectID": "project/2020-03-25-data-hack-opioid/index.html#data-hack-hosts",
+    "href": "project/2020-03-25-data-hack-opioid/index.html#data-hack-hosts",
+    "title": "Visualizing the Inside Journey of Recovery from Opioid Use Disorder",
+    "section": "Data Hack hosts",
+    "text": "Data Hack hosts\n\nCode for Philly\nDataPhilly\nR-Ladies Philly\nPhilly Data Jawn\nCity of Philadelphia"
+  },
+  {
+    "objectID": "project/2020-03-25-data-hack-opioid/index.html#partner-organizationsinterviewees",
+    "href": "project/2020-03-25-data-hack-opioid/index.html#partner-organizationsinterviewees",
+    "title": "Visualizing the Inside Journey of Recovery from Opioid Use Disorder",
+    "section": "Partner organizations/interviewees",
+    "text": "Partner organizations/interviewees\n\nPrevention Point Prevention: drop-in, medical, mobile clinic, and re-entry case managers.\nHealth Federation of Philadelphia: Opioid Response Program Coordinator and intern.\nPenn Medicine Center for Opioid Recovery and Engagement: Certified recovery specialists, emergency medicine physician, and individual in recovery."
+  },
+  {
+    "objectID": "project/2024-06-16-ccd-sips/index.html",
+    "href": "project/2024-06-16-ccd-sips/index.html",
+    "title": "Philly Center City District SIPS: An Interactive Map",
+    "section": "",
+    "text": "Philly’s Center City District posted a list of restaurants and bars participating in Philly’s 2024 CCD SIPS. CCD SIPS is a series of summer Wednesday evenings (5-7pm) filled with happy hour specials, between June 5th and August 28th.\nI scraped some information from the website in order to present the information as a map. You can click or tap on the circle map markers to see information about each restaurant/bar along with a direct link to their posted happy hour specials.\nCheck out the link at the top of this post for a larger version of the interactive map below, search the table below, or take a look at CCD SIPS maps from past years."
+  },
+  {
+    "objectID": "project/2024-06-16-ccd-sips/index.html#map-view",
+    "href": "project/2024-06-16-ccd-sips/index.html#map-view",
+    "title": "Philly Center City District SIPS: An Interactive Map",
+    "section": "Map view",
+    "text": "Map view"
+  },
+  {
+    "objectID": "project/2024-06-16-ccd-sips/index.html#table-view",
+    "href": "project/2024-06-16-ccd-sips/index.html#table-view",
+    "title": "Philly Center City District SIPS: An Interactive Map",
+    "section": "Table view",
+    "text": "Table view"
+  },
+  {
+    "objectID": "project/2024-06-16-ccd-sips/index.html#past-years",
+    "href": "project/2024-06-16-ccd-sips/index.html#past-years",
+    "title": "Philly Center City District SIPS: An Interactive Map",
+    "section": "Past years",
+    "text": "Past years\n\n\n\n\n\n\n\n\n\n\n\n\n\n2023\n\n\n\n\nWeb analytics\n\n1,760 unique visitors in the United States visited this post 2,330 times between June 7th and August 30th, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "project/2020-12-09-xaringan/index.html",
+    "href": "project/2020-12-09-xaringan/index.html",
+    "title": "nhsr CSS Theme for xaringan",
+    "section": "",
+    "text": "In preparation for a xaringan workshop I created for the NHS-R 2020 Conference, I designed a custom CSS theme with input from the NHS-R Community that followed the NHS identity guidelines. This theme was also contributed to the nhsrtheme package developed by Tom Jemmett."
+  },
+  {
+    "objectID": "project/2020-12-09-xaringan/index.html#theme",
+    "href": "project/2020-12-09-xaringan/index.html#theme",
+    "title": "nhsr CSS Theme for xaringan",
+    "section": "",
+    "text": "In preparation for a xaringan workshop I created for the NHS-R 2020 Conference, I designed a custom CSS theme with input from the NHS-R Community that followed the NHS identity guidelines. This theme was also contributed to the nhsrtheme package developed by Tom Jemmett."
+  },
+  {
+    "objectID": "project/2021-05-04-tidy-tuesday-alt-text/index.html",
+    "href": "project/2021-05-04-tidy-tuesday-alt-text/index.html",
+    "title": "TidyTuesdayAltText",
+    "section": "",
+    "text": "The original data were collected and made available by Tom Mock (@thomas_mock) using {rtweet}. These data are available in the TidyTuesday repository.\nThese tweets were processed and scraped for alternative text by Silvia Canelón (@spcanelon)\n\nData were filtered to remove tweets without attached media (e.g. images)\nData were supplemented with reply tweets collected using {rtweet}. This was done to identify whether the original tweet or a reply tweet contained an external link (e.g. data source, repository with source code)\nAlternative (alt) text was scraped from tweet images using {RSelenium}. The first image attached to each tweet was considered the primary image and only the primary image from each tweet was scraped for alternative text. The following attributes were used to build the scraper:\n\n\nCSS selector: .css-1dbjc4n.r-1p0dtai.r-1mlwlqe.r-1d2f490.r-11wrixw\nElement attribute: aria-label\n\n\n\n\nFigure 1: Example of web inspection being used to identify the CSS selector utilized for alt-text web scraping\n\n\nThis data package does not include data that could directly identify the tweet author in order to respect any author’s decision to delete a tweet or make their account private after the data was originally collected.1\nTo obtain the tweet text, author screen name, and many other tweet attributes, you can “rehydrate” the TweetIds (or “status” ids)2) using the {rtweet} package.3"
+  },
+  {
+    "objectID": "project/2021-05-04-tidy-tuesday-alt-text/index.html#about-the-data",
+    "href": "project/2021-05-04-tidy-tuesday-alt-text/index.html#about-the-data",
+    "title": "TidyTuesdayAltText",
+    "section": "",
+    "text": "The original data were collected and made available by Tom Mock (@thomas_mock) using {rtweet}. These data are available in the TidyTuesday repository.\nThese tweets were processed and scraped for alternative text by Silvia Canelón (@spcanelon)\n\nData were filtered to remove tweets without attached media (e.g. images)\nData were supplemented with reply tweets collected using {rtweet}. This was done to identify whether the original tweet or a reply tweet contained an external link (e.g. data source, repository with source code)\nAlternative (alt) text was scraped from tweet images using {RSelenium}. The first image attached to each tweet was considered the primary image and only the primary image from each tweet was scraped for alternative text. The following attributes were used to build the scraper:\n\n\nCSS selector: .css-1dbjc4n.r-1p0dtai.r-1mlwlqe.r-1d2f490.r-11wrixw\nElement attribute: aria-label\n\n\n\n\nFigure 1: Example of web inspection being used to identify the CSS selector utilized for alt-text web scraping\n\n\nThis data package does not include data that could directly identify the tweet author in order to respect any author’s decision to delete a tweet or make their account private after the data was originally collected.1\nTo obtain the tweet text, author screen name, and many other tweet attributes, you can “rehydrate” the TweetIds (or “status” ids)2) using the {rtweet} package.3"
+  },
+  {
+    "objectID": "project/2021-05-04-tidy-tuesday-alt-text/index.html#tidytuesday-databases-on-notion",
+    "href": "project/2021-05-04-tidy-tuesday-alt-text/index.html#tidytuesday-databases-on-notion",
+    "title": "TidyTuesdayAltText",
+    "section": "TidyTuesday databases on Notion",
+    "text": "TidyTuesday databases on Notion\nI use the data available in the TidyTuesday repository to populate some searchable TidyTuesday databases at tiny.cc/notion-dataviz with data visualizations tagged by the dataset of the week, hashtags, mentions, etc.\n\n\n\nFigure 2: Screenshot of the 2021 TidyTuesday database on Notion, taken on June 1, 2021\n\n\n\n\n\nFigure 3: Screenshot of the tweet sharing the TidyTuesday database on Notion"
+  },
+  {
+    "objectID": "project/2021-05-04-tidy-tuesday-alt-text/index.html#footnotes",
+    "href": "project/2021-05-04-tidy-tuesday-alt-text/index.html#footnotes",
+    "title": "TidyTuesdayAltText",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDeveloper Policy – Twitter Developers | Twitter Developer↩︎\nTweet object | Twitter Developer↩︎\nGet tweets data for given statuses (status IDs). — lookup_tweets • rOpenSci: rtweet↩︎"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Carmen Cabrera-Arnau",
+    "section": "About me",
+    "text": "About me\n\n\nInterests\n\n\nHuman mobility\n\n\nGeographic Data Science\n\n\nNetwork theory\n\n\nUrban structure\n\n\nSocieconomic inequalities\n\n\n\n\nEducation\n\n\nPhD in Applied Mathematics ∙ UCL ∙ 2021\n\n\nMSc in Complex Systems ∙ King’s College London ∙ 2017\n\n\nB.S. in Physics ∙ University of Valencia ∙ 2016"
+  },
+  {
+    "objectID": "publication/2023-04-07-inferring-polycentricity/index.html",
+    "href": "publication/2023-04-07-inferring-polycentricity/index.html",
+    "title": "Inferring urban polycentricity from the variability in human mobility patterns",
+    "section": "",
+    "text": "The polycentric city model has gained popularity in spatial planning policy, since it is believed to overcome some of the problems often present in monocentric metropolises, ranging from congestion to difficult accessibility to jobs and services. However, the concept ‘polycentric city’ has a fuzzy definition and as a result, the extent to which a city is polycentric cannot be easily determined. Here, we leverage the fine spatio-temporal resolution of smart travel card data to infer urban polycentricity by examining how a city departs from a well-defined monocentric model. In particular, we analyse the human movements that arise as a result of sophisticated forms of urban structure by introducing a novel probabilistic approach which captures the complexity of these human movements. We focus on London (UK) and Seoul (South Korea) as our two case studies, and we specifically find evidence that London displays a higher degree of monocentricity than Seoul, suggesting that Seoul is likely to be more polycentric than London."
+  },
+  {
+    "objectID": "publication/2023-04-07-inferring-polycentricity/index.html#abstract",
+    "href": "publication/2023-04-07-inferring-polycentricity/index.html#abstract",
+    "title": "Inferring urban polycentricity from the variability in human mobility patterns",
+    "section": "",
+    "text": "The polycentric city model has gained popularity in spatial planning policy, since it is believed to overcome some of the problems often present in monocentric metropolises, ranging from congestion to difficult accessibility to jobs and services. However, the concept ‘polycentric city’ has a fuzzy definition and as a result, the extent to which a city is polycentric cannot be easily determined. Here, we leverage the fine spatio-temporal resolution of smart travel card data to infer urban polycentricity by examining how a city departs from a well-defined monocentric model. In particular, we analyse the human movements that arise as a result of sophisticated forms of urban structure by introducing a novel probabilistic approach which captures the complexity of these human movements. We focus on London (UK) and Seoul (South Korea) as our two case studies, and we specifically find evidence that London displays a higher degree of monocentricity than Seoul, suggesting that Seoul is likely to be more polycentric than London."
+  },
+  {
+    "objectID": "publication/2019-05-01-media-spotlight/index.html",
+    "href": "publication/2019-05-01-media-spotlight/index.html",
+    "title": "A continuous binning for discrete, sparse and concentrated observations",
+    "section": "",
+    "text": "Discrete observations from data which are obtained from sparse, and yet concentrated events are often observed (e.g. road accidents or murders). Traditional methods to compute summary statistics often include placing the data in discrete bins but for this type of data this approach often results in large numbers of empty bins for which no function or summary statistic can be computed. Here, a method for dealing with sparse and concentrated observations is constructed, based on a sequence of non-overlapping bins of varying size, which gives a continuous interpolation of data for computing summary statistics of the values for the data, such as the mean. The method presented here overcomes the problem which sparsity and concentration present when computing functions to represent the data. Implementation of the method presented here is facilitated via open access to the code."
+  },
+  {
+    "objectID": "publication/2019-05-01-media-spotlight/index.html#abstract",
+    "href": "publication/2019-05-01-media-spotlight/index.html#abstract",
+    "title": "A continuous binning for discrete, sparse and concentrated observations",
+    "section": "",
+    "text": "Discrete observations from data which are obtained from sparse, and yet concentrated events are often observed (e.g. road accidents or murders). Traditional methods to compute summary statistics often include placing the data in discrete bins but for this type of data this approach often results in large numbers of empty bins for which no function or summary statistic can be computed. Here, a method for dealing with sparse and concentrated observations is constructed, based on a sequence of non-overlapping bins of varying size, which gives a continuous interpolation of data for computing summary statistics of the values for the data, such as the mean. The method presented here overcomes the problem which sparsity and concentration present when computing functions to represent the data. Implementation of the method presented here is facilitated via open access to the code."
+  },
+  {
+    "objectID": "publication/2021-11-30-thesis/index.html",
+    "href": "publication/2021-11-30-thesis/index.html",
+    "title": "Mathematical modelling of social phenomena in urban areas",
+    "section": "",
+    "text": "The world is undergoing a rapid urbanisation process such that the ma- jority of people now live in urban areas. In this context, it is crucial to understand the behaviour that emerges in cities as a result of complex in- teractions between environmental, social, economic and political factors. To improve our knowledge, different techniques are used in this thesis in order to quantitatively model how one city compares with another. Owing to the present-day ease of access to information, most of the results in the following pages have been obtained via assessment of real-world data, made available by different public organisations. Urban scaling is used as the main modelling framework. This approach concerns the relationship between the population size of an urban area and some other urban characteristic. The work is applied to two specific topics of interest. Firstly, the amount of coverage given by the media to Mexican urban areas, before and after the 2017 Puebla earthquake, which affected several regions in Mexico. Secondly, the number of road traffic accidents per person in urban areas from several European countries for different degrees of accident severity or different definitions for the urban areas. The thesis also contains methodological contributions regarding the problem of accounting for urban areas with extremely large population in urban scaling models. Finally, this work explores the impact of the findings presented here to support the creation of new policies involving urban areas."
+  },
+  {
+    "objectID": "publication/2021-11-30-thesis/index.html#abstract",
+    "href": "publication/2021-11-30-thesis/index.html#abstract",
+    "title": "Mathematical modelling of social phenomena in urban areas",
+    "section": "",
+    "text": "The world is undergoing a rapid urbanisation process such that the ma- jority of people now live in urban areas. In this context, it is crucial to understand the behaviour that emerges in cities as a result of complex in- teractions between environmental, social, economic and political factors. To improve our knowledge, different techniques are used in this thesis in order to quantitatively model how one city compares with another. Owing to the present-day ease of access to information, most of the results in the following pages have been obtained via assessment of real-world data, made available by different public organisations. Urban scaling is used as the main modelling framework. This approach concerns the relationship between the population size of an urban area and some other urban characteristic. The work is applied to two specific topics of interest. Firstly, the amount of coverage given by the media to Mexican urban areas, before and after the 2017 Puebla earthquake, which affected several regions in Mexico. Secondly, the number of road traffic accidents per person in urban areas from several European countries for different degrees of accident severity or different definitions for the urban areas. The thesis also contains methodological contributions regarding the problem of accounting for urban areas with extremely large population in urban scaling models. Finally, this work explores the impact of the findings presented here to support the creation of new policies involving urban areas."
+  },
+  {
+    "objectID": "publication/2021-08-27-urban-collisions-europe/index.html",
+    "href": "publication/2021-08-27-urban-collisions-europe/index.html",
+    "title": "Urban population size and road traffic collisions in Europe",
+    "section": "",
+    "text": "Millions of road traffic collisions take place every year, leading to significant knock-on effects. Many of these traffic collisions take place in urban areas, where traffic levels can be elevated. Yet, little is known about the extent to which urban population size impacts road traffic collision rates. Here, we use urban scaling models to analyse geographic and road traffic collision data from over 300 European urban areas in order to study this issue. Our results show that there is no significant change in the number of road traffic collisions per person for urban areas of different sizes. However, we find individual urban locations with traffic collision rates which are remarkably high. These findings have the potential to inform policies for the allocation of resources to prevent road traffic collisions across the different cities."
+  },
+  {
+    "objectID": "publication/2021-08-27-urban-collisions-europe/index.html#abstract",
+    "href": "publication/2021-08-27-urban-collisions-europe/index.html#abstract",
+    "title": "Urban population size and road traffic collisions in Europe",
+    "section": "",
+    "text": "Millions of road traffic collisions take place every year, leading to significant knock-on effects. Many of these traffic collisions take place in urban areas, where traffic levels can be elevated. Yet, little is known about the extent to which urban population size impacts road traffic collision rates. Here, we use urban scaling models to analyse geographic and road traffic collision data from over 300 European urban areas in order to study this issue. Our results show that there is no significant change in the number of road traffic collisions per person for urban areas of different sizes. However, we find individual urban locations with traffic collision rates which are remarkably high. These findings have the potential to inform policies for the allocation of resources to prevent road traffic collisions across the different cities."
+  },
+  {
+    "objectID": "publication/2020-11-18-dragon-kings/index.html",
+    "href": "publication/2020-11-18-dragon-kings/index.html",
+    "title": "The effect of dragon-kings on the estimation of scaling law parameters",
+    "section": "",
+    "text": "Scaling laws are used to model how different quantifiable properties of cities, such as the number of road traffic accidents or average house prices, vary as a function of city population size, with parameters estimated from data. Arcaute et al. raised the issue of whether specific cities with extremely large population sizes, known as dragon-kings, should be considered separately from other smaller cities when estimating the scaling law parameters since the two types of cities tend to display different behaviour. Through the analysis of randomly generated samples, we find that the inclusion of dragon-kings in the scaling analysis does not affect the estimated values for the parameters but only provided that all the data points satisfy the same scaling law. We also analyse randomly generated samples where data corresponding to a particular city deviates from the scaling law followed by the rest of the cities. We then show that deviations corresponding to dragon-king cities have the most significant effect on the estimated values of the scaling parameters. The extent of this effect also depends on which estimation procedure is used. Our results have important implications on the suitability of scaling laws as a model for urban systems."
+  },
+  {
+    "objectID": "publication/2020-11-18-dragon-kings/index.html#abstract",
+    "href": "publication/2020-11-18-dragon-kings/index.html#abstract",
+    "title": "The effect of dragon-kings on the estimation of scaling law parameters",
+    "section": "",
+    "text": "Scaling laws are used to model how different quantifiable properties of cities, such as the number of road traffic accidents or average house prices, vary as a function of city population size, with parameters estimated from data. Arcaute et al. raised the issue of whether specific cities with extremely large population sizes, known as dragon-kings, should be considered separately from other smaller cities when estimating the scaling law parameters since the two types of cities tend to display different behaviour. Through the analysis of randomly generated samples, we find that the inclusion of dragon-kings in the scaling analysis does not affect the estimated values for the parameters but only provided that all the data points satisfy the same scaling law. We also analyse randomly generated samples where data corresponding to a particular city deviates from the scaling law followed by the rest of the cities. We then show that deviations corresponding to dragon-king cities have the most significant effect on the estimated values of the scaling parameters. The extent of this effect also depends on which estimation procedure is used. Our results have important implications on the suitability of scaling laws as a model for urban systems."
+  },
+  {
+    "objectID": "publication/2023-07-12-sensitive-african-network/index.html",
+    "href": "publication/2023-07-12-sensitive-african-network/index.html",
+    "title": "Detecting the sensitive spots of the African interurban transport network",
+    "section": "",
+    "text": "Transport systems are vulnerable to events that create disruptions. This situation is particularly sensitive in parts of Africa with a low density of highways and an increasing level of violence. Here, we measure the risk of the African transport network based on two separate indices: the intensity of future events μ and the impact ν of one event on the flow that travels through the network. To estimate the intensity of future events happening in city i, we construct a self-exciting point process. To estimate the impact of an event, we consider a network of all highways in the continent and a modelled flow between any pair of cities. Based on both indicators, we construct the μ−ν diagram and classify cities based on their combined impact and intensity. Results show that certain cities in the network have a high risk and increase the vulnerability of Africa’s infrastructure. These cities have a high propensity for suffering subsequent violence against their civilians, and given their connectivity structure, they also substantially affect the overall regional functioning. Removing just ten edges would require rerouting 32% of trips according to our model. The top 100 edges where violence might happen account for 17% of the trips. We find that cities with the highest μ−ν risk are those characterised by small and medium size and large degree, meaning they act as hubs. Vulnerable areas tend to be characterised by the presence of terrorist groups like Boko Haram in Nigeria."
+  },
+  {
+    "objectID": "publication/2023-07-12-sensitive-african-network/index.html#abstract",
+    "href": "publication/2023-07-12-sensitive-african-network/index.html#abstract",
+    "title": "Detecting the sensitive spots of the African interurban transport network",
+    "section": "",
+    "text": "Transport systems are vulnerable to events that create disruptions. This situation is particularly sensitive in parts of Africa with a low density of highways and an increasing level of violence. Here, we measure the risk of the African transport network based on two separate indices: the intensity of future events μ and the impact ν of one event on the flow that travels through the network. To estimate the intensity of future events happening in city i, we construct a self-exciting point process. To estimate the impact of an event, we consider a network of all highways in the continent and a modelled flow between any pair of cities. Based on both indicators, we construct the μ−ν diagram and classify cities based on their combined impact and intensity. Results show that certain cities in the network have a high risk and increase the vulnerability of Africa’s infrastructure. These cities have a high propensity for suffering subsequent violence against their civilians, and given their connectivity structure, they also substantially affect the overall regional functioning. Removing just ten edges would require rerouting 32% of trips according to our model. The top 100 edges where violence might happen account for 17% of the trips. We find that cities with the highest μ−ν risk are those characterised by small and medium size and large degree, meaning they act as hubs. Vulnerable areas tend to be characterised by the presence of terrorist groups like Boko Haram in Nigeria."
+  },
+  {
+    "objectID": "publication/index.html",
+    "href": "publication/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "COVID-19 y movimientos de población entre la jerarquía urbana en México. Un análisis utilizando datos digitales\n\n\nAnalysis of the extent and persistence of patterns of urban exodus due to COVID-19 in Mexico.\n\n\n\nInternal mobility\n\n\nFacebook data\n\n\nCovid-19\n\n\nMexico\n\n\n\n\n\n\nAug 1, 2024\n\n\nMiguel González-Leonardo, Carmen Cabrera-Arnau, Francisco Rowe, Andrea Nasuto, Ruth Neville\n\n\n\n\n\n\n\nReduced mobility? Urban exodus? Medium-term impacts of the COVID-19 pandemic on internal population movements in Latin American countries\n\n\n \n\n\n\nResearch article\n\n\nInternal mobility\n\n\nFacebook data\n\n\nCovid-19\n\n\nLatin Americo\n\n\n\n\n\n\nJan 30, 2024\n\n\nFrancisco Rowe, Carmen Cabrera-Arnau, Miguel González-Leonardo, Ruth Neville, Andrea Nasuto\n\n\n\n\n\n\n\n“Urban Exodus” During COVID-19 in Mexico? Using Digital Data to Analyze Medium-Term Pandemic Impacts on Internal Population Movements\n\n\n \n\n\n\nResearch\n\n\nMethods\n\n\nTime series\n\n\n\n\n\n\nJan 30, 2024\n\n\nMiguel González-Leonardo, Carmen Cabrera-Arnau, Ruth Neville, Andrea Nasuto, Francisco Rowe\n\n\n\n\n\n\n\nThe temporal concentration of travel demand in an urban transport network\n\n\nA metric is proposed to measure the temporal concentration of travel demand across the underground network in London. A methodology is proposed to understand the spatial variability and the drivers of the temporal concentration of travel demand. The analysis uses smart travel card data facilitated by Transport for London.\n\n\n\nResearch\n\n\nUrban mobility\n\n\nTransport network\n\n\nSpatio-temporal variability\n\n\n\n\n\n\nOct 3, 2023\n\n\nCarmen Cabrera-Arnau, Liang Wei Ng, Howard Wong, Chen Zhong\n\n\n\n\n\n\n\nDetecting the sensitive spots of the African interurban transport network\n\n\nWe measure the resilience of the African transport network based on the intensity of future violent events and the impact of one event on the flow that travels through the network. We use data from OpenStreetMap to construct the road network.\n\n\n\nResearch\n\n\nTransport network\n\n\nNetwork resilience\n\n\nViolent conflict\n\n\nAfrica\n\n\n\n\n\n\nJul 12, 2023\n\n\nAndrew Renninger, Valentina Marín Maureira, Carmen Cabrera-Arnau, Rafael Prieto Curiel\n\n\n\n\n\n\n\nInferring urban polycentricity from the variability in human mobility patterns\n\n\nSmart travel card data is used to infer urban polycentricity by examining how a city departs from a well-defined monocentric model. The analysis is applied to London and Seoul.\n\n\n\nResearch\n\n\nUrban mobility\n\n\nUrban structure\n\n\nStatistical Inference\n\n\n\n\n\n\nApr 7, 2023\n\n\nCarmen Cabrera-Arnau, Chen Zhong, Michael Batty, Richardo Silva, Soon Moon Kang\n\n\n\n\n\n\n\nUnderstanding internal migration in the UK before and during the COVID-19 pandemic using Twitter data\n\n\nTwitter data is used to monitor internal migration patterns in the UK during the COVID-19 pandemic.\n\n\n\nResearch\n\n\nInternal migration\n\n\nTwitter data\n\n\nCovid-19\n\n\nUK\n\n\n\n\n\n\nNov 29, 2022\n\n\nYikang Wang, Chen Zhong, Carmen Cabrera-Arnau, Qili Gao\n\n\n\n\n\n\n\nSacaling beyond cities\n\n\nAn analysis of the scaling behaviour of cities beyond their boundaries by considering the emergence and growth of nearby cities, using data from OpenStreetMap.\n\n\n\nResearch\n\n\nUrban analytics\n\n\nCity sizes\n\n\nUrban scaling\n\n\nAfrica\n\n\n\n\n\n\nApr 5, 2022\n\n\nRafael Prieto Curiel, Carmen Cabrera-Arnau, Steven R. Bishop\n\n\n\n\n\n\n\nMathematical modelling of social phenomena in urban areas\n\n\nDoctoral thesis in Applied mathematics, completed at UCL’s Departmet of mathematics\n\n\n\nResearch\n\n\nPhD thesis\n\n\n\n\n\n\nNov 30, 2021\n\n\nCarmen Cabrera-Arnau\n\n\n\n\n\n\n\nUrban population size and road traffic collisions in Europe\n\n\nAn analysis of road traffic collisions in European cities from the perspective of urban scaling models\n\n\n\nResearch\n\n\nUrban scaling\n\n\nRoad traffic collisions\n\n\nEurope\n\n\n\n\n\n\nAug 27, 2021\n\n\nCarmen Cabrera-Arnau, Steven R. Bishop\n\n\n\n\n\n\n\nThe effect of dragon-kings on the estimation of scaling law parameters\n\n\nAn analysis based on synthetic data to test the sensitivity of urban scaling law parameters to the presence of statistical outliers\n\n\n\nResearch\n\n\nUrban scaling\n\n\nDragon-king cities\n\n\n\n\n\n\nNov 18, 2020\n\n\nCarmen Cabrera-Arnau, Steven R. Bishop\n\n\n\n\n\n\n\nUncovering the behaviour of road accidents in urban areas\n\n\nAn analysis looking into the scaling behaviour of road traffic collisions in England and Wales, according to the degree of severity\n\n\n\nResearch\n\n\nUrban scaling\n\n\nRoad traffic collisions\n\n\nUK\n\n\n\n\n\n\nApr 15, 2020\n\n\nCarmen Cabrera-Arnau, Rafael Prieto Curiel, Steven R. Bishop\n\n\n\n\n\n\n\nA continuous binning for discrete, sparse and concentrated observations\n\n\nA new method for computing functions over sparse and concentrated data is constructed.\n\n\n\nResearch\n\n\nMethods\n\n\nTime series\n\n\n\n\n\n\nJan 1, 2020\n\n\nRafael Prieto Curiel, Carmen Cabrera-Arnau, Mara Torres Pinedo, Humberto González Ramírez, Steven R. Bishop\n\n\n\n\n\n\n\nTemporal and spatial analysis of the media spotlight\n\n\nStudy of the spatiotemporal variation of the media coverage following a natural disaster affecting multiple Mexican cities\n\n\n\nResearch\n\n\nUrban scaling\n\n\nTime series analysis\n\n\nMedia coverage\n\n\nMexico\n\n\n\n\n\n\nMay 1, 2019\n\n\nRafael Prieto Curiel, Carmen Cabrera-Arnau, Mara Torres Pinedo, Humberto González Ramírez, Steven R. Bishop\n\n\n\n\n\n\nNo matching items\n\n\n  \n\n Back to top"
+  },
+  {
+    "objectID": "publication/2023-10-18-internal-migration-covid-latin-report/index.html",
+    "href": "publication/2023-10-18-internal-migration-covid-latin-report/index.html",
+    "title": "Reduced mobility? Urban exodus? Medium-term impacts of the COVID-19 pandemic on internal population movements in Latin American countries",
+    "section": "",
+    "text": "The COVID-19 pandemic has impacted the national systems of population movement around the world. Existing work has focused on countries of the Global North and restricted to the immediate effects of COVID-19 data during 2020. Data have represented a major limitation to monitor change in mobility patterns in countries in the Global South. Drawing on aggregate anonymised mobile phone location data from Meta-Facebook users, we aim to analyse the extent and persistence of changes in the levels (or intensity) and spatial patterns of internal population movement across the rural-urban continuum in Argentina, Chile and Mexico over a 26-month period from March 2020 to May 2022. We reveal an overall systematic decline in the level of short- and long-distance movement during the enactment of nonpharmaceutical interventions in 2020, with the largest reductions occurred in the most dense areas. We also show that these levels bounced back closer to pre-pandemic levels in 2022 following the relaxation of COVID-19 stringency measures. However, the intensity of these movements has remained below pre-pandemic levels in many areas in 2022. Additionally our findings lend some support to the idea of an urban exodus. They reveal a continuing negative net balances of short-distance movements in the most dense areas of capital cities in Argentina and Mexico, reflecting a pattern of suburbanisation. Chile displays limited changes in the net balance of short-distance movements but reports a net loss of long-distance movements. These losses were, however, temporary, moving to neutral and positive balances in 2021 and 2022."
+  },
+  {
+    "objectID": "publication/2023-10-18-internal-migration-covid-latin-report/index.html#abstract",
+    "href": "publication/2023-10-18-internal-migration-covid-latin-report/index.html#abstract",
+    "title": "Reduced mobility? Urban exodus? Medium-term impacts of the COVID-19 pandemic on internal population movements in Latin American countries",
+    "section": "",
+    "text": "The COVID-19 pandemic has impacted the national systems of population movement around the world. Existing work has focused on countries of the Global North and restricted to the immediate effects of COVID-19 data during 2020. Data have represented a major limitation to monitor change in mobility patterns in countries in the Global South. Drawing on aggregate anonymised mobile phone location data from Meta-Facebook users, we aim to analyse the extent and persistence of changes in the levels (or intensity) and spatial patterns of internal population movement across the rural-urban continuum in Argentina, Chile and Mexico over a 26-month period from March 2020 to May 2022. We reveal an overall systematic decline in the level of short- and long-distance movement during the enactment of nonpharmaceutical interventions in 2020, with the largest reductions occurred in the most dense areas. We also show that these levels bounced back closer to pre-pandemic levels in 2022 following the relaxation of COVID-19 stringency measures. However, the intensity of these movements has remained below pre-pandemic levels in many areas in 2022. Additionally our findings lend some support to the idea of an urban exodus. They reveal a continuing negative net balances of short-distance movements in the most dense areas of capital cities in Argentina and Mexico, reflecting a pattern of suburbanisation. Chile displays limited changes in the net balance of short-distance movements but reports a net loss of long-distance movements. These losses were, however, temporary, moving to neutral and positive balances in 2021 and 2022."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Workshop – An introduction to spatial network analysis\n\n\nWorkshop at British Society for Population Studies 2024 Conference\n\n\n\nWorkshop\n\n\n\n\n\n\nSep 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nFully Funded PhD studentship\n\n\nSafeguarding urban communities: Using data science to determine the impact of the spatial structure of urban activities and residential segregation on the spreading of infectious diseases \n\n\n\nPhD opportunity\n\n\n\n\n\n\nJun 30, 2024\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Send me a note ",
+    "section": "",
+    "text": "Send me a note \nYou can use this form to contact me about speaking engagements, collaborations, or simply to say hello.\nI also love hearing if my educational materials have been helpful for you, and how they could be improved — particularly if they could be made more accessible \n      \n\n\n\n\n\n\n\n\nFull Name \nEmail Address \nMessage\n\n\nSend message\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2024-06-30-case-studentship/index.html",
+    "href": "posts/2024-06-30-case-studentship/index.html",
+    "title": "Fully Funded PhD studentship",
+    "section": "",
+    "text": "This project aims to determine the role of the spatial structure of urban activities and spatial socioeconomic segregation on the speed and geography of infectious disease spreading across socioeconomic groups. The research involves a partnership with the UK Health Security Agency (UKHSA), and will seek to learn lessons from the COVID-19 pandemic for future health crises, drawing on Second Generation Surveillance System and Respiratory DataMart data. Specifically, the project seeks to:\n\nDetermine the extent to which differences in the spatial structure of urban activities shape the rate of disease transmission;\nAssess how different configurations of the spatial structure of urban activities relate to variations in local levels of socioeconomic segregation;\nEvaluate differences in the effects of nonphamaceuthical interventions on contagion exposure across different socioeconomic groups as a function of the spatial structure of urban activities and socioeconomic segregation."
+  },
+  {
+    "objectID": "posts/2024-06-30-case-studentship/index.html#project-description",
+    "href": "posts/2024-06-30-case-studentship/index.html#project-description",
+    "title": "Fully Funded PhD studentship",
+    "section": "",
+    "text": "This project aims to determine the role of the spatial structure of urban activities and spatial socioeconomic segregation on the speed and geography of infectious disease spreading across socioeconomic groups. The research involves a partnership with the UK Health Security Agency (UKHSA), and will seek to learn lessons from the COVID-19 pandemic for future health crises, drawing on Second Generation Surveillance System and Respiratory DataMart data. Specifically, the project seeks to:\n\nDetermine the extent to which differences in the spatial structure of urban activities shape the rate of disease transmission;\nAssess how different configurations of the spatial structure of urban activities relate to variations in local levels of socioeconomic segregation;\nEvaluate differences in the effects of nonphamaceuthical interventions on contagion exposure across different socioeconomic groups as a function of the spatial structure of urban activities and socioeconomic segregation."
+  },
+  {
+    "objectID": "posts/2024-06-30-case-studentship/index.html#skill-requirements",
+    "href": "posts/2024-06-30-case-studentship/index.html#skill-requirements",
+    "title": "Fully Funded PhD studentship",
+    "section": "Skill requirements",
+    "text": "Skill requirements\nThe project requires the following essential quantitative data science skills, including the capacity to analyse spatial data and / or infections data, GIS, and coding skills in R and / or Python. Desirable skills include knowledge and experience using machine learning, network analysis and simulation methods; the use of GPS mobile phone data; and, experience in writing research academic articles."
+  },
+  {
+    "objectID": "posts/2024-06-30-case-studentship/index.html#training",
+    "href": "posts/2024-06-30-case-studentship/index.html#training",
+    "title": "Fully Funded PhD studentship",
+    "section": "Training",
+    "text": "Training\nFor exceptional applicant candidates, training can be provided in one or more of the skills required for the project."
+  },
+  {
+    "objectID": "posts/2024-06-30-case-studentship/index.html#supervisors-for-this-project",
+    "href": "posts/2024-06-30-case-studentship/index.html#supervisors-for-this-project",
+    "title": "Fully Funded PhD studentship",
+    "section": "Supervisors for this project",
+    "text": "Supervisors for this project\nGeographic Data Science Lab, University of Liverpool: Francisco Rowe (fcorowe@liverpool.ac.uk) and Carmen Cabrera-Arnau (C.Cabrera-Arnau@liverpool.ac.uk) UKHSA: Donna Clarke and Lorenzo Cattarino Funding Notes The studentship is co-funded by the ESRC’s North West Social Science Doctoral Training Partnership and the UKHSA. The studentship is open for UK and international students. It is supported for 3 years and includes full tuition fees plus a tax-free stipend (starting at £19,237 for 2024/25 and increasing year by year). Funds for training activities, travel and accommodation, and visits to the UKHSA offices will also be available. A £2,000 bonus per year may be available from UKHSA, subject to funding availability. For more information about the funding, see the NWSSDTP (North West Social Science Doctoral Training Partnership) student handbook at: https://nwssdtp.ac.uk/current-students/"
+  },
+  {
+    "objectID": "posts/2024-06-30-case-studentship/index.html#how-to-apply",
+    "href": "posts/2024-06-30-case-studentship/index.html#how-to-apply",
+    "title": "Fully Funded PhD studentship",
+    "section": "How to apply",
+    "text": "How to apply\nCandidates wishing to apply should complete the University of Liverpool application form How to apply for a PhD - University of Liverpool applying for a PhD in Geography (Desk based).\nTo complete the online application, you’ll need:\n\nSchool or college transcripts/certificates\n\nUniversity transcripts\n\nDegree certificates\n\nEnglish language certificates (International applicants)\n\nA covering letter/personal statement\n\nTwo signed references on letterheaded paper (these should be academic references - if you have been in full-time education in the last three years)\n\nDeadline: 30th of June, 2024"
+  },
+  {
+    "objectID": "posts/2024-08-22-bsps-workshop/index.html",
+    "href": "posts/2024-08-22-bsps-workshop/index.html",
+    "title": "Workshop – An introduction to spatial network analysis",
+    "section": "",
+    "text": "The workshop will offer an introduction to spatial network analysis. I will provide an overview of the most fundamental concepts and methods of Network Analysis, some of which are particularly relevant for the study of populations, human mobility and more generally, geographic data. The workshop is designed to last 90 minutes and it follows a hands-on approach through a series of computational activities in R, available in the workshop’s website.\nPLEASE, register through this form by the 4th of September to ensure you receive all the information about pre-requisites for the workshop."
+  },
+  {
+    "objectID": "posts/2024-08-22-bsps-workshop/index.html#workshop-description",
+    "href": "posts/2024-08-22-bsps-workshop/index.html#workshop-description",
+    "title": "Workshop – An introduction to spatial network analysis",
+    "section": "",
+    "text": "The workshop will offer an introduction to spatial network analysis. I will provide an overview of the most fundamental concepts and methods of Network Analysis, some of which are particularly relevant for the study of populations, human mobility and more generally, geographic data. The workshop is designed to last 90 minutes and it follows a hands-on approach through a series of computational activities in R, available in the workshop’s website.\nPLEASE, register through this form by the 4th of September to ensure you receive all the information about pre-requisites for the workshop."
+  },
+  {
+    "objectID": "publication/2022-11-29-migration-uk-covid/index.html",
+    "href": "publication/2022-11-29-migration-uk-covid/index.html",
+    "title": "Understanding internal migration in the UK before and during the COVID-19 pandemic using Twitter data",
+    "section": "",
+    "text": "The COVID-19 pandemic has greatly affected internal migration patterns and may last beyond the pandemic. It raises the need to monitor the migration in an economical, effective and timely way. Benefitting from the advancement of geolocation data collection techniques, we used near real-time and fine-grained Twitter data to monitor migration patterns during the COVID-19 pandemic, dated from January 2019 to December 2021. Based on geocoding and estimating home locations, we proposed five indices depicting migration patterns, which are demonstrated by applying an empirical study at national and local authority scales to the UK. Our findings point to complex social processes unfolding differently over space and time. In particular, the pandemic and lockdown policies significantly reduced the rate of migration. Furthermore, we found a trend of people moving out of large cities to the nearby rural areas, and also conjunctive cities if there is one, before and during the peak of the pandemic. The trend of moving to rural areas became more significant in 2020 and most people who moved out had not returned by the end of 2021, although large cities recovered more quickly than other regions. Our results of monthly migration matrixes are validated to be consistent with official migration flow data released by the Office for National Statistics, but have finer temporal granularity and can be updated more frequently. This study demonstrates that Twitter data is highly valuable for migration trend analysis despite the biases in population representation."
+  },
+  {
+    "objectID": "publication/2022-11-29-migration-uk-covid/index.html#abstract",
+    "href": "publication/2022-11-29-migration-uk-covid/index.html#abstract",
+    "title": "Understanding internal migration in the UK before and during the COVID-19 pandemic using Twitter data",
+    "section": "",
+    "text": "The COVID-19 pandemic has greatly affected internal migration patterns and may last beyond the pandemic. It raises the need to monitor the migration in an economical, effective and timely way. Benefitting from the advancement of geolocation data collection techniques, we used near real-time and fine-grained Twitter data to monitor migration patterns during the COVID-19 pandemic, dated from January 2019 to December 2021. Based on geocoding and estimating home locations, we proposed five indices depicting migration patterns, which are demonstrated by applying an empirical study at national and local authority scales to the UK. Our findings point to complex social processes unfolding differently over space and time. In particular, the pandemic and lockdown policies significantly reduced the rate of migration. Furthermore, we found a trend of people moving out of large cities to the nearby rural areas, and also conjunctive cities if there is one, before and during the peak of the pandemic. The trend of moving to rural areas became more significant in 2020 and most people who moved out had not returned by the end of 2021, although large cities recovered more quickly than other regions. Our results of monthly migration matrixes are validated to be consistent with official migration flow data released by the Office for National Statistics, but have finer temporal granularity and can be updated more frequently. This study demonstrates that Twitter data is highly valuable for migration trend analysis despite the biases in population representation."
+  },
+  {
+    "objectID": "publication/2024-01-30-migration-covid-mexico/index.html",
+    "href": "publication/2024-01-30-migration-covid-mexico/index.html",
+    "title": "“Urban Exodus” During COVID-19 in Mexico? Using Digital Data to Analyze Medium-Term Pandemic Impacts on Internal Population Movements",
+    "section": "",
+    "text": "Previous work documented a decline of internal population movements andan increase in outflowsfrom large cities to less densely populated areas during COVID-19 inGlobal North countries. However, the impact of the pandemic on levels and patterns of human mobility across the rural-urban hierarchy in the Global South is yet to be established.Lack of data with temporal and spatial granularity has prevented us from assessing this research gap.Drawing on location data of Facebook users, we analyse how the intensity and patterns of long-distance movements (&gt;100 Km) were affected during April 2020-May 2022 across different population density categories in Mexico. We find a decline of 40% in the total number of long-distance movements during April-December 2020, and a systematic decrease of outflows and inflows across the rural-urban hierarchy. Unlike inthe Global North, outflows from large cities did not increase. The largest drop of outflows and inflows occurred in large cities, declining by 50%. Only specific flows increased during COVID-19, as those from large cities to certain towns, and intra-rural movements. The intensity and patterns of internal population movements across the rural-urban hierarchy have progressively returned to pre-pandemic levels during 2021 and 2022, as has occurred in Global North countries. However, the recovery has been slower inthe large Mexican cities."
+  },
+  {
+    "objectID": "publication/2024-01-30-migration-covid-mexico/index.html#abstract",
+    "href": "publication/2024-01-30-migration-covid-mexico/index.html#abstract",
+    "title": "“Urban Exodus” During COVID-19 in Mexico? Using Digital Data to Analyze Medium-Term Pandemic Impacts on Internal Population Movements",
+    "section": "",
+    "text": "Previous work documented a decline of internal population movements andan increase in outflowsfrom large cities to less densely populated areas during COVID-19 inGlobal North countries. However, the impact of the pandemic on levels and patterns of human mobility across the rural-urban hierarchy in the Global South is yet to be established.Lack of data with temporal and spatial granularity has prevented us from assessing this research gap.Drawing on location data of Facebook users, we analyse how the intensity and patterns of long-distance movements (&gt;100 Km) were affected during April 2020-May 2022 across different population density categories in Mexico. We find a decline of 40% in the total number of long-distance movements during April-December 2020, and a systematic decrease of outflows and inflows across the rural-urban hierarchy. Unlike inthe Global North, outflows from large cities did not increase. The largest drop of outflows and inflows occurred in large cities, declining by 50%. Only specific flows increased during COVID-19, as those from large cities to certain towns, and intra-rural movements. The intensity and patterns of internal population movements across the rural-urban hierarchy have progressively returned to pre-pandemic levels during 2021 and 2022, as has occurred in Global North countries. However, the recovery has been slower inthe large Mexican cities."
+  },
+  {
+    "objectID": "publication/2020-01-01-methodsx-binning/index.html",
+    "href": "publication/2020-01-01-methodsx-binning/index.html",
+    "title": "Temporal and spatial analysis of the media spotlight",
+    "section": "",
+    "text": "Items featured in the news usually have a particular novelty or describe events which result in severe impact. Here, the length of time that a story remains in the media spotlight is investigated as well as the scaling with population size of the amount of attention that the media gives to stories from different cities. Based on Twitter feeds, the media coverage from the major online newspapers in Mexico is analysed over a period either side of a recent powerful earthquake. The amount of coverage given to earthquake-related stories had an initial peak and then exhibited an exponential decay, dropping by half every eight days. Furthermore, the coverage per person usually exhibits a superlinear scaling with population size, so that stories about larger cities are more likely to appear in the news. However, during the immediate post-earthquake weeks, the scaling was no longer superlinear. The observed trends can be interpreted as a fundamental switch in the emergent collective behaviour of media producers and consumers."
+  },
+  {
+    "objectID": "publication/2020-01-01-methodsx-binning/index.html#abstract",
+    "href": "publication/2020-01-01-methodsx-binning/index.html#abstract",
+    "title": "Temporal and spatial analysis of the media spotlight",
+    "section": "",
+    "text": "Items featured in the news usually have a particular novelty or describe events which result in severe impact. Here, the length of time that a story remains in the media spotlight is investigated as well as the scaling with population size of the amount of attention that the media gives to stories from different cities. Based on Twitter feeds, the media coverage from the major online newspapers in Mexico is analysed over a period either side of a recent powerful earthquake. The amount of coverage given to earthquake-related stories had an initial peak and then exhibited an exponential decay, dropping by half every eight days. Furthermore, the coverage per person usually exhibits a superlinear scaling with population size, so that stories about larger cities are more likely to appear in the news. However, during the immediate post-earthquake weeks, the scaling was no longer superlinear. The observed trends can be interpreted as a fundamental switch in the emergent collective behaviour of media producers and consumers."
+  },
+  {
+    "objectID": "publication/2022-04-05-scaling-beyond-cities/index.html",
+    "href": "publication/2022-04-05-scaling-beyond-cities/index.html",
+    "title": "Sacaling beyond cities",
+    "section": "",
+    "text": "City population size is a crucial measure when trying to understand urban life. Many socio-economic indicators scale superlinearly with city size, whilst some infrastructure indicators scale sublinearly with city size. However, the impact of size also extends beyond the city’s limits. Here, we analyse the scaling behaviour of cities beyond their boundaries by considering the emergence and growth of nearby cities. Based on an urban network from African continental cities, we construct an algorithm to create the region of influence of cities. The number of cities and the population within a region of influence are then analysed in the context of urban scaling. Our results are compared against a random permutation of the network, showing that the observed scaling power of cities to enhance the emergence and growth of cities is not the result of randomness. By altering the radius of influence of cities, we observe three regimes. Large cities tend to be surrounded by many small towns for small distances. For medium distances (above 114 km), large cities are surrounded by many other cities containing large populations. Large cities boost urban emergence and growth (even more than 190 km away), but their scaling power decays with distance."
+  },
+  {
+    "objectID": "publication/2022-04-05-scaling-beyond-cities/index.html#abstract",
+    "href": "publication/2022-04-05-scaling-beyond-cities/index.html#abstract",
+    "title": "Sacaling beyond cities",
+    "section": "",
+    "text": "City population size is a crucial measure when trying to understand urban life. Many socio-economic indicators scale superlinearly with city size, whilst some infrastructure indicators scale sublinearly with city size. However, the impact of size also extends beyond the city’s limits. Here, we analyse the scaling behaviour of cities beyond their boundaries by considering the emergence and growth of nearby cities. Based on an urban network from African continental cities, we construct an algorithm to create the region of influence of cities. The number of cities and the population within a region of influence are then analysed in the context of urban scaling. Our results are compared against a random permutation of the network, showing that the observed scaling power of cities to enhance the emergence and growth of cities is not the result of randomness. By altering the radius of influence of cities, we observe three regimes. Large cities tend to be surrounded by many small towns for small distances. For medium distances (above 114 km), large cities are surrounded by many other cities containing large populations. Large cities boost urban emergence and growth (even more than 190 km away), but their scaling power decays with distance."
+  },
+  {
+    "objectID": "publication/2020-04-15-uncovering-road-traffic/index.html",
+    "href": "publication/2020-04-15-uncovering-road-traffic/index.html",
+    "title": "Uncovering the behaviour of road accidents in urban areas",
+    "section": "",
+    "text": "Different patterns in the incidence of road accidents are revealed when considering areas with increased levels of urbanization. To understand these patterns, road accident data from England and Wales is explored. In particular, the data are used to (i) generate time series for comparison of the incidence of road accidents in urban as opposed to rural areas, (ii) analyse the relationship between the number of road accidents and the population size of a set of urban areas, and (iii) model the likelihood of suffering an accident in an urban area and its dependence with population size. It is observed that minor and serious accidents are more frequent in urban areas, whereas fatal accidents are more likely in rural areas. It is also shown that, generally, the number of accidents in an urban area depends on population size superlinearly, with this superlinear behaviour becoming stronger for lower degrees of severity. Finally, given an accident in an urban area, the probability that the accident is fatal or serious decreases with population size and the probability that it is minor, increases sublinearly. These findings promote the question as to why such behaviours exist, the answer to which will lead to more sustainable urban policies."
+  },
+  {
+    "objectID": "publication/2020-04-15-uncovering-road-traffic/index.html#abstract",
+    "href": "publication/2020-04-15-uncovering-road-traffic/index.html#abstract",
+    "title": "Uncovering the behaviour of road accidents in urban areas",
+    "section": "",
+    "text": "Different patterns in the incidence of road accidents are revealed when considering areas with increased levels of urbanization. To understand these patterns, road accident data from England and Wales is explored. In particular, the data are used to (i) generate time series for comparison of the incidence of road accidents in urban as opposed to rural areas, (ii) analyse the relationship between the number of road accidents and the population size of a set of urban areas, and (iii) model the likelihood of suffering an accident in an urban area and its dependence with population size. It is observed that minor and serious accidents are more frequent in urban areas, whereas fatal accidents are more likely in rural areas. It is also shown that, generally, the number of accidents in an urban area depends on population size superlinearly, with this superlinear behaviour becoming stronger for lower degrees of severity. Finally, given an accident in an urban area, the probability that the accident is fatal or serious decreases with population size and the probability that it is minor, increases sublinearly. These findings promote the question as to why such behaviours exist, the answer to which will lead to more sustainable urban policies."
+  },
+  {
+    "objectID": "publication/2024-08-01-migration-covid-mexico-spanish/index.html",
+    "href": "publication/2024-08-01-migration-covid-mexico-spanish/index.html",
+    "title": "COVID-19 y movimientos de población entre la jerarquía urbana en México. Un análisis utilizando datos digitales",
+    "section": "",
+    "text": "Estudios previos en países del Norte Glo-bal han documentado un descenso de los movi-mientos internos de población durante la pande-mia de COVID-19, acompañado de un aumento de los desplazamientos desde las grandes ciudades hacia áreas menos densamente pobladas. Sin em-bargo, no hay evidencias consistentes sobre el efec-to de la pandemia en los movimientos de población a través de la jerarquía urbana en el Sur Global. En esta investigación se utilizan datos de telefonía mó-vil de usuarios de Facebook entre abril de 2020 y mayo de 2022 para analizar cómo cambiaron las intensidades y los patrones de movilidad de larga distancia (&gt;100 km) entre diferentes categorías de densidad de población durante la COVID-19 en Mé-xico. Los resultados muestran un descenso del 40% en los movimientos de usuarios en el periodo de abril a diciembre de 2020. Al contrario que en los países desarrollados, no se identificó un aumento en los desplazamientos desde las grandes ciuda-des, sino un descenso generalizado tanto en los flu-jos de salida como en los de entrada en todas las categorías de densidad de población, excepto en los movimientos interrurales. Además, la mayor reducción se registró en los desplazamientos des-de y hacia las grandes ciudades, que cayeron 50%. Al igual que en el Norte Global, las intensida-des y los patrones de movilidad recuperaron pro-gresivamente los valores y tendencias observa-dos con anterioridad a la COVID-19 durante 2021 y 2022, aunque las grandes ciudades mostraron una recuperación más lenta y siguieron registran-do movimientos de salida y entrada ligeramente inferiores aún en mayo de 2022."
+  },
+  {
+    "objectID": "publication/2024-08-01-migration-covid-mexico-spanish/index.html#abstract",
+    "href": "publication/2024-08-01-migration-covid-mexico-spanish/index.html#abstract",
+    "title": "COVID-19 y movimientos de población entre la jerarquía urbana en México. Un análisis utilizando datos digitales",
+    "section": "",
+    "text": "Estudios previos en países del Norte Glo-bal han documentado un descenso de los movi-mientos internos de población durante la pande-mia de COVID-19, acompañado de un aumento de los desplazamientos desde las grandes ciudades hacia áreas menos densamente pobladas. Sin em-bargo, no hay evidencias consistentes sobre el efec-to de la pandemia en los movimientos de población a través de la jerarquía urbana en el Sur Global. En esta investigación se utilizan datos de telefonía mó-vil de usuarios de Facebook entre abril de 2020 y mayo de 2022 para analizar cómo cambiaron las intensidades y los patrones de movilidad de larga distancia (&gt;100 km) entre diferentes categorías de densidad de población durante la COVID-19 en Mé-xico. Los resultados muestran un descenso del 40% en los movimientos de usuarios en el periodo de abril a diciembre de 2020. Al contrario que en los países desarrollados, no se identificó un aumento en los desplazamientos desde las grandes ciuda-des, sino un descenso generalizado tanto en los flu-jos de salida como en los de entrada en todas las categorías de densidad de población, excepto en los movimientos interrurales. Además, la mayor reducción se registró en los desplazamientos des-de y hacia las grandes ciudades, que cayeron 50%. Al igual que en el Norte Global, las intensida-des y los patrones de movilidad recuperaron pro-gresivamente los valores y tendencias observa-dos con anterioridad a la COVID-19 durante 2021 y 2022, aunque las grandes ciudades mostraron una recuperación más lenta y siguieron registran-do movimientos de salida y entrada ligeramente inferiores aún en mayo de 2022."
+  },
+  {
+    "objectID": "publication/2023-10-03-time-concentration-network/index.html",
+    "href": "publication/2023-10-03-time-concentration-network/index.html",
+    "title": "The temporal concentration of travel demand in an urban transport network",
+    "section": "",
+    "text": "Suppose A and B are two stations within the mass rapid transit network of a city. Both stations see approximately the same average daily number of passengers entering and exiting their gates. However, passengers are evenly distributed at A, whereas activity is concentrated mainly during peak hours at B. Although the daily travel demand is the same for both stations, B requires more resources since the number of vehicles, station dimensions and staffing level must be tailored to meet the demands of peak hours. This hypothetical scenario underscores the need to quantify the concentration of travel demand for optimising resource allocation and planning efficiency in an urban transport network. To this end, we introduce a novel metric for assessing the temporal concentration of travel demand at different locations in a generic transport network. Our approach is validated using granular data sourced from smart travel cards, encompassing 272 London Underground (LU) stations. Additionally, we present a methodological framework based on Random Forests to identify attributes of the locations of interest within the transport network that contribute to varying levels of temporal concentration of travel demand. Our case study unveils that LU stations located in areas characterised by low residential, retail, and employment density, predominantly situated in outer London, exhibit the most pronounced temporal concentration of travel demand. Conversely, within inner London, stations servicing high-density employment zones, especially around the City of London, experience a greater temporal concentration of travel demand compared to those catering to commercial and residential districts, typically situated in West London."
+  },
+  {
+    "objectID": "publication/2023-10-03-time-concentration-network/index.html#abstract",
+    "href": "publication/2023-10-03-time-concentration-network/index.html#abstract",
+    "title": "The temporal concentration of travel demand in an urban transport network",
+    "section": "",
+    "text": "Suppose A and B are two stations within the mass rapid transit network of a city. Both stations see approximately the same average daily number of passengers entering and exiting their gates. However, passengers are evenly distributed at A, whereas activity is concentrated mainly during peak hours at B. Although the daily travel demand is the same for both stations, B requires more resources since the number of vehicles, station dimensions and staffing level must be tailored to meet the demands of peak hours. This hypothetical scenario underscores the need to quantify the concentration of travel demand for optimising resource allocation and planning efficiency in an urban transport network. To this end, we introduce a novel metric for assessing the temporal concentration of travel demand at different locations in a generic transport network. Our approach is validated using granular data sourced from smart travel cards, encompassing 272 London Underground (LU) stations. Additionally, we present a methodological framework based on Random Forests to identify attributes of the locations of interest within the transport network that contribute to varying levels of temporal concentration of travel demand. Our case study unveils that LU stations located in areas characterised by low residential, retail, and employment density, predominantly situated in outer London, exhibit the most pronounced temporal concentration of travel demand. Conversely, within inner London, stations servicing high-density employment zones, especially around the City of London, experience a greater temporal concentration of travel demand compared to those catering to commercial and residential districts, typically situated in West London."
+  },
+  {
+    "objectID": "project/2021-01-01-useR-2021/index.html",
+    "href": "project/2021-01-01-useR-2021/index.html",
+    "title": "useR!2021 Cost Conversion Tool",
+    "section": "",
+    "text": "I created a cost conversion tool used for the useR!2021 Conference to adapt conference and sponsorship fees according to the country of residence. The cost conversion was done according to Gross Domestic Product (GDP) adjusted by Purchasing Power Parity (PPP) provided by the World Bank. We wanted conference attendees and sponsors from different parts of the world to be able to participate in useR! and believed that this is a fair approach. It reflects the reality that attendees and sponsors from “High income” countries have a different purchasing power than those from “Low income” countries. The income categories and cost conversions are listed in a data table created in R that attendees can use to search for their country and attendee status if applicable (i.e. Industry, Academia, Student). They can use a built-in search bar, or filter according to a specific column.\nYou can read more about purchasing power parities, price level indexes, and PPP-based expenditures in the May 2020 World Bank post New results from the International Comparison Program shed light on the size of the global economy.\nThe Global Income Groups listed in the fee tables below were obtained using data from the 2017 International Comparison Program (ICP) which you can read more about in the report Purchasing Power Parities and the Size of World Economies: Results from the 2017 International Comparison Program. The conversion factors were calculated using PPP-based GDP per capita for each Global Income Group using data from the ICP 2017 World Bank Database.\n\n\n\n Back to topCitationFor attribution, please cite this work as:\nCanelón, Silvia. 2021. “useR!2021 Cost Conversion Tool.”\nJanuary 1, 2021. https://username.github.io/cabrera-arnau/project/2021-01-01-useR-2021/."
+  },
+  {
+    "objectID": "project/2020-11-03-xaringan-nhs-r/index.html#workshop",
+    "href": "project/2020-11-03-xaringan-nhs-r/index.html#workshop",
+    "title": "Sharing Your Work with xaringan",
+    "section": "Workshop",
+    "text": "Workshop\nDay 1 covers the nuts and bolts of creating presentation slides using xaringan and deploying them in HTML format for easy sharing with others.\nDay 2 covers how to take your slides to the next level with the xaringanExtra package and how to customize slides with CSS.\nThis workshop is designed for R users already familiar with R Markdown and GitHub."
+  },
+  {
+    "objectID": "project/2023-04-18-r-for-the-rest-of-us/index.html",
+    "href": "project/2023-04-18-r-for-the-rest-of-us/index.html",
+    "title": "R for the Rest of Us Podcast: Episode #7",
+    "section": "",
+    "text": "From David Keyes of R for the Rest of Us:\n\nIn this episode, I talk with Silvia Canelón, a postdoctoral research scientist in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania. Silvia shares why she loves using xaringan to create captivating, audience-friendly presentations directly from R markdown. Making presentations with R Markdown not only saves her time, but also eases the stress associated with updating and distributing presentations.\n\n\n\n\n Back to topCitationFor attribution, please cite this work as:\nCanelón, Silvia. 2023. “R for the Rest of Us Podcast: Episode\n#7.” April 18, 2023. https://username.github.io/cabrera-arnau/project/2023-04-18-r-for-the-rest-of-us/."
+  },
+  {
+    "objectID": "project/index.html",
+    "href": "project/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Philly Center City District SIPS: An Interactive Map\n\n\n\nR\n\n\nmaps\n\n\nwebscraping\n\n\nrobotstxt\n\n\nrvest\n\n\nleaflet\n\n\ntidygeocoder\n\n\n\n\nJun 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR for the Rest of Us Podcast: Episode #7\n\n\n\nR\n\n\nxaringan\n\n\nR Markdown\n\n\npodcast\n\n\n\n\nApr 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessional, Polished, Presentable\n\n\n\nR\n\n\nxaringan\n\n\nR\n\n\nEducation\n\n\n\n\nJul 7, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTidyTuesdayAltText\n\n\n\nR\n\n\nTidyTuesday\n\n\nTidyTuesdayAltText\n\n\naccessibility\n\n\nPackage\n\n\n\n\nMay 4, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nuseR!2021 Cost Conversion Tool\n\n\n\nuseR\n\n\ntidyverse\n\n\nR\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnseñar Tecnología en Comunidad\n\n\n\nEducation\n\n\nEspañol\n\n\n\n\nDec 28, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnhsr CSS Theme for xaringan\n\n\n\nR\n\n\nxaringan\n\n\ncss\n\n\n\n\nDec 9, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSharing Your Work with xaringan\n\n\n\nR\n\n\nxaringan\n\n\nEducation\n\n\n\n\nNov 3, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nxaringan CSS Theme for nhsrtheme\n\n\n\nOct 29, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing the Inside Journey of Recovery from Opioid Use Disorder\n\n\n\nEducation\n\n\ndata hack\n\n\nopioid\n\n\n\n\nMar 25, 2020\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "project/2020-12-28-teaching-tech-together-es/index.html",
+    "href": "project/2020-12-28-teaching-tech-together-es/index.html",
+    "title": "Enseñar Tecnología en Comunidad",
+    "section": "",
+    "text": "Este proyecto llevó acabo la traducción al castellano del libro Teaching Tech Together escrito por Greg Wilson. El proyecto fue coordinado por mi amiga y colega Yanina Bellini Saibene.\nYo participé como traductora del capítulo “Motivation and Demotivation” y revisora del capítulo “Expertise and Memory.”\n\nSeptiembre de 2020 – Diciembre de 2020. Traducción colaborativa al castellano del libro “Teaching Tech Together. How to create and deliver lessons that work and build a teaching community around them” de Greg Wilson (2019, Taylor & Francis, ISBN 978-0-367-35328-5, https://teachtogether.tech/). Coordinación general de la traducción: Yanina Bellini Saibene; Edición general: Yanina Bellini Saibene y Natalia Morandeira. Participación como traductora y revisora de capítulos. Más información y grupo de traductoras: https://github.com/gvwilson/teachtogether.tech/blob/master/es/README.md"
+  },
+  {
+    "objectID": "project/2020-12-28-teaching-tech-together-es/index.html#proyecto",
+    "href": "project/2020-12-28-teaching-tech-together-es/index.html#proyecto",
+    "title": "Enseñar Tecnología en Comunidad",
+    "section": "",
+    "text": "Este proyecto llevó acabo la traducción al castellano del libro Teaching Tech Together escrito por Greg Wilson. El proyecto fue coordinado por mi amiga y colega Yanina Bellini Saibene.\nYo participé como traductora del capítulo “Motivation and Demotivation” y revisora del capítulo “Expertise and Memory.”\n\nSeptiembre de 2020 – Diciembre de 2020. Traducción colaborativa al castellano del libro “Teaching Tech Together. How to create and deliver lessons that work and build a teaching community around them” de Greg Wilson (2019, Taylor & Francis, ISBN 978-0-367-35328-5, https://teachtogether.tech/). Coordinación general de la traducción: Yanina Bellini Saibene; Edición general: Yanina Bellini Saibene y Natalia Morandeira. Participación como traductora y revisora de capítulos. Más información y grupo de traductoras: https://github.com/gvwilson/teachtogether.tech/blob/master/es/README.md"
+  },
+  {
+    "objectID": "project/2020-10-29-nhsrtheme/index.html",
+    "href": "project/2020-10-29-nhsrtheme/index.html",
+    "title": "xaringan CSS Theme for nhsrtheme",
+    "section": "",
+    "text": "In preparation for a xaringan workshop I created for the NHS-R 2020 Conference, I designed a custom CSS theme with input from the NHS-R Community that followed the NHS identity guidelines. This theme was also contributed to the xaringan package developed by Yihui Xie."
+  },
+  {
+    "objectID": "project/2020-10-29-nhsrtheme/index.html#theme",
+    "href": "project/2020-10-29-nhsrtheme/index.html#theme",
+    "title": "xaringan CSS Theme for nhsrtheme",
+    "section": "",
+    "text": "In preparation for a xaringan workshop I created for the NHS-R 2020 Conference, I designed a custom CSS theme with input from the NHS-R Community that followed the NHS identity guidelines. This theme was also contributed to the xaringan package developed by Yihui Xie."
+  },
+  {
+    "objectID": "courses/2023-07-01-dfd4mobility/index.html",
+    "href": "courses/2023-07-01-dfd4mobility/index.html",
+    "title": "Using Digital Footprint Data to Measure and Monitor Human Mobility",
+    "section": "",
+    "text": "URL: fcorowe.github.io/dfd4mobility/\nDescription: This workshop offers an introduction to the use of digital footprint data from Meta-Facebook to analyse internal population movements. We will cover how to use location data collected via digital technology to develop data products to analyse human mobility. We will also illustrate how these data can be used to create statistical indicators and geographic data visualisations to extract insightful information, monitor mobility trends and identify key areas of origin and destination. The workshop will use an applied, hands-on approach in R via computational notebooks.\nContents: 1. Meta-Facebook data introduction 2. Temporal patterns 3. Spatial patterns\nDelivery: as a training workshop for a non-academic audience, at UN-CELADE.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "courses/2023-09-01-nets4gis/index.html",
+    "href": "courses/2023-09-01-nets4gis/index.html",
+    "title": "An Introduction to Network Analysis for GIS",
+    "section": "",
+    "text": "URL: crmnca.github.io/nets4gis/\nDescription: This workshop offers an introduction to Network Analysis. It provides an overview of the most fundamental concepts and methods of Network Analysis, some of which are particularly relevant for GIScience. The workshop follows a hands-on approach through a series of computational activities in R.\nContents: 1. Prerequisites 2. Introduction to the basics of network analysis 3. The African road network 4. Percolation theory\nDelivery: as a workshop at GIScience 2023 and at the Annual Conference of the British Society for Population Studies.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.\n\n  \n\n\n\n\n Back to top"
+  }
+]

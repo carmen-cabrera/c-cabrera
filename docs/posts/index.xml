@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Carmen Cabrera-Arnau</title>
+<link>https://username.github.io/cabrera-arnau/posts/</link>
+<atom:link href="https://username.github.io/cabrera-arnau/posts/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.55</generator>
+<lastBuildDate>Tue, 10 Sep 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Workshop – An introduction to spatial network analysis</title>
+  <link>https://username.github.io/cabrera-arnau/posts/2024-08-22-bsps-workshop/</link>
+  <description><![CDATA[ 
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="workshop-description" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-description">Workshop description</h2>
+<p>The workshop will offer an introduction to spatial network analysis. I will provide an overview of the most fundamental concepts and methods of Network Analysis, some of which are particularly relevant for the study of populations, human mobility and more generally, geographic data. The workshop is designed to last 90 minutes and it follows a hands-on approach through a series of computational activities in R, available in the <a href="https://crmnca.github.io/nets4gis/">workshop’s website</a>.</p>
+<p>PLEASE, register through <a href="https://forms.gle/MgVccyCQ18DyZDcT9">this form</a> <strong>by the 4th of September</strong> to ensure you receive all the information about pre-requisites for the workshop.</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Workshop</category>
+  <guid>https://username.github.io/cabrera-arnau/posts/2024-08-22-bsps-workshop/</guid>
+  <pubDate>Tue, 10 Sep 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://username.github.io/cabrera-arnau/posts/2024-08-22-bsps-workshop/featured.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Fully Funded PhD studentship</title>
+  <link>https://username.github.io/cabrera-arnau/posts/2024-06-30-case-studentship/</link>
+  <description><![CDATA[ 
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="project-description" class="level2">
+<h2 class="anchored" data-anchor-id="project-description">Project Description</h2>
+<p>This project aims to determine the role of the spatial structure of urban activities and spatial socioeconomic segregation on the speed and geography of infectious disease spreading across socioeconomic groups. The research involves a partnership with the UK Health Security Agency (UKHSA), and will seek to learn lessons from the COVID-19 pandemic for future health crises, drawing on Second Generation Surveillance System and Respiratory DataMart data. Specifically, the project seeks to:</p>
+<ul>
+<li><p>Determine the extent to which differences in the spatial structure of urban activities shape the rate of disease transmission;</p></li>
+<li><p>Assess how different configurations of the spatial structure of urban activities relate to variations in local levels of socioeconomic segregation;</p></li>
+<li><p>Evaluate differences in the effects of nonphamaceuthical interventions on contagion exposure across different socioeconomic groups as a function of the spatial structure of urban activities and socioeconomic segregation.</p></li>
+</ul>
+</section>
+<section id="skill-requirements" class="level2">
+<h2 class="anchored" data-anchor-id="skill-requirements">Skill requirements</h2>
+<p>The project requires the following essential quantitative data science skills, including the capacity to analyse spatial data and / or infections data, GIS, and coding skills in R and / or Python. Desirable skills include knowledge and experience using machine learning, network analysis and simulation methods; the use of GPS mobile phone data; and, experience in writing research academic articles.</p>
+</section>
+<section id="training" class="level2">
+<h2 class="anchored" data-anchor-id="training">Training</h2>
+<p>For exceptional applicant candidates, training can be provided in one or more of the skills required for the project.</p>
+</section>
+<section id="supervisors-for-this-project" class="level2">
+<h2 class="anchored" data-anchor-id="supervisors-for-this-project">Supervisors for this project</h2>
+<p>Geographic Data Science Lab, University of Liverpool: Francisco Rowe (fcorowe@liverpool.ac.uk) and Carmen Cabrera-Arnau (C.Cabrera-Arnau@liverpool.ac.uk) UKHSA: Donna Clarke and Lorenzo Cattarino Funding Notes The studentship is co-funded by the ESRC’s North West Social Science Doctoral Training Partnership and the UKHSA. The studentship is open for UK and international students. It is supported for 3 years and includes full tuition fees plus a tax-free stipend (starting at £19,237 for 2024/25 and increasing year by year). Funds for training activities, travel and accommodation, and visits to the UKHSA offices will also be available. A £2,000 bonus per year may be available from UKHSA, subject to funding availability. For more information about the funding, see the NWSSDTP (North West Social Science Doctoral Training Partnership) student handbook at: https://nwssdtp.ac.uk/current-students/</p>
+</section>
+<section id="how-to-apply" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-apply">How to apply</h2>
+<p>Candidates wishing to apply should complete the University of Liverpool application form How to apply for a PhD - University of Liverpool applying for a PhD in Geography (Desk based).</p>
+<p>To complete the online application, you’ll need:</p>
+<ul>
+<li>School or college transcripts/certificates<br>
+</li>
+<li>University transcripts<br>
+</li>
+<li>Degree certificates<br>
+</li>
+<li>English language certificates (International applicants)<br>
+</li>
+<li>A covering letter/personal statement<br>
+</li>
+<li>Two signed references on letterheaded paper (these should be academic references - if you have been in full-time education in the last three years)</li>
+</ul>
+<p><strong>Deadline: 30th of June, 2024</strong></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>PhD opportunity</category>
+  <guid>https://username.github.io/cabrera-arnau/posts/2024-06-30-case-studentship/</guid>
+  <pubDate>Sat, 29 Jun 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://username.github.io/cabrera-arnau/posts/2024-06-30-case-studentship/featured.png" medium="image" type="image/png" height="92" width="144"/>
+</item>
+</channel>
+</rss>
