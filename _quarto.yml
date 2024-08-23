@@ -31,6 +31,9 @@ website:
       - text: Publications
         aria-label: "Publications"
         href: publication/index.qmd
+      - text: Projects
+        aria-label: "Projects"
+        href: project/index.qmd
       - text: Courses 
         aria-label: "Courses"
         href: courses/index.qmd  
