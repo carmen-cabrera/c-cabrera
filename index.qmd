@@ -45,60 +45,56 @@ resources:
 
 <br><br>
 
-
 ::: {#hero-heading}
+Carmen Cabrera-Arnau is a **Lecturer in Geographic Data Science** (Assistant Professor) at the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), within the [University of Liverpool](https://www.liverpool.ac.uk/)'s [Department of Geography and Planning](https://www.liverpool.ac.uk/geography-and-planning/). Her areas of expertise are geographic data science, human mobility, network analysis and mathematical modelling. Carmen's research focuses on developing quantitative frameworks to model and predict **human mobility patterns across spatiotemporal scales and population groups**, ranging from intraurban commutes to migratory movements. She is particularly interested in establishing methodologies to facilitate the efficient and reliable use of new forms of digital trace data in the study of human movement.
 
-Carmen Cabrera-Arnau is a **Lecturer in Geographic Data Science** (Assistant Professor) at the University of Liverpool. Her areas of expertise are geographic data science, human mobility, network analysis and mathematical modelling. Carmen's research focuses on developing quantitative frameworks to model and predict **human mobility patterns across spatiotemporal scales and population groups**, ranging from intraurban commutes to migratory movements. She is particularly interested in establishing methodologies to facilitate the efficient and reliable use of new forms of digital trace data in the study of human movement. 
-
-Prior to her position as a Lecturer, Carmen completed a BSc in Physics, followed by an MSc in Complex Systems, specialising in Network Analysis. She then did a PhD in Applied Mathematics at University College London (UCL), focusing on the development of mathematical models of social behaviours in urban areas, against the theoretical backdrop of agglomeration economies. After graduating from her PhD in 2021, she was a Research Fellow in Urban Mobility at the Centre for Advanced Spatial Analysis (CASA), at UCL, where she currently holds a honorary position. 
-
+Prior to her position as a Lecturer, Carmen completed a BSc in Physics, followed by an MSc in Complex Systems, specialising in Network Analysis. She then did a PhD in Applied Mathematics at University College London (UCL), focusing on the development of mathematical models of social behaviours in urban areas, against the theoretical backdrop of agglomeration economies. After graduating from her PhD in 2021, she was a Research Fellow in Urban Mobility at the [Centre for Advanced Spatial Analysis](https://www.ucl.ac.uk/bartlett/casa) (CASA), at UCL, where she currently holds a honorary position.
 
 **Download Carmen's [CV](assets/media/CV.pdf)**
 
-<br>
+**Email:** c.cabrera-arnau [ at ] liverpool.ac.uk
 
 :::
 
-
-
 ## About me
-::: {.grid}
 
-::: {.g-col-6 #about-me-1}
-
+::: grid
+::: {#about-me-1 .g-col-6}
 **Interests**
 
 <ul class="fa-ul">
-   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span>Human mobility</li>
-   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span>Geographic Data Science</li>
-   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span>Network theory</li>
-   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span>Urban structure</li>
-   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span>Socieconomic inequalities</li>
-   
+
+<li><i class="fa-solid fa-certificate"></i>Human mobility</li>
+
+<li><i class="fa-solid fa-certificate"></i>Geographic Data Science</li>
+
+<li><i class="fa-solid fa-certificate"></i>Network theory</li>
+
+<li><i class="fa-solid fa-certificate"></i>Urban structure</li>
+
+<li><i class="fa-solid fa-certificate"></i>Socieconomic inequalities</li>
 
 </ul>
-
 :::
 
-::: {.g-col-6 #about-me-2}
-
+::: {#about-me-2 .g-col-6}
 **Education**
 
 <ul class="fa-ul">
-   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>PhD in Applied Mathematics ∙ UCL ∙ 2021</li>
 
-   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>MSc in Complex Systems ∙ King's College London ∙ 2017</li>
+<li><i class="fa-solid fa-graduation-cap"></i>PhD in Applied Mathematics ∙ UCL ∙ 2021</li>
 
-   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>B.S. in Physics ∙ University of Valencia (year abroad at Imperial College London) ∙ 2016</li>
+<li><i class="fa-solid fa-graduation-cap"></i>MSc in Complex Systems ∙ King's College London ∙ 2017</li>
+
+<li><i class="fa-solid fa-graduation-cap"></i>B.S. in Physics ∙ University of Valencia (year abroad at Imperial College London) ∙ 2016</li>
+
 </ul>
-
+:::
 :::
 
-
-:::
 <!-- end grid -->
 
-
+````{=html}
 <!--
 ```{r write-manual-redirects}
 
@@ -114,3 +110,4 @@ writeLines(manual_redirects, here::here("_site", "_redirects"))
 
 ```
 -->
+````
