@@ -2,13 +2,13 @@
 title: "Carmen Cabrera-Arnau"
 pagetitle: "Carmen Cabrera-Arnau"
 subtitle: "Lecturer in Geographic Data Science"
-image: assets/cca/img/avatar.png
+image: docs/assets/media/avatar.png
 
 twitter-card:
     title: Carmen Cabrera-Arnau
     description: |
       Lecturer in Geographic Data Science.
-    image: assets/cca/img/avatar.png
+    image: docs/assets/media/avatar.png
 
 about:
   template: trestles

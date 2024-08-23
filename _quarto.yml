@@ -1,9 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Carmen Cabrera-Arnau"
-  site-url: https://silviacanelon.com
+  site-url: https://username.github.io/cabrera-arnau/
   favicon: assets/cca/img/logo_rounded.svg
   page-navigation: true
   back-to-top-navigation: true
@@ -13,7 +14,7 @@ website:
     card-style: summary_large_image
   comments: 
     utterances: 
-      repo: spcanelon/silvia 
+      repo: CrmnCA/cabrera-arnau 
       label: utterances
       theme: body-light
       issue-term: title
