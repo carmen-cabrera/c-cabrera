@@ -1,0 +1,29 @@
+---
+title: "The temporal concentration of travel demand in an urban transport network"
+author: 
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Liang Wei Ng
+- Howard Wong
+- Chen Zhong
+date: '2023-10-03'
+slug: time-concentration-network 
+image: featured.png
+categories:
+  - Research 
+  - Urban mobility
+  - Transport network
+  - Spatio-temporal variability
+description: 'Temporal concentration of travel demand'
+# doi-title: Scientific Reports (DOI)
+# doi: "10.1038/s41598-022-24218-1"
+subtitle: A metric is proposed to measure the temporal concentration of travel demand across the underground network in London. A methodology is proposed to understand the spatial variability and the drivers of the temporal concentration of travel demand. The analysis uses smart travel card data facilitated by Transport for London.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.48550/arXiv.2310.02385
+---
+
+## Abstract
+
+Suppose A and B are two stations within the mass rapid transit network of a city. Both stations see approximately the same average daily number of passengers entering and exiting their gates. However, passengers are evenly distributed at A, whereas activity is concentrated mainly during peak hours at B. Although the daily travel demand is the same for both stations, B requires more resources since the number of vehicles, station dimensions and staffing level must be tailored to meet the demands of peak hours. This hypothetical scenario underscores the need to quantify the concentration of travel demand for optimising resource allocation and planning efficiency in an urban transport network. To this end, we introduce a novel metric for assessing the temporal concentration of travel demand at different locations in a generic transport network. Our approach is validated using granular data sourced from smart travel cards, encompassing 272 London Underground (LU) stations. Additionally, we present a methodological framework based on Random Forests to identify attributes of the locations of interest within the transport network that contribute to varying levels of temporal concentration of travel demand. Our case study unveils that LU stations located in areas characterised by low residential, retail, and employment density, predominantly situated in outer London, exhibit the most pronounced temporal concentration of travel demand. Conversely, within inner London, stations servicing high-density employment zones, especially around the City of London, experience a greater temporal concentration of travel demand compared to those catering to commercial and residential districts, typically situated in West London.

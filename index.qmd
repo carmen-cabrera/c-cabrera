@@ -1,0 +1,116 @@
+---
+title: "Carmen Cabrera-Arnau"
+pagetitle: "Carmen Cabrera-Arnau"
+subtitle: "Lecturer in Geographic Data Science"
+image: assets/cca/img/avatar.png
+
+twitter-card:
+    title: Carmen Cabrera-Arnau
+    description: |
+      Lecturer in Geographic Data Science.
+    image: assets/cca/img/avatar.png
+
+about:
+  template: trestles
+  image-width: 28em
+  id: hero-heading
+  links:
+    - icon: twitter
+      aria-label: Twitter
+      href: https://twitter.com/CarmenCabArn
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/CrmnCA
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://www.linkedin.com/in/carmen-cabrera-arnau/
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-2732-6436
+    - text: "{{< ai google-scholar >}}"
+      aria-label: "Google Scholar"
+      href: https://scholar.google.com/citations?hl=en&user=qAvR9zgAAAAJ
+      
+page-layout: full
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
+
+header-includes: >
+  <link rel="stylesheet" href="assets/index.css">
+resources:
+  - assets/index.css
+---
+
+<br><br>
+
+
+::: {#hero-heading}
+
+Carmen Cabrera-Arnau is a **Lecturer in Geographic Data Science** (Assistant Professor) at the University of Liverpool. Her areas of expertise are geographic data science, human mobility, network analysis and mathematical modelling. Carmen's research focuses on developing quantitative frameworks to model and predict **human mobility patterns across spatiotemporal scales and population groups**, ranging from intraurban commutes to migratory movements. She is particularly interested in establishing methodologies to facilitate the efficient and reliable use of new forms of digital trace data in the study of human movement. 
+
+Prior to her position as a Lecturer, Carmen completed a BSc in Physics, followed by an MSc in Complex Systems, specialising in Network Analysis. She then did a PhD in Applied Mathematics at University College London (UCL), focusing on the development of mathematical models of social behaviours in urban areas, against the theoretical backdrop of agglomeration economies. After graduating from her PhD in 2021, she was a Research Fellow in Urban Mobility at the Centre for Advanced Spatial Analysis (CASA), at UCL, where she currently holds a honorary position. 
+
+
+**Download my [CV](assets/media/CV.pdf)**
+
+<br>
+
+:::
+
+
+
+## About me
+::: {.grid}
+
+::: {.g-col-6 #about-me-1}
+
+**Interests**
+
+<ul class="fa-ul">
+   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span>Human mobility</li>
+   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span>Geographic Data Science</li>
+   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span>Network theory</li>
+   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span>Urban structure</li>
+   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span>Socieconomic inequalities</li>
+   
+
+</ul>
+
+:::
+
+::: {.g-col-6 #about-me-2}
+
+**Education**
+
+<ul class="fa-ul">
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>PhD in Applied Mathematics ∙ UCL ∙ 2021</li>
+
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>MSc in Complex Systems ∙ King's College London ∙ 2017</li>
+
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>B.S. in Physics ∙ University of Valencia ∙ 2016</li>
+</ul>
+
+:::
+
+
+:::
+<!-- end grid -->
+
+
+<!--
+```{r write-manual-redirects}
+
+manual_redirects <-
+  readr::read_table(here::here("static", "_manualredirects.txt"),
+                    col_names = FALSE) |> 
+  dplyr::mutate(redirect = paste0(X1, " ", X2, " ", X3))
+
+manual_redirects <- manual_redirects$redirect
+
+# write the _redirect file
+writeLines(manual_redirects, here::here("_site", "_redirects"))
+
+```
+-->

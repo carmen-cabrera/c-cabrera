@@ -1,0 +1,31 @@
+---
+title: "Temporal and spatial analysis of the media spotlight"
+author:
+- Rafael Prieto Curiel
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Mara Torres Pinedo
+- Humberto González Ramírez
+- Steven R. Bishop
+date: '2019-05-01'
+slug: media-spotlight
+image: featured.png
+categories:
+  - Research
+  - Urban scaling
+  - Time series analysis
+  - Media coverage
+  - Mexico
+description: 'Methods X'
+subtitle: Study of the spatiotemporal variation of the media coverage following a natural disaster affecting multiple Mexican cities
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://www.sciencedirect.com/science/article/pii/S0198971518303995
+---
+
+## Abstract
+
+Items featured in the news usually have a particular novelty or describe events which result in severe impact. Here, the length of time that a story remains in the media spotlight is investigated as well as the scaling with population size of the amount of attention that the media gives to stories from different cities. Based on Twitter feeds, the media coverage from the major online newspapers in Mexico is analysed over a period either side of a recent powerful earthquake. The amount of coverage given to earthquake-related stories had an initial peak and then exhibited an exponential decay, dropping by half every eight days. Furthermore, the coverage per person usually exhibits a superlinear scaling with population size, so that stories about larger cities are more likely to appear in the news. However, during the immediate post-earthquake weeks, the scaling was no longer superlinear. The observed trends can be interpreted as a fundamental switch in the emergent collective behaviour of media producers and consumers.
+
+

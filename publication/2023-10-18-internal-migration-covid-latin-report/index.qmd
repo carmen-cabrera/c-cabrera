@@ -1,0 +1,31 @@
+---
+title: "Reduced mobility? Urban exodus? Medium-term impacts of the COVID-19 pandemic on internal population movements in Latin American countries"
+author: 
+- Francisco Rowe
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Miguel González-Leonardo
+- Ruth Neville
+- Andrea Nasuto
+
+date: '2024-01-30'
+slug: urban-exo-latin
+image: featured.png
+categories:
+  - Research article
+  - Internal mobility
+  - Facebook data
+  - Covid-19
+  - Latin Americo
+description: 'Internal mobility in Latin America'
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://pure.iiasa.ac.at/19447
+---
+
+## Abstract
+
+The COVID-19 pandemic has impacted the national systems of population movement around the world. Existing work has focused on countries of the Global North and restricted to the immediate effects of COVID-19 data during 2020. Data have represented a major limitation to monitor change in mobility patterns in countries in the Global South. Drawing on aggregate anonymised mobile phone location data from Meta-Facebook users, we aim to analyse the extent and persistence of changes in the levels (or intensity) and spatial patterns of internal population movement across the rural-urban continuum in Argentina, Chile and Mexico over a 26-month period from March 2020 to May 2022. We reveal an overall systematic decline in the level of short- and long-distance movement during the enactment of nonpharmaceutical interventions in 2020, with the largest reductions occurred in the most dense areas. We also show that these levels bounced back closer to pre-pandemic levels in 2022 following the relaxation of COVID-19 stringency measures. However, the intensity of these movements has remained below pre-pandemic levels in many areas in 2022. Additionally our findings lend some support to the idea of an urban exodus. They reveal a continuing negative net balances of short-distance movements in the most dense areas of capital cities in Argentina and Mexico, reflecting a pattern of suburbanisation. Chile displays limited changes in the net balance of short-distance movements but reports a net loss of long-distance movements. These losses were, however, temporary, moving to neutral and positive balances in 2021 and 2022.
+

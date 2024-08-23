@@ -1,0 +1,80 @@
+project:
+  type: website
+
+website:
+  title: "Carmen Cabrera-Arnau"
+  site-url: https://silviacanelon.com
+  favicon: assets/cca/img/logo_rounded.svg
+  page-navigation: true
+  back-to-top-navigation: true
+  twitter-card:
+    creator: "@carmencabarn"
+    site: "@carmencabarn"
+    card-style: summary_large_image
+  comments: 
+    utterances: 
+      repo: spcanelon/silvia 
+      label: utterances
+      theme: body-light
+      issue-term: title
+ 
+  navbar:
+
+    right:
+      - text: Recent activity
+        aria-label: "Recent activity"
+        href: recent/index.qmd
+      - text: Posts
+        aria-label: "Posts"
+        href: posts/index.qmd
+      - text: Publications
+        aria-label: "Publications"
+        href: publication/index.qmd
+      - text: Courses 
+        aria-label: "Courses"
+        href: courses/index.qmd  
+
+  
+  page-footer:  
+    left: >-
+     &#169; 2024 Carmen Cabrera-Arnau &#8729; Made with [Quarto](https://quarto.org), with Silvia Calderon's template.
+    center: |
+      <a class="link-dark me-1" href="https://twitter.com/CarmenCabArn" title="twitter" target="_blank" rel="noopener">{{< fa brands twitter >}}</a>
+      <a class="link-dark me-1" href="https://github.com/CrmnCA" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://www.linkedin.com/in/carmen-cabrera-arnau/" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
+      <a class="link-dark me-1" href="https://orcid.org/0000-0002-2732-6436" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+      <a class="link-dark me-1" href="https://scholar.google.com/citations?hl=en&user=qAvR9zgAAAAJ" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
+
+    right: 
+      - text: "Contact"
+        aria-label: "Contact Form"
+        href: "contact.qmd"
+      - text: "License"
+        aria-label: "License Details"
+        href: license.qmd
+      - icon: rss
+        href: posts/index.xml
+
+format: 
+  html:
+    theme:
+      light:
+        - cosmo
+        - assets/cca-theme-light.scss
+        - assets/cca/colors-light.scss
+        - assets/cca/fonts.scss
+      dark: 
+        - cosmo
+        - assets/cca-theme-dark.scss
+        - assets/cca/colors-dark.scss
+    highlight-style:
+      light: assets/cca/a11y-light.theme
+      dark: assets/cca/a11y-dark.theme
+    code-link: true
+    pagetitle: "{{< meta title >}} | Carmen Cabrera-Arnau"
+    lightbox: true
+
+execute: 
+  freeze: auto
+
+#include-in-header: assets/cca/umami.html

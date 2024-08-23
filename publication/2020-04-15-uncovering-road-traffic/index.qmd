@@ -1,0 +1,26 @@
+---
+title: "Uncovering the behaviour of road accidents in urban areas"
+author:
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Rafael Prieto Curiel
+- Steven R. Bishop
+date: '2020-04-15'
+slug: uncovering-road-traffic
+image: featured.png
+categories:
+  - Research
+  - Urban scaling
+  - Road traffic collisions
+  - UK
+description: 'Royal Society Open Science'
+subtitle: An analysis looking into the scaling behaviour of road traffic collisions in England and Wales, according to the degree of severity
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://royalsocietypublishing.org/doi/full/10.1098/rsos.191739
+---
+
+## Abstract
+
+Different patterns in the incidence of road accidents are revealed when considering areas with increased levels of urbanization. To understand these patterns, road accident data from England and Wales is explored. In particular, the data are used to (i) generate time series for comparison of the incidence of road accidents in urban as opposed to rural areas, (ii) analyse the relationship between the number of road accidents and the population size of a set of urban areas, and (iii) model the likelihood of suffering an accident in an urban area and its dependence with population size. It is observed that minor and serious accidents are more frequent in urban areas, whereas fatal accidents are more likely in rural areas. It is also shown that, generally, the number of accidents in an urban area depends on population size superlinearly, with this superlinear behaviour becoming stronger for lower degrees of severity. Finally, given an accident in an urban area, the probability that the accident is fatal or serious decreases with population size and the probability that it is minor, increases sublinearly. These findings promote the question as to why such behaviours exist, the answer to which will lead to more sustainable urban policies.

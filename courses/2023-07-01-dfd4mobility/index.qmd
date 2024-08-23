@@ -1,0 +1,31 @@
+---
+title: "Using Digital Footprint Data <br>to Measure and Monitor Human Mobility"
+subtitle: A workshop based on R computation notebooks. Delivered by Prof. Francisco Rowe and Dr. Carmen Cabrera-Arnau.
+author: 
+  - Francisco Rowe
+  - Carmen Cabrera-Arnau
+  - Miguel González-Leonardo
+  - Ruth Neville
+  - Andrea Nasuto
+slug: dfd4mobility
+date: 2023-07
+image: featured.png
+categories:
+  - Workshop
+  - R
+  - Data Science
+  - Internal mobility
+  - Facebook
+---
+
+**URL:** [fcorowe.github.io/dfd4mobility/](https://fcorowe.github.io/dfd4mobility/)
+
+**Description:** This workshop offers an introduction to the use of digital footprint data from Meta-Facebook to analyse internal population movements. We will cover how to use location data collected via digital technology to develop data products to analyse human mobility. We will also illustrate how these data can be used to create statistical indicators and geographic data visualisations to extract insightful information, monitor mobility trends and identify key areas of origin and destination. The workshop will use an applied, hands-on approach in R via computational notebooks.
+ 
+**Contents:**<br>
+1. Meta-Facebook data introduction<br>
+2. Temporal patterns<br>
+3. Spatial patterns<br>
+
+**Delivery:** as a training workshop for a non-academic audience, at UN-CELADE.
+

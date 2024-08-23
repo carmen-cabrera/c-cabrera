@@ -1,0 +1,29 @@
+---
+title: "Detecting the sensitive spots of the African interurban transport network"
+author: 
+  - Andrew Renninger
+  - Valentina Marín Maureira
+  - name: Carmen Cabrera-Arnau
+    orcid: 0000-0002-2732-6436
+  - Rafael Prieto Curiel
+date: '2023-07-12'
+slug: sensitive-african-network
+image: featured.png
+categories:
+  - Research
+  - Transport network
+  - Network resilience
+  - Violent conflict
+  - Africa
+description: 'Resilience of African transport network'
+subtitle: We measure the resilience of the African transport network based on the intensity of future violent events and the impact of one event on the flow that travels through the network. We use data from OpenStreetMap to construct the road network.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.48550/arXiv.2307.06402
+---
+
+## Abstract
+
+Transport systems are vulnerable to events that create disruptions. This situation is particularly sensitive in parts of Africa with a low density of highways and an increasing level of violence. Here, we measure the risk of the African transport network based on two separate indices: the intensity of future events μ and the impact ν of one event on the flow that travels through the network. To estimate the intensity of future events happening in city i, we construct a self-exciting point process. To estimate the impact of an event, we consider a network of all highways in the continent and a modelled flow between any pair of cities. Based on both indicators, we construct the μ−ν diagram and classify cities based on their combined impact and intensity. Results show that certain cities in the network have a high risk and increase the vulnerability of Africa's infrastructure. These cities have a high propensity for suffering subsequent violence against their civilians, and given their connectivity structure, they also substantially affect the overall regional functioning. Removing just ten edges would require rerouting 32% of trips according to our model. The top 100 edges where violence might happen account for 17% of the trips. We find that cities with the highest μ−ν risk are those characterised by small and medium size and large degree, meaning they act as hubs. Vulnerable areas tend to be characterised by the presence of terrorist groups like Boko Haram in Nigeria.
+

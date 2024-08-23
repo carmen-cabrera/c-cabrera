@@ -1,0 +1,123 @@
+---
+title: Recent activity
+# image: sidebar/avatar.png
+# about:
+#   template: trestles
+#   image-width: 14em
+#   image-shape: rounded
+#   id: hero-heading
+#   links:
+#     - icon: twitter
+#       aria-label: Twitter
+#       href: https://twitter.com/CarmenCabArn
+#     - icon: github
+#       aria-label: GitHub
+#       href: https://github.com/CrmnCA
+#     - icon: linkedin
+#       aria-label: "LinkedIn"
+#       href: https://www.linkedin.com/in/carmen-cabrera-arnau/
+#     - text: "{{< ai orcid >}}"
+#       href: https://orcid.org/0000-0002-2732-6436
+#     - text: "{{< ai google-scholar >}}"
+#       aria-label: "Google Scholar"
+#       href: https://scholar.google.com/citations?hl=en&user=qAvR9zgAAAAJ
+      
+listing: 
+- id: blog
+  contents: 
+    - "../posts/*/index.qmd"
+    - "../posts/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+- id: talk
+  contents: 
+    - "../courses/*/index.qmd"
+    - "../courses/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+- id: publication
+  contents: 
+    - "../publication/*/index.qmd"
+    - "../publication/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, image]
+  max-items: 1
+  image-height: "200"
+  image-placeholder: ../publication/featured.jpg
+- id: project
+  contents: 
+    - "../project/*/index.qmd"
+    - "../project/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+format: 
+  html: 
+    page-layout: full
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/recent.css">
+resources:
+  - ../assets/recent.css
+---
+
+
+
+
+:::: {.grid}
+
+::: {.g-col-3}
+#### Posts
+::: {#blog}
+:::
+[See all &rarr;](../posts){.about-links .subtitle}
+:::
+
+::: {.g-col-3}
+#### Publications
+::: {#publication}
+:::
+[See all &rarr;](../publication){.about-links .subtitle}
+:::
+
+::: {.g-col-3}
+#### Projects
+::: {#project}
+:::
+[See all &rarr;](../project){.about-links .subtitle}
+:::
+
+::: {.g-col-3}
+#### Courses
+::: {#talk}
+:::
+[See all &rarr;](../talk){.about-links .subtitle}
+:::
+
+
+::::

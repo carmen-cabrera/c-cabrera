@@ -1,0 +1,31 @@
+---
+title: "COVID-19 y movimientos de población entre la jerarquía urbana en México. Un análisis utilizando datos digitales"
+author: 
+- Miguel González-Leonardo
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Francisco Rowe
+- Andrea Nasuto
+- Ruth Neville
+date: '2024-08-01'
+slug: urban-exo-mexico
+image: featured.png
+categories:
+  - Internal mobility
+  - Facebook data
+  - Covid-19
+  - Mexico
+description: 'Internal mobility in Mexico'
+subtitle: Analysis of the extent and persistence of patterns of urban exodus due to COVID-19 in Mexico.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://dx.doi.org/10.24201/edu.v39i3.2239
+---
+
+## Abstract
+
+Estudios previos en países del Norte Glo-bal  han  documentado  un  descenso  de  los  movi-mientos  internos  de  población  durante  la  pande-mia de COVID-19, acompañado de un aumento de los  desplazamientos  desde  las  grandes  ciudades hacia áreas menos densamente pobladas. Sin em-bargo, no hay evidencias consistentes sobre el efec-to de la pandemia en los movimientos de población a través de la jerarquía urbana en el Sur Global. En esta investigación se utilizan datos de telefonía mó-vil  de  usuarios  de  Facebook  entre  abril  de  2020  y mayo  de  2022  para  analizar  cómo  cambiaron  las intensidades  y  los  patrones  de  movilidad  de  larga distancia (>100 km) entre diferentes categorías de densidad de población durante la COVID-19 en Mé-xico. Los resultados muestran un descenso del 40% en  los  movimientos  de  usuarios  en  el  periodo  de abril  a  diciembre  de  2020.  Al  contrario  que  en  los países  desarrollados,  no  se  identificó  un  aumento en  los  desplazamientos  desde  las  grandes  ciuda-des, sino un descenso generalizado tanto en los flu-jos  de  salida  como  en  los  de  entrada  en  todas  las categorías de densidad de población, excepto en los  movimientos  interrurales.  Además,  la  mayor reducción se registró en los desplazamientos des-de  y  hacia  las  grandes  ciudades,  que  cayeron 50%. Al igual que en el Norte Global, las intensida-des y los patrones de movilidad recuperaron pro-gresivamente  los  valores  y  tendencias  observa-dos con anterioridad a la COVID-19 durante 2021 y  2022,  aunque  las  grandes  ciudades  mostraron una recuperación más lenta y siguieron registran-do movimientos de salida y entrada ligeramente inferiores aún en mayo de 2022.
+
+
+

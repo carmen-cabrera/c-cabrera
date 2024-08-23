@@ -1,0 +1,20 @@
+---
+title: 'Workshop – An introduction to spatial network analysis'
+authors: 
+  - Carmen Cabrera-Arnau
+date: 2024-09-11
+image: featured.png
+categories:
+  - Workshop
+subtitle: 'Workshop at British Society for Population Studies 2024 Conference'
+links:
+- icon: journal-text
+  name: Apply
+  url: https://forms.gle/MgVccyCQ18DyZDcT9
+---
+
+## Workshop description
+
+The workshop will offer an introduction to spatial network analysis. I will provide an overview of the most fundamental concepts and methods of Network Analysis, some of which are particularly relevant for the study of populations, human mobility and more generally, geographic data. The workshop is designed to last 90 minutes and it follows a hands-on approach through a series of computational activities in R, available in the [workshop's website](https://crmnca.github.io/nets4gis/).
+
+PLEASE, register through [this form](https://forms.gle/MgVccyCQ18DyZDcT9) **by the 4th of September** to ensure you receive all the information about pre-requisites for the workshop.

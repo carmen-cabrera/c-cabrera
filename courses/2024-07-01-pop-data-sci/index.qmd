@@ -1,0 +1,37 @@
+---
+title: "Population Data<br> Science"
+subtitle: A course based on R computational notebooks. Designed and delivered by Dr. Carmen Cabrera-Arnau, Prof. Francisco Rowe and Dr. Elisabetta Pietrostefani.
+author: 
+  - Francisco Rowe
+  - Carmen Cabrera-Arnau
+  - Elisabetta Pietrostefani
+date: 2024-01
+slug: pop-data-sci
+image: featured.png
+categories:
+  - Teaching
+  - R
+  - Data Science
+  - Postgraduate
+---
+
+**URL:** [population-science.net](https://www.population-science.net/)
+
+**Description:** You will learn applied tools and cutting-edge analytical approaches to use digital footprint data to explore and understand human population trends and patterns.
+
+**Contents:**<br>
+1. Overview<br>
+2. Introducing Population Science<br>
+3. Geodemographics<br>
+4. Sequence Analysis<br>
+5. Network Analysis<br>
+6. Machine Learning<br>
+7. Sentiment Analysis<br>
+8. Topic Modelling<br>
+9. Modelling Time<br>
+10. Assessing Interventions<br>
+11. Datasets<br>
+
+**Delivery:** as part of the MSc in Geographic Data Science at the University of Liverpool.
+
+

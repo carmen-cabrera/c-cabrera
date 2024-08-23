@@ -1,0 +1,31 @@
+---
+title: "An Introduction to <br>Network Analysis for GIS"
+subtitle: A course based on R computational notebooks. Delivered by Dr. Carmen Cabrera-Arnau and Prof. Francisco Rowe.
+author: 
+  - Carmen Cabrera-Arnau
+  - Francisco Rowe
+  - Andrew Renninger
+  - Valentina Marín Maureira
+  - Rafael Prieto-Curiel
+date: 2023-09
+slug: nets4gis
+image: featured.png
+categories:
+  - Workshop
+  - R
+  - Digital trace data
+  - Internal mobility
+---
+
+**URL:** [crmnca.github.io/nets4gis/](https://crmnca.github.io/nets4gis/)
+
+**Description:** This workshop offers an introduction to Network Analysis. It provides an overview of the most fundamental concepts and methods of Network Analysis, some of which are particularly relevant for GIScience. The workshop follows a hands-on approach through a series of computational activities in R. 
+
+**Contents:**<br>
+1. Prerequisites<br>
+2. Introduction to the basics of network analysis<br>
+3. The African road network<br>
+4. Percolation theory<br>
+
+**Delivery:** as a workshop at GIScience 2023 and at the Annual Conference of
+the British Society for Population Studies.

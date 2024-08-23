@@ -1,0 +1,24 @@
+---
+title: "The effect of dragon-kings on the estimation of scaling law parameters"
+author:
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Steven R. Bishop
+date: '2020-11-18'
+slug: dragon-kings
+image: featured.png
+categories:
+  - Research
+  - Urban scaling
+  - Dragon-king cities
+description: 'Scientific Reports'
+subtitle: An analysis based on synthetic data to test the sensitivity of urban scaling law parameters to the presence of statistical outliers
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://www.nature.com/articles/s41598-020-77232-6
+---
+
+## Abstract
+
+Scaling laws are used to model how different quantifiable properties of cities, such as the number of road traffic accidents or average house prices, vary as a function of city population size, with parameters estimated from data. Arcaute et al. raised the issue of whether specific cities with extremely large population sizes, known as dragon-kings, should be considered separately from other smaller cities when estimating the scaling law parameters since the two types of cities tend to display different behaviour. Through the analysis of randomly generated samples, we find that the inclusion of dragon-kings in the scaling analysis does not affect the estimated values for the parameters but only provided that all the data points satisfy the same scaling law. We also analyse randomly generated samples where data corresponding to a particular city deviates from the scaling law followed by the rest of the cities. We then show that deviations corresponding to dragon-king cities have the most significant effect on the estimated values of the scaling parameters. The extent of this effect also depends on which estimation procedure is used. Our results have important implications on the suitability of scaling laws as a model for urban systems.

@@ -1,0 +1,28 @@
+---
+title: "Inferring urban polycentricity from the variability in human mobility patterns"
+author:
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Chen Zhong
+- Michael Batty
+- Richardo Silva
+- Soon Moon Kang
+date: '2023-04-07'
+slug: inferring-polycentricity
+image: featured.png
+categories:
+  - Research
+  - Urban mobility
+  - Urban structure
+  - Statistical Inference
+description: 'Scientific Reports'
+subtitle: Smart travel card data is used to infer urban polycentricity by examining how a city departs from a well-defined monocentric model. The analysis is applied to London and Seoul.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://www.nature.com/articles/s41598-023-33003-7
+---
+
+## Abstract
+
+The polycentric city model has gained popularity in spatial planning policy, since it is believed to overcome some of the problems often present in monocentric metropolises, ranging from congestion to difficult accessibility to jobs and services. However, the concept ‘polycentric city’ has a fuzzy definition and as a result, the extent to which a city is polycentric cannot be easily determined. Here, we leverage the fine spatio-temporal resolution of smart travel card data to infer urban polycentricity by examining how a city departs from a well-defined monocentric model. In particular, we analyse the human movements that arise as a result of sophisticated forms of urban structure by introducing a novel probabilistic approach which captures the complexity of these human movements. We focus on London (UK) and Seoul (South Korea) as our two case studies, and we specifically find evidence that London displays a higher degree of monocentricity than Seoul, suggesting that Seoul is likely to be more polycentric than London.

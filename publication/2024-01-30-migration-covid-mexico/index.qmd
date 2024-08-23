@@ -1,0 +1,29 @@
+---
+title: "“Urban Exodus” During COVID-19 in Mexico? Using Digital Data to Analyze Medium-Term Pandemic Impacts on Internal Population Movements"
+author:
+- Miguel González-Leonardo
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Ruth Neville
+- Andrea Nasuto
+- Francisco Rowe
+date: '2024-01-30'
+slug: covid-migration-mexico
+image: featured.png
+categories:
+  - Research
+  - Methods
+  - Time series
+description: ' '
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://pure.iiasa.ac.at/id/eprint/19447/
+---
+
+## Abstract
+
+Previous work documented a decline of internal population movements andan increase in outflowsfrom large cities to less densely populated areas during COVID-19 inGlobal North countries. However, the impact of the pandemic on levels and patterns of human mobility across the rural-urban hierarchy in the Global South is yet to be established.Lack of data with temporal and spatial granularity has prevented us from assessing this research gap.Drawing on location data of Facebook users, we analyse how the intensity and patterns of long-distance movements (>100 Km) were affected during April 2020-May 2022 across different population density categories in Mexico. We find a decline of 40% in the total number of long-distance movements during April-December 2020, and a systematic decrease of outflows and inflows across the rural-urban hierarchy. Unlike inthe Global North, outflows from large cities did not increase. The largest drop of outflows and inflows occurred in large cities, declining by 50%. Only specific flows increased during COVID-19, as those from large cities to certain towns, and intra-rural movements. The intensity and patterns of internal population movements across the rural-urban hierarchy have progressively returned to pre-pandemic levels during 2021 and 2022, as has occurred in Global North countries. However, the recovery has been slower inthe large Mexican cities.
+
+

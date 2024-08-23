@@ -1,0 +1,22 @@
+---
+title: "Mathematical modelling of social phenomena in urban areas"
+author:
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+date: '2021-11-30'
+slug: thesis
+image: featured.png
+categories:
+  - Research
+  - PhD thesis
+description: 'PhD thesis'
+subtitle: Doctoral thesis in Applied mathematics, completed at UCL's Departmet of mathematics
+links:
+- icon: file-richtext-fill
+  name: Thesis
+  url: https://discovery.ucl.ac.uk/id/eprint/10139346/
+---
+
+## Abstract
+
+The world is undergoing a rapid urbanisation process such that the ma- jority of people now live in urban areas. In this context, it is crucial to understand the behaviour that emerges in cities as a result of complex in- teractions between environmental, social, economic and political factors. To improve our knowledge, different techniques are used in this thesis in order to quantitatively model how one city compares with another. Owing to the present-day ease of access to information, most of the results in the following pages have been obtained via assessment of real-world data, made available by different public organisations. Urban scaling is used as the main modelling framework. This approach concerns the relationship between the population size of an urban area and some other urban characteristic. The work is applied to two specific topics of interest. Firstly, the amount of coverage given by the media to Mexican urban areas, before and after the 2017 Puebla earthquake, which affected several regions in Mexico. Secondly, the number of road traffic accidents per person in urban areas from several European countries for different degrees of accident severity or different definitions for the urban areas. The thesis also contains methodological contributions regarding the problem of accounting for urban areas with extremely large population in urban scaling models. Finally, this work explores the impact of the findings presented here to support the creation of new policies involving urban areas.

@@ -1,0 +1,29 @@
+---
+title: "A continuous binning for discrete, sparse and concentrated observations"
+author:
+- Rafael Prieto Curiel
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Mara Torres Pinedo
+- Humberto González Ramírez
+- Steven R. Bishop
+date: '2020-01-01'
+slug: methodsx-binning
+image: featured.png
+categories:
+  - Research
+  - Methods
+  - Time series
+description: 'Methods X'
+subtitle: A new method for computing functions over sparse and concentrated data is constructed.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://www.sciencedirect.com/science/article/pii/S2215016119302857
+---
+
+## Abstract
+
+Discrete observations from data which are obtained from sparse, and yet concentrated events are often observed (e.g. road accidents or murders). Traditional methods to compute summary statistics often include placing the data in discrete bins but for this type of data this approach often results in large numbers of empty bins for which no function or summary statistic can be computed. Here, a method for dealing with sparse and concentrated observations is constructed, based on a sequence of non-overlapping bins of varying size, which gives a continuous interpolation of data for computing summary statistics of the values for the data, such as the mean. The method presented here overcomes the problem which sparsity and concentration present when computing functions to represent the data. Implementation of the method presented here is facilitated via open access to the code.
+
+

@@ -1,0 +1,25 @@
+---
+title: "Urban population size and road traffic collisions in Europe"
+author:
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Steven R. Bishop
+date: '2021-08-27'
+slug: urban-collisions-europe
+image: featured.png
+categories:
+  - Research
+  - Urban scaling
+  - Road traffic collisions
+  - Europe
+description: 'PLOS ONE'
+subtitle: An analysis of road traffic collisions in European cities from the perspective of urban scaling models
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1371/journal.pone.0256485
+---
+
+## Abstract
+
+Millions of road traffic collisions take place every year, leading to significant knock-on effects. Many of these traffic collisions take place in urban areas, where traffic levels can be elevated. Yet, little is known about the extent to which urban population size impacts road traffic collision rates. Here, we use urban scaling models to analyse geographic and road traffic collision data from over 300 European urban areas in order to study this issue. Our results show that there is no significant change in the number of road traffic collisions per person for urban areas of different sizes. However, we find individual urban locations with traffic collision rates which are remarkably high. These findings have the potential to inform policies for the allocation of resources to prevent road traffic collisions across the different cities.

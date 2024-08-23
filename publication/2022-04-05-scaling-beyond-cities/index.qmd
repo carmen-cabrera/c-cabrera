@@ -1,0 +1,27 @@
+---
+title: "Sacaling beyond cities"
+author:
+- Rafael Prieto Curiel
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Steven R. Bishop
+date: '2022-04-05'
+slug: scaling-beyond-cities
+image: featured.png
+categories:
+  - Research
+  - Urban analytics
+  - City sizes
+  - Urban scaling
+  - Africa
+description: 'Frontiers in Physics'
+subtitle: An analysis of the scaling behaviour of cities beyond their boundaries by considering the emergence and growth of nearby cities, using data from OpenStreetMap.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.3389/fphy.2022.858307
+---
+
+## Abstract
+
+City population size is a crucial measure when trying to understand urban life. Many socio-economic indicators scale superlinearly with city size, whilst some infrastructure indicators scale sublinearly with city size. However, the impact of size also extends beyond the city’s limits. Here, we analyse the scaling behaviour of cities beyond their boundaries by considering the emergence and growth of nearby cities. Based on an urban network from African continental cities, we construct an algorithm to create the region of influence of cities. The number of cities and the population within a region of influence are then analysed in the context of urban scaling. Our results are compared against a random permutation of the network, showing that the observed scaling power of cities to enhance the emergence and growth of cities is not the result of randomness. By altering the radius of influence of cities, we observe three regimes. Large cities tend to be surrounded by many small towns for small distances. For medium distances (above 114 km), large cities are surrounded by many other cities containing large populations. Large cities boost urban emergence and growth (even more than 190 km away), but their scaling power decays with distance.
