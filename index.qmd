@@ -64,15 +64,15 @@ Prior to her position as a Lecturer, Carmen completed a BSc in Physics, followed
 
 <ul class="fa-ul">
 
-<li><i class="fa-solid fa-certificate"></i>Human mobility</li>
+<li><i class="fa-solid fa-certificate"></i> Human mobility</li>
 
-<li><i class="fa-solid fa-certificate"></i>Geographic Data Science</li>
+<li><i class="fa-solid fa-certificate"></i> Geographic Data Science</li>
 
-<li><i class="fa-solid fa-certificate"></i>Network theory</li>
+<li><i class="fa-solid fa-certificate"></i> Network theory</li>
 
-<li><i class="fa-solid fa-certificate"></i>Urban structure</li>
+<li><i class="fa-solid fa-certificate"></i> Urban structure</li>
 
-<li><i class="fa-solid fa-certificate"></i>Socieconomic inequalities</li>
+<li><i class="fa-solid fa-certificate"></i> Socieconomic inequalities</li>
 
 </ul>
 :::
@@ -82,11 +82,11 @@ Prior to her position as a Lecturer, Carmen completed a BSc in Physics, followed
 
 <ul class="fa-ul">
 
-<li><i class="fa-solid fa-graduation-cap"></i>PhD in Applied Mathematics ∙ UCL ∙ 2021</li>
+<li><i class="fa-solid fa-graduation-cap"></i> PhD in Applied Mathematics ∙ UCL ∙ 2021</li>
 
-<li><i class="fa-solid fa-graduation-cap"></i>MSc in Complex Systems ∙ King's College London ∙ 2017</li>
+<li><i class="fa-solid fa-graduation-cap"></i> MSc in Complex Systems ∙ King's College London ∙ 2017</li>
 
-<li><i class="fa-solid fa-graduation-cap"></i>B.S. in Physics ∙ University of Valencia (year abroad at Imperial College London) ∙ 2016</li>
+<li><i class="fa-solid fa-graduation-cap"></i> B.S. in Physics ∙ University of Valencia (year abroad at Imperial College London) ∙ 2016</li>
 
 </ul>
 :::
