@@ -22,21 +22,19 @@ website:
   navbar:
 
     right:
-      - text: Recent activity
-        aria-label: "Recent activity"
-        href: recent/index.qmd
-      - text: Posts
-        aria-label: "Posts"
-        href: posts/index.qmd
       - text: Publications
         aria-label: "Publications"
         href: publication/index.qmd
-      - text: Projects
-        aria-label: "Projects"
-        href: project/index.qmd
       - text: Courses 
         aria-label: "Courses"
         href: courses/index.qmd  
+      - text: Posts
+        aria-label: "Posts"
+        href: posts/index.qmd
+      - text: Projects
+        aria-label: "Projects"
+        href: project/index.qmd
+
 
   
   page-footer:  

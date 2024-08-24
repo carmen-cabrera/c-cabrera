@@ -1,0 +1,29 @@
+---
+title: 'DEBIAS'
+author: 
+  - Francisco Rowe
+  - Carmen Cabrera-Arnau
+date: 2024-08-15
+image: featured.png
+categories:
+  - ESRC-funded project
+subtitle: >
+  DEveloping a framework to measure and correct BIASes in human mobility data extracted from digital footprints
+description: ''
+links:
+- icon: journal-text
+  name: More info
+  url: https://gtr.ukri.org/projects?ref=ES%2FY010787%2F1
+---
+
+## Project Description
+
+Our project, DEBIAS, aims to develop a generalisable framework to quantify and adjust existing biases in Digital Footprint Data (DFD) on human mobility. To this end, we will use DFD on human mobility obtained from users of the social media platforms Facebook and X (previously Twitter), and from smartphone applications collected by the company Huq. We will use data from the UK, but our framework will be reproducible and transferable to any DF source and geographical setting. Our framework will rely on aggregate human mobility data capturing flows of people between origins and destinations. Key benefits of using this data structure are that these data are more easily accessible. They help overcome ethical concerns ensuring anonymisation and represent a common format used by data providers to share DFD on mobility.
+
+Why mobility? Understanding how humans move is key to supporting appropriate policy responses to address population issues, carbon emission, urban planning, service delivery, public health and disaster management. DFD, such as location data collected from smartphone apps offer a unique opportunity to analyse population movements at high geographic and temporal granularity, with extensive coverage in near real-time. Research leveraging DFD has have a transformative impact expanding existing theories and developing new analytical tools and infrastructure of social and spatial human behaviour across the social sciences.
+
+Challenge: Biases in DFD have represented a major methodological barrier to reaping their benefits, contributing to scepticism and deterring wider usage of DFD. Biases mainly exist due to differences in: 1) the access and usage of the digital technologies used to collect the data (e.g. only 70% of the British population uses Facebook); and, 2) the demographic and socioeconomic profiles of users of the technology (e.g. Twitter has a young adult and male-dominated user profile mainly from urban areas). As such, human mobility data derived from DFD offer a partial representation of the overall population, limiting our capacity to draw conclusions about the overall local population.
+
+Promise: DEBIAS will deliver a framework to adjust biases in DF-derived mobility data and an open-source software package and training materials to implement it. These outcomes will contribute to delivering the Smart Data Research UK (SDRUK) programme aim of unlocking the power of new forms of data for research and innovation to tackle social challenges by 1) enabling the monitorisation and prediction of patterns of human mobility by facilitating robust real-time analysis based on DFs; 2) augmenting the technical social science research capacity in the use of DFD; 3) expanding existing theories and developing new explanations on spatial human behaviour by supporting research on highly granular space-time mobility patterns; and, 4) supporting the long-term access to robust and ethical DF-derived mobility data. DEBIAS will thus contribute to SDRUK-specific objectives by providing secure data access, safeguarding public trust, and building capability for cutting-edge research.
+
+To maximise impact, we will engage with direct beneficiaries of our work: a) researchers and analysts; b) public sector agencies; and, c) commercial stakeholders or third sector organisations engaged in data for public good initiatives and working in mobility, transport and migration. We will establish an advisory board representing expertise from the commercial (Meta), academic (Northeastern U.) and transgovernmental (UN) sectors, to inform the development of our software tool and training materials. Working with Meta and UN-IOM will enable the exploration of opportunities for long-term strategic partnerships for data access and application of our approach to new problems. We will disseminate and increase the awareness of our work via research articles, presentations and workshops targeting different audiences and adopting open science principles.

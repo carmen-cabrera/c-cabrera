@@ -169,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -353,34 +353,6 @@ No matching items
 </div>
 <p><a href="../publication" class="about-links subtitle">See all →</a></p>
 </section>
-<section id="projects" class="level4 g-col-3">
-<h4 class="anchored" data-anchor-id="projects">Projects</h4>
-<div id="listing-project" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-1">
-<div class="g-col-1" data-index="0" data-categories="R,maps,webscraping,robotstxt,rvest,leaflet,tidygeocoder" data-listing-date-sort="1718492400000" data-listing-file-modified-sort="1718893034000" data-listing-date-modified-sort="1724367600000" data-listing-reading-time-sort="1" data-listing-word-count-sort="167">
-<a href="../project/2024-06-16-ccd-sips/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../project/2024-06-16-ccd-sips/featured.png" class="thumbnail-image card-img" style="height: 200;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Philly Center City District SIPS: An Interactive Map
-</h5>
-<div class="card-subtitle listing-subtitle">
-<p>A collection of interactive maps showing restaurants participating in Phily’s CCD SIPS</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<p><a href="../project" class="about-links subtitle">See all →</a></p>
-</section>
 <section id="courses" class="level4 g-col-3">
 <h4 class="anchored" data-anchor-id="courses">Courses</h4>
 <div id="listing-talk" class="quarto-listing quarto-listing-container-grid">
@@ -414,7 +386,14 @@ No matching items
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-project">
+<div class="list grid quarto-listing-cols-1">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

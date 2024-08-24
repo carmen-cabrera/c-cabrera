@@ -1,30 +1,29 @@
 ---
-title: "Projects"
-author: ""
-comments: false
-citation: false
-description: |
-  
+title: Projects
 listing: 
-  contents:
-    - "/*/index.qmd"
-    - "/*/index.markdown"
-    - "/*/index.md"
-  type: grid
-  fields: [title, categories, date, image]
+  contents: 
+    - "**/index.qmd"
+    - "**/index.markdown"
+    - "**/index.md"
   sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
   filter-ui: false
+  fields: [title, author, categories, date]
   image-align: left
-  image-height: 100%
+  # image-height: 10em
+  page-size: 10
+
 format: 
   html: 
     page-layout: full
-title-block-banner: false
+title-block-banner: true
 
 header-includes: >
   <link rel="stylesheet" href="../assets/listing-default.css">
-  <link rel="" href="../assets/custom-css.js"> 
 resources:
   - ../assets/listing-default.css
-  - ../assets/custom-css.js
 ---
+
+

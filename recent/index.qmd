@@ -106,13 +106,6 @@ resources:
 :::
 
 ::: {.g-col-3}
-#### Projects
-::: {#project}
-:::
-[See all &rarr;](../project){.about-links .subtitle}
-:::
-
-::: {.g-col-3}
 #### Courses
 ::: {#talk}
 :::

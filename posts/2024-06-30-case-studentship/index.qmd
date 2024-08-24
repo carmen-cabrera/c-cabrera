@@ -1,6 +1,6 @@
 ---
 title: 'Fully Funded PhD studentship'
-authors: 
+author: 
   - Carmen Cabrera-Arnau
   - Francisco Rowe
 date: 2024-06-30

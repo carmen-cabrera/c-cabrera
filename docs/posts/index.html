@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-categories','listing-date','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-categories','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
@@ -134,13 +134,11 @@ window.Quarto = {
 };
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="Carmen Cabrera-Arnau" href="index.xml" data-external="1"><meta name="twitter:title" content="Posts | Carmen Cabrera-Arnau">
-<meta name="twitter:image" content="https://username.github.io/cabrera-arnau/posts/2024-08-22-bsps-workshop/featured.png">
+<meta name="twitter:title" content="Posts | Carmen Cabrera-Arnau">
+<meta name="twitter:image" content="https://username.github.io/cabrera-arnau/posts/featured.jpg">
 <meta name="twitter:creator" content="@carmencabarn">
 <meta name="twitter:site" content="@carmencabarn">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image-height" content="326">
-<meta name="twitter:image-width" content="580">
 </head>
 
 <body class="nav-fixed">
@@ -161,20 +159,20 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../recent/index.html"> 
-<span class="menu-text">Recent activity</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../posts/index.html" aria-current="page"> 
-<span class="menu-text">Posts</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../publication/index.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../courses/index.html"> 
 <span class="menu-text">Courses</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../posts/index.html" aria-current="page"> 
+<span class="menu-text">Posts</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../project/index.html"> 
+<span class="menu-text">Projects</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -225,12 +223,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Workshop" data-listing-date-sort="1726009200000" data-listing-file-modified-sort="1724417227000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
-<div class="thumbnail">
-<p><a href="../posts/2024-08-22-bsps-workshop/index.html" class="no-external"></a></p><a href="../posts/2024-08-22-bsps-workshop/index.html" class="no-external">
-<p><img loading="lazy" src="../posts/2024-08-22-bsps-workshop/featured.png" class="thumbnail-image"></p>
-</a><p><a href="../posts/2024-08-22-bsps-workshop/index.html" class="no-external"></a></p>
-</div>
+<div class="quarto-post image-left" data-index="0" data-categories="Workshop" data-listing-date-sort="1726009200000" data-listing-file-modified-sort="1724522219061" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../posts/2024-08-22-bsps-workshop/index.html" class="no-external">Workshop – An introduction to spatial network analysis</a>
@@ -249,15 +242,13 @@ Workshop
 <div class="listing-date">
 Sep 11, 2024
 </div>
+<div class="listing-author">
+Carmen Cabrera-Arnau
+</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="PhD opportunity" data-listing-date-sort="1719702000000" data-listing-file-modified-sort="1724417227000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="435">
-<div class="thumbnail">
-<p><a href="../posts/2024-06-30-case-studentship/index.html" class="no-external"></a></p><a href="../posts/2024-06-30-case-studentship/index.html" class="no-external">
-<p><img loading="lazy" src="../posts/2024-06-30-case-studentship/featured.png" class="thumbnail-image"></p>
-</a><p><a href="../posts/2024-06-30-case-studentship/index.html" class="no-external"></a></p>
-</div>
+<div class="quarto-post image-left" data-index="1" data-categories="PhD opportunity" data-listing-date-sort="1719702000000" data-listing-file-modified-sort="1724522042814" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="435">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../posts/2024-06-30-case-studentship/index.html" class="no-external">Fully Funded PhD studentship</a>
@@ -275,6 +266,9 @@ PhD opportunity
 <a href="../posts/2024-06-30-case-studentship/index.html" class="no-external">
 <div class="listing-date">
 Jun 30, 2024
+</div>
+<div class="listing-author">
+Carmen Cabrera-Arnau, Francisco Rowe
 </div>
 </a>
 </div>
@@ -848,34 +842,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<script src="https://utteranc.es/client.js" repo="CrmnCA/cabrera-arnau" issue-term="title" theme="body-light" crossorigin="anonymous" async="">
+</script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2024 Carmen Cabrera-Arnau ∙ Made with <a href="https://quarto.org">Quarto</a>, with Silvia Calderon’s template.</p>
+<p>© 2024 Carmen Cabrera-Arnau ∙ Made with <a href="https://quarto.org">Quarto</a>, using <a href="https://silviacanelon.com/">Silvia Calderon</a>’s template.</p>
 </div>   
     <div class="nav-footer-center">
 <p><a class="link-dark me-1" href="https://twitter.com/CarmenCabArn" title="twitter" target="_blank" rel="noopener"><i class="fa-brands fa-twitter" aria-label="twitter"></i></a> <a class="link-dark me-1" href="https://github.com/CrmnCA" title="github" target="_blank" rel="noopener"><i class="fa-brands fa-github" aria-label="github"></i></a> <a class="link-dark me-1" href="https://www.linkedin.com/in/carmen-cabrera-arnau/" title="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a> <a class="link-dark me-1" href="https://orcid.org/0000-0002-2732-6436" title="orcid" target="_blank" rel="noopener"><i class="ai  ai-orcid" style="color:black"></i></a> <a class="link-dark me-1" href="https://scholar.google.com/citations?hl=en&amp;user=qAvR9zgAAAAJ" title="Google Scholar" target="_blank" rel="noopener"><i class="ai  ai-google-scholar" style="color:black"></i></a></p>
 </div>
     <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
-    <a class="nav-link" href="../contact.html">
-<p>Contact</p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="../license.html">
-<p>License</p>
-</a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="../posts/index.xml">
-      <i class="bi bi-rss" role="img">
-</i> 
-    </a>
-  </li>  
-</ul>
+      &nbsp;
     </div>
   </div>
 </footer>
