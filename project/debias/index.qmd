@@ -13,7 +13,7 @@ description: ''
 links:
 - icon: journal-text
   name: More info
-  url: https://gtr.ukri.org/projects?ref=ES%2FY010787%2F1
+  url: https://de-bias.github.io/debias/
 ---
 
 ## Project Description

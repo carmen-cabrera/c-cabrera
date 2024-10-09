@@ -5,14 +5,14 @@
 // Rules: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-rules.scss
 
 // Colors: Quarto variables
-$primary:                    #EDFCF5;
-$secondary:                  #79F0B9;
+$primary:                    #fcfbf7;
+$secondary:                  #c4a668;
 // Colors: custom variables
-$primary-dark:               #EDFCF5;
-$secondary-light:            #418566; 
-$accent:                     #79F0B9;
-$accent-light:               #418566; 
-$accent-dark:                #79F0B9;
+$primary-dark:               #fcfbf7;
+$secondary-light:            #7a6740; 
+$accent:                     #c4a668;
+$accent-light:               #7a6740; 
+$accent-dark:                #c4a668;
 
 // Body
 $body-color:                 $primary-dark;
@@ -22,7 +22,7 @@ $body-secondary:             #413E3D; // 6c757d
 // Fonts
 
 // stylelint-disable-next-line value-keyword-case
-$font-family-sans-serif:     "Red Hat Text", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-family-sans-serif:     "Roboto", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 // $font-family-serif: "Petrona", serif,;
 $headings-font-weight:       400;
 

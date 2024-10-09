@@ -1,0 +1,56 @@
+---
+title: "A research agenda for GIScience in a time of disruptions"
+
+
+
+author: 
+- Trisalyn Nelson
+- Amy E. Frazier
+- Peter Kedron
+- Somayeh Dodge
+- Bo Zhao
+- Michael Goodchild
+- Alan Murray
+- Sarah Battersby
+- Lauren Bennett
+- Justine I. Blanford
+- name: Carmen Cabrera-Arnau
+  orcid: 0000-0002-2732-6436
+- Christophe Claramunt
+- Rachel Franklin
+- Joseph Holler
+- Caglar Koylu
+- Angela Lee
+- Steven Manson
+- Grant McKenzie
+- Harvey Miller
+- Taylor Oshan
+- Sergio Rey
+- Francisco Rowe
+- Seda Şalap-Ayça
+- Eric Shook
+- Seth Spielman
+- Wenfei Xu 
+- John Wilson 
+date: '2024-09-29'
+slug: gis-agenda
+image: featured.png
+categories:
+  - Internal mobility
+  - Facebook data
+  - Covid-19
+  - Mexico
+description: 'GIScience research agenda'
+subtitle: A discussion on to establish a research agenda for GIScience focusing on the relevance and real-world impact of research, adopting systems-based thinking and contextual approaches and emphasising inclusive practices.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1080/13658816.2024.2405191
+---
+
+## Abstract
+
+Social issues, AI, and climate change are just a few of the disruptive focuses impacting science. The field of GIScience is well positioned to respond to accelerating disruptions due to the interdisciplinary nature of the field and the ability of GIScience approaches to be used in support of decision-making. This manuscript aims to start a conversation that will establish a research agenda for GIScience in an age of disruptions. We outline three guiding principles: (1) focusing on the relevance and real-world impact of research, (2) adopting systems-based thinking and contextual approaches and (3) emphasizing inclusive practices. We then outline prioritized research areas organized by what topics are important focal areas (Data and Infrastructure, Artificial Intelligence, and Causality and Generalizability), and what approaches to science we should be attentive to (Impactful Open Science, Collaborative and Convergent Science, and through Diverse Participation and Partnerships). We conclude with a call to increase impact by balancing slow science with practical and policy-oriented research. We also recognize that while broad adoption of spatial approaches is a signal of GIScience’s success, we should continue to work together to advance core knowledge centered on spatial thinking and approaches.
+
+
+

@@ -21,7 +21,8 @@
       "/publication/2020-11-18-dragon-kings/index.html",
       "/publication/2020-04-15-uncovering-road-traffic/index.html",
       "/publication/2019-05-01-media-spotlight/index.html",
-      "/publication/2020-01-01-methodsx-binning/index.html"
+      "/publication/2020-01-01-methodsx-binning/index.html",
+      "/project/debias/index.html"
     ]
   },
   {
@@ -40,6 +41,7 @@
   {
     "listing": "/publication/index.html",
     "items": [
+      "/publication/2024-09-30-gis-agenda/index.html",
       "/publication/2024-08-01-migration-covid-mexico-spanish/index.html",
       "/publication/2023-10-18-internal-migration-covid-latin-report/index.html",
       "/publication/2024-01-30-migration-covid-mexico/index.html",
