@@ -1,0 +1,17 @@
+---
+title: 'News article: "Digital footprint data analysis contributes to new UN publication"'
+author: 
+  - Francisco Rowe
+  - Carmen Cabrera-Arnau
+date: 2024-10-14
+image: featured.jpeg
+categories:
+  - News article
+description: ''
+links:
+- icon: journal-text
+  name: See article
+  url: https://news.liverpool.ac.uk/2024/10/08/digital-footprint-data-analysis-contributes-to-new-un-publication/
+---
+
+Click here to read the paper that the news article talks about: ["Medium-term changes in internal population movements in Latin American countries: the effects of the COVID-19 pandemic"](https://repositorio.cepal.org/handle/11362/80723), No. 139 of the Population and Development Series.
