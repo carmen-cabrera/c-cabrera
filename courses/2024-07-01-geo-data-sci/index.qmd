@@ -1,5 +1,5 @@
 ---
-title: "Geographic Data <br>Science"
+title: "Geographic Data Science"
 subtitle: A course based on R computational notebooks. Designed and delivered by Dr. Elisabetta Pietrostefani and Dr. Carmen Cabrera-Arnau.
 author: 
   - Elisabetta Pietrostefani

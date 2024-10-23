@@ -1,0 +1,34 @@
+---
+title: "Geographic Data Science for Applied Economists"
+subtitle: Delivered by Dr. Carmen Cabrera-Arnau. The course website has been created by Dr. Cabrera-Arnau based on a previous version of the course designed by [Prof. Dani Arribas-Bel](https://darribas.org/), [Prof. Diego Puga](https://diegopuga.org/) and [Carmen Cabrera-Arnau](Dr. https://cabrera-arnau.com/).
+author: 
+  - Prof. Dani Arribas-Bel
+  - Prof. Diego Puga
+  - Dr. Carmen Cabrera-Arnau
+date: 2024-10-23
+slug: gds4eco
+image: featured.png
+categories:
+  - Teaching
+  - Python
+  - Data Science
+  - Postgraduate
+  - Urban economics
+---
+
+**URL:** [https://crmnca.github.io/gds4eco/](https://crmnca.github.io/gds4eco/)
+
+**Description:** This course provides an introduction to Geographic Data Science for applied economists using Python. It has been designed to be delivered in 9 hours of teaching, split into six sessions of 1.5 hours each.
+
+**Contents:**<br>
+1. Spatial data<br>
+2. Geovisualisation<br>
+3. Spatial feature engineering (I)<br>
+4. Spatial feature engineering (II)<br>
+5. OpenStreetMap<br>
+6. Transport costs<br>
+
+**Delivery:** as part of the Master in Economics and Finance at 
+[Center for Monetary and Financial Studies (CEMFI)](https://www.cemfi.es/).
+
+
