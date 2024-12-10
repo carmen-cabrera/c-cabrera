@@ -1,0 +1,32 @@
+---
+title: 'Funded PhD studentship opportunity'
+author: 
+  - Carmen Cabrera-Arnau
+date: 2024-12-10
+image: featured.jpg
+categories:
+  - PhD opportunity
+description: ''
+links:
+- icon: journal-text
+  name: Apply
+  url: https://nwssdtp.ac.uk/
+---
+
+I’m seeking prospective PhD students passionate about exploring topics at the intersection of human mobility, socio-environmental sustainability, and social justice through cutting-edge data science research, particularly in urban contexts. Possible projects include:
+
+1️⃣ Investigating how interactions between diverse urban groups influence social cohesion and inclusivity\
+2️⃣ Examining the relationship between urban mobility and environmental sustainability\
+3️⃣ A combination of the above!
+
+Based in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/) within the [University of Liverpool](https://www.liverpool.ac.uk/)'s [Department of Geography and Planning](https://www.liverpool.ac.uk/geography-and-planning/), you’ll join a vibrant research community, gaining expertise in Python/R programming, large-scale digital trace data, network analysis, machine learning, and statistical modelling.
+
+I’m willing to support high-quality applications for PhD or MSc+PhD scholarships through the [Economic and Social Research Council](https://www.ukri.org/councils/esrc/) [North West Social Science Doctoral Training Partnership (NWSSDTP)](https://nwssdtp.ac.uk/), and mentor you throughout the journey. If you are interested, please get in touch!
+
+🗓️ Deadline: 3rd of February - let’s chat before then
+
+🔗 Funding and eligibility details: <https://nwssdtp.ac.uk/how-to-apply/>
+
+📩 My contact details can be found on my website: <https://cabrera-arnau.com/>
+
+Please share widely! 🏙️
