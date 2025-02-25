@@ -3,18 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Carmen Cabrera-Arnau"
-  site-url: https://username.github.io/cabrera-arnau/
+  title: "Carmen Cabrera"
+  site-url: https://username.github.io/carmen-cabrera/
   favicon: assets/cca/img/logo_rounded.svg
   page-navigation: true
   back-to-top-navigation: true
-  twitter-card:
-    creator: "@carmencabarn"
-    site: "@carmencabarn"
-    card-style: summary_large_image
   comments: 
     utterances: 
-      repo: CrmnCA/cabrera-arnau 
+      repo: carmen-cabrera/c-cabrera 
       label: utterances
       theme: body-light
       issue-term: title
@@ -39,7 +35,7 @@ website:
   
   page-footer:  
     left: >-
-     &#169; 2024 Carmen Cabrera-Arnau &#8729; Made with [Quarto](https://quarto.org), using [Silvia Calderon](https://silviacanelon.com/)'s template.
+     &#169; 2024 Carmen Cabrera &#8729; Made with [Quarto](https://quarto.org), using [Silvia Calderon](https://silviacanelon.com/)'s template.
     center: |
       <a class="link-dark me-1" href="https://twitter.com/CarmenCabArn" title="twitter" target="_blank" rel="noopener">{{< fa brands twitter >}}</a>
       <a class="link-dark me-1" href="https://github.com/CrmnCA" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
@@ -73,7 +69,7 @@ format:
       light: assets/cca/a11y-light.theme
       dark: assets/cca/a11y-dark.theme
     code-link: true
-    pagetitle: "{{< meta title >}} | Carmen Cabrera-Arnau"
+    pagetitle: "{{< meta title >}} | Carmen Cabrera"
     lightbox: true
 
 execute: 

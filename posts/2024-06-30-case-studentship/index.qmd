@@ -1,7 +1,7 @@
 ---
 title: 'Fully Funded PhD studentship'
 author: 
-  - Carmen Cabrera-Arnau
+  - Carmen Cabrera
   - Francisco Rowe
 date: 2024-06-30
 image: featured.png
@@ -33,7 +33,7 @@ The project requires the following essential quantitative data science skills, i
 For exceptional applicant candidates, training can be provided in one or more of the skills required for the project.
 
 ## Supervisors for this project
-Geographic Data Science Lab, University of Liverpool: Francisco Rowe (fcorowe@liverpool.ac.uk) and Carmen Cabrera-Arnau (C.Cabrera-Arnau@liverpool.ac.uk)
+Geographic Data Science Lab, University of Liverpool: Francisco Rowe (fcorowe@liverpool.ac.uk) and Carmen Cabrera (C.Cabrera-Arnau@liverpool.ac.uk)
 UKHSA: Donna Clarke and Lorenzo Cattarino
 Funding Notes
 The studentship is co-funded by the ESRC’s North West Social Science Doctoral Training Partnership and the UKHSA. The studentship is open for UK and international students. It is supported for 3 years and includes full tuition fees plus a tax-free stipend (starting at £19,237 for 2024/25 and increasing year by year). Funds for training activities, travel and accommodation, and visits to the UKHSA offices will also be available. A £2,000 bonus per year may be available from UKHSA, subject to funding availability. For more information about the funding, see the NWSSDTP (North West Social Science Doctoral Training Partnership) student handbook at: https://nwssdtp.ac.uk/current-students/

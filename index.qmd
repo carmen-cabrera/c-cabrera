@@ -1,11 +1,11 @@
 ---
-title: "Carmen Cabrera-Arnau"
-pagetitle: "Carmen Cabrera-Arnau"
+title: "Carmen Cabrera"
+pagetitle: "Carmen Cabrera"
 subtitle: "Lecturer in Geographic Data Science"
 image: docs/assets/media/avatar.png
 
 twitter-card:
-    title: Carmen Cabrera-Arnau
+    title: Carmen Cabrera
     description: |
       Lecturer in Geographic Data Science.
     image: docs/assets/media/avatar.png
@@ -15,15 +15,15 @@ about:
   image-width: 28em
   id: hero-heading
   links:
-    - icon: twitter
-      aria-label: Twitter
-      href: https://twitter.com/CarmenCabArn
+    - icon: blsky
+      aria-label: Bluesky
+      href: https://bsky.app/profile/carmen-cabrera.bsky.social
     - icon: github
       aria-label: GitHub
-      href: https://github.com/CrmnCA
+      href: https://github.com/carmen-cabrera
     - icon: linkedin
       aria-label: "LinkedIn"
-      href: https://www.linkedin.com/in/carmen-cabrera-arnau/
+      href: https://www.linkedin.com/in/carmen-cabrera/
     - text: "{{< ai orcid >}}"
       href: https://orcid.org/0000-0002-2732-6436
     - text: "{{< ai google-scholar >}}"
@@ -46,7 +46,7 @@ resources:
 <br><br>
 
 ::: {#hero-heading}
-Carmen Cabrera-Arnau is a **Lecturer in Geographic Data Science** (Assistant Professor) at the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), within the [University of Liverpool](https://www.liverpool.ac.uk/)'s [Department of Geography and Planning](https://www.liverpool.ac.uk/geography-and-planning/). Her areas of expertise are geographic data science, human mobility, network analysis and mathematical modelling. Carmen's research focuses on developing quantitative frameworks to model and predict **human mobility patterns across spatiotemporal scales and population groups**, ranging from intraurban commutes to migratory movements. She is particularly interested in establishing methodologies to facilitate the efficient and reliable use of new forms of digital trace data in the study of human movement.
+Carmen Cabrera is a **Lecturer in Geographic Data Science** (Assistant Professor) at the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), within the [University of Liverpool](https://www.liverpool.ac.uk/)'s [Department of Geography and Planning](https://www.liverpool.ac.uk/geography-and-planning/). Her areas of expertise are geographic data science, human mobility, network analysis and mathematical modelling. Carmen's research focuses on developing quantitative frameworks to model and predict **human mobility patterns across spatiotemporal scales and population groups**, ranging from intraurban commutes to migratory movements. She is particularly interested in establishing methodologies to facilitate the efficient and reliable use of new forms of digital trace data in the study of human movement.
 
 Prior to her position as a Lecturer, Carmen completed a BSc in Physics, followed by an MSc in Complex Systems, specialising in Network Analysis. She then did a PhD in Applied Mathematics at University College London (UCL), focusing on the development of mathematical models of social behaviours in urban areas, against the theoretical backdrop of agglomeration economies. After graduating from her PhD in 2021, she was a Research Fellow in Urban Mobility at the [Centre for Advanced Spatial Analysis](https://www.ucl.ac.uk/bartlett/casa) (CASA), at UCL, where she currently holds a honorary position.
 

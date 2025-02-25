@@ -1,8 +1,8 @@
 ---
 title: "An Introduction to <br>Network Analysis for GIS"
-subtitle: A course based on R computational notebooks. Delivered by Dr. Carmen Cabrera-Arnau and Prof. Francisco Rowe.
+subtitle: A course based on R computational notebooks. Delivered by Dr. Carmen Cabrera and Prof. Francisco Rowe.
 author: 
-  - Carmen Cabrera-Arnau
+  - Carmen Cabrera
   - Francisco Rowe
   - Andrew Renninger
   - Valentina Marín Maureira

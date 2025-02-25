@@ -1,9 +1,9 @@
 ---
 title: "Geographic Data Science"
-subtitle: A course based on R computational notebooks. Designed and delivered by Dr. Elisabetta Pietrostefani and Dr. Carmen Cabrera-Arnau.
+subtitle: A course based on R computational notebooks. Designed and delivered by Dr. Elisabetta Pietrostefani and Dr. Carmen Cabrera.
 author: 
   - Elisabetta Pietrostefani
-  - Carmen Cabrera-Arnau
+  - Carmen Cabrera
 date: 2023-10
 slug: geo-data-sci
 image: featured.png

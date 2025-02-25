@@ -1,7 +1,7 @@
 ---
 title: 'Workshop – An introduction to spatial network analysis'
 author: 
-  - Carmen Cabrera-Arnau
+  - Carmen Cabrera
 date: 2024-09-11
 image: featured.png
 categories:

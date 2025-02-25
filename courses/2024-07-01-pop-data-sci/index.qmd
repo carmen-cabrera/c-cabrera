@@ -1,9 +1,9 @@
 ---
 title: "Population Data Science"
-subtitle: A course based on R computational notebooks. Designed and delivered by Dr. Carmen Cabrera-Arnau, Prof. Francisco Rowe and Dr. Elisabetta Pietrostefani.
+subtitle: A course based on R computational notebooks. Designed and delivered by Dr. Carmen Cabrera, Prof. Francisco Rowe and Dr. Elisabetta Pietrostefani.
 author: 
   - Francisco Rowe
-  - Carmen Cabrera-Arnau
+  - Carmen Cabrera
   - Elisabetta Pietrostefani
 date: 2024-01
 slug: pop-data-sci

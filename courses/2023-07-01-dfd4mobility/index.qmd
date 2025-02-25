@@ -1,9 +1,9 @@
 ---
 title: "Using Digital Footprint Data <br>to Measure and Monitor Human Mobility"
-subtitle: A workshop based on R computation notebooks. Delivered by Prof. Francisco Rowe and Dr. Carmen Cabrera-Arnau.
+subtitle: A workshop based on R computation notebooks. Delivered by Prof. Francisco Rowe and Dr. Carmen Cabrera.
 author: 
   - Francisco Rowe
-  - Carmen Cabrera-Arnau
+  - Carmen Cabrera
   - Miguel González-Leonardo
   - Ruth Neville
   - Andrea Nasuto

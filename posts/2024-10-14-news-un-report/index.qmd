@@ -2,7 +2,7 @@
 title: 'News article: "Digital footprint data analysis contributes to new UN publication"'
 author: 
   - Francisco Rowe
-  - Carmen Cabrera-Arnau
+  - Carmen Cabrera
 date: 2024-10-14
 image: featured.jpeg
 categories:
