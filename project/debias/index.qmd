@@ -2,7 +2,7 @@
 title: 'DEBIAS'
 author: 
   - Francisco Rowe
-  - Carmen Cabrera-
+  - Carmen Cabrera
 date: 2024-08-15
 image: featured.png
 categories:

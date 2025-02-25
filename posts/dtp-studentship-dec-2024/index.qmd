@@ -1,7 +1,7 @@
 ---
 title: 'Funded PhD studentship opportunity'
 author: 
-  - Carmen Cabrera-Arnau
+  - Carmen Cabrera
 date: 2024-12-10
 image: featured.jpg
 categories:
@@ -27,6 +27,6 @@ I’m willing to support high-quality applications for PhD or MSc+PhD scholarshi
 
 🔗 Funding and eligibility details: <https://nwssdtp.ac.uk/how-to-apply/>
 
-📩 My contact details can be found on my website: <https://cabrera-arnau.com/>
+📩 My contact details can be found on my website: <https://c-cabrera.com/>
 
 Please share widely! 🏙️
