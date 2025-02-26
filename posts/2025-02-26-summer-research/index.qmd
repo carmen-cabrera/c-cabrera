@@ -1,0 +1,20 @@
+---
+title: 'Summer Research Programme opportunity for Undergraduates'
+author: 
+  - Carmen Cabrera
+date: 2024-12-10
+image: featured.jpg
+categories:
+  - Summer Research Programme opportunity for Undergraduates
+description: ''
+links:
+- icon: journal-text
+  name: Apply
+  url: https://www.liverpool.ac.uk/global-opportunities/visiting-students/summer-research-programme/projects/geography-planning-urban/
+---
+
+I am looking for motivated undergraduate students to explore how cities bring people together. As urban populations grow and become more diverse, challenges like cultural divides and inequality can limit social connections and access to opportunities. This project uses anonymous mobile phone data to study how different social groups interact in urban spaces and what that means for building more inclusive cities.
+
+Based in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/) within the [University of Liverpool](https://www.liverpool.ac.uk/)'s [Department of Geography and Planning](https://www.liverpool.ac.uk/geography-and-planning/), you’ll join a vibrant research community, gaining data science skills using Python or R, while constirbuting to research that can help build better cities.
+
+If you have further questions, please contact me at: c.cabrera\@liverpool.ac.uk
