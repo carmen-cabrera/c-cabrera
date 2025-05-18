@@ -7,7 +7,7 @@ author:
 - Mara Torres Pinedo
 - Humberto González Ramírez
 - Steven R. Bishop
-date: '2019-05-01'
+date: '2020'
 slug: media-spotlight
 image: featured.png
 categories:

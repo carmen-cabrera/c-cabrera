@@ -1,5 +1,7 @@
 ---
 title: Publications
+description: |
+  For the most updated list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=qAvR9zgAAAAJ&hl=en) profile.
 listing: 
   contents: 
     - "**/index.qmd"

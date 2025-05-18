@@ -7,7 +7,7 @@ author:
 - Mara Torres Pinedo
 - Humberto González Ramírez
 - Steven R. Bishop
-date: '2020-01-01'
+date: '2019'
 slug: methodsx-binning
 image: featured.png
 categories:
