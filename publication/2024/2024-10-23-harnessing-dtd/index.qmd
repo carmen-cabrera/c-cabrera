@@ -1,0 +1,29 @@
+---
+title: "Harnessing Digital Data to Strengthen Disaster Response in Valencia's 2024 Floods"
+author: 
+- Miguel González-Leonardo
+- Francisco Rowe
+- name: Carmen Cabrera
+  orcid: 0000-0002-2732-6436
+
+date: '2024-12-01'
+slug: harnessing-dtd
+image: featured.png
+categories:
+  - Policy report
+  - Internal mobility
+  - Facebook data
+  - Flooding
+  - Valencia
+description: 'Harnessing digital trace data'
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://population-europe.eu/research/policy-insights/harnessing-digital-data-strengthen-disaster-response-valencias-2024-floods
+---
+
+## Abstract
+
+
+Discover the patterns of displacement and return after the devastating October 2024 floods in Valencia. This Policy Insight uses real-time digital data to offer crucial guidance for targeted aid and recovery efforts.

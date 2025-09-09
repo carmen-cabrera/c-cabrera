@@ -1,0 +1,25 @@
+---
+title: "Spatial Network Analysis"
+author: 
+- name: Carmen Cabrera
+  orcid: 0000-0002-2732-6436
+
+
+date: '2025-04-12'
+slug: spatial-network
+image: featured.png
+categories:
+  - Article
+  - Netowrk analysis
+description: 'Spatial Network Analysis'
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.18335/region.v12i1.562
+---
+
+## Abstract
+
+
+The impact of current changes in technology, society, and the environment demand innovative research approaches that can accurately capture the increasing complexity of modern geographic data. To this end, this article provides an introduction to the use and implementation of spatial network analysis for the study of systems where geography matters. Presented as a computational notebook, the article offers practical, hands-on learning resources in R, assuming no prior knowledge from readers. Using a network of road links between African cities as case study, readers will be guided through key concepts and applications of spatial network analysis. The article highlights the relevance of network thinking in addressing contemporary geographic challenges.

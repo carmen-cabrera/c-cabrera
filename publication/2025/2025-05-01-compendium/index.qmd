@@ -1,0 +1,23 @@
+---
+title: "Modeling Urban Population Dynamics and City-to-City Migration"
+author: 
+- Rafael Prieto-Curiel
+- Carmen Cabrera
+
+date: '2025-06-17'
+slug: compendium-cities
+image: featured.png
+categories:
+  - Book chapter
+description: 'Modelling city-to-city migration'
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://link.springer.com/chapter/10.1007/978-3-031-82666-5_5
+---
+
+## Abstract
+
+
+Migration plays a crucial role in urban growth. Over time, individuals opting to relocate led to vast metropolises like London and Paris during the Industrial Revolution, Shanghai and Karachi during the last decades and thousands of smaller settlements. Here, we analyze the impact that migration has on population redistribution. We use a model of city-to-city migration as a process that occurs within a network, where the nodes represent cities, and the edges correspond to the flux of individuals. We analyze metrics characterizing the urban distribution and show how a slight preference for some destinations might result in the observed distribution of the population.

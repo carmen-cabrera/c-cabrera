@@ -1,0 +1,51 @@
+---
+title: "Rethinking GIScience education in an age of disruptions"
+author: 
+- Amy E. Frazier
+- Trisalyn Nelson
+- Peter Kedron
+- Eric Shook
+- Somayeh Dodge
+- Alan Murray
+- Michael Goodchild
+- Sarah Battersby
+- Justine I. Blanford
+- Christophe Claramunt
+- Joseph Holler
+- Caglar Koylu
+- Angela Lee
+- Steven Manson
+- Seda Şalap-Ayça
+- John P. Wilson
+- Bo Zhao
+- Lauren Bennett
+- Carmen Cabrera
+- Rachel Franklin
+- Grant McKenzie
+- Harvey Miller
+- Taylor Oshan
+- Sergio Rey
+- Francisco Rowe
+- Seth Spielman
+- Wenfei Xu
+
+date: '2025-04-16'
+slug: education-agenda
+image: featured.png
+categories:
+  - Research article
+  - Education
+  - GIS
+  - Manifesto
+description: 'Education in GIS'
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.70048
+---
+
+## Abstract
+
+
+GIS and GIScience education have continually evolved over the past three decades, responding to technological advances and societal issues. Today, the content and context in which GIScience is taught continue to be impacted by these disruptions, notably from technology through artificial intelligence (AI) and society through the myriad environmental and social challenges facing the planet. These disruptions create a new landscape for training within the discipline that is affecting not only what is taught in GIScience courses but also who is taught, why it is being taught, and how it is taught. The aim of this paper is to structure a direction for developing and delivering GIScience education that, amid these disruptions, can generate a capable workforce and the next generation of leaders for the discipline. We present a framework for understanding the various emphases of GIScience education and use it to discuss how the content, audience, and purpose are changing. We then discuss how pedagogical strategies and practices can change how GIScience concepts and skills are taught to train more creative, inclusive, and empathetic learners. Specifically, we focus on how GIScience pedagogy should (1) center on problem-based learning, (2) be open and accelerate open science, and (3) cultivate ethical reasoning and practices. We conclude with remarks on how the principles of GIScience education can extend beyond disciplinary boundaries for holistic spatial training across academia.
