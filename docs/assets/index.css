@@ -51,6 +51,22 @@
   padding: 0 2em 0em 0;
 }
 
+/* desktop: keep left profile panel vertically aligned with bio */
+@media screen and (min-width: 992px) {
+  .quarto-about-trestles {
+    align-items: center !important;
+  }
+
+  .quarto-about-trestles .about-entity,
+  .quarto-about-trestles .about-contents {
+    align-self: center !important;
+  }
+
+  .about-image {
+    margin-top: 0;
+  }
+}
+
 /* // Home
 
 // social links

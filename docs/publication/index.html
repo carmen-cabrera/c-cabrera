@@ -6,7 +6,6 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="For the most updated list of publications, including all pre-preprints, please visit my Google Scholar profile.">
 
 <title>Publications | Carmen Cabrera – Carmen Cabrera</title>
 <style>
@@ -32,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../assets/cca/img/logo_rounded.svg" rel="icon" type="image/svg+xml">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -74,74 +71,16 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-categories','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 10,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <link rel="stylesheet" href="../assets/listing-default.css">
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
+<link rel="stylesheet" href="../assets/publications.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -156,16 +95,16 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">HOME</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="../publication/index.html" aria-current="page"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../courses/index.html"> 
 <span class="menu-text">Courses</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../posts/index.html"> 
-<span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../project/index.html"> 
@@ -180,16 +119,25 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content column-page" id="quarto-document-content">
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
 <header id="title-block-header" class="quarto-title-block default page-columns">
 <div id="title-block-header-title" class="quarto-title page-columns page-full page-layout-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);">
 <h1 class="title">Publications</h1>
 </div>
 
-<div>
-  <div id="title-block-title-desc" class="description pt-4">
-    <p>For the most updated list of publications, including all pre-preprints, please visit my <a href="https://scholar.google.com/citations?user=qAvR9zgAAAAJ&amp;hl=en">Google Scholar</a> profile.</p>
-  </div>
-</div>
 
 
 <div class="quarto-title-meta column-page">
@@ -202,677 +150,51 @@ window.Quarto = {
 
 
 
-</header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
-<!-- sidebar -->
-<!-- margin-sidebar -->
-    
-<!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
-
-<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
-<!-- 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title"> 
--->
-<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
-<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+</header>
 
 
+<p>The list below is sourced from my <a href="https://scholar.google.com/citations?user=qAvR9zgAAAAJ&amp;hl=en">Google Scholar profile</a>.</p>
+<div class="pub-list">
+<!-- This file is auto-generated by scripts/update_publications_from_scholar.R -->
+<p>Last update from: 2026-03-03</p>
+<ul>
+<li>Cabrera, C. &amp; Neville, R. (2025). <a href="https://www.tandfonline.com/doi/abs/10.1080/13603108.2025.2595453">Widely used but barely trusted: understanding student perceptions on the use of generative AI in higher education</a>. <em>Perspectives: Policy and Practice in Higher Education</em>, 1-14.</li>
+<li>BALLANTYNE, P., Cabrera, C., Garofani, G., &amp; Singleton, A. (2025). <a href="https://osf.io/download/z456t">Towards safer and more equitable pedestrian crossing siting: a GIS-multi criteria decision analysis approach</a>. <em>SocArXiv</em>.</li>
+<li>Cabrera, C. &amp; Rowe, F. (2025). <a href="https://arxiv.org/abs/2509.02603">A systematic machine learning approach to measure and assess biases in mobile phone population data</a>. <em>arXiv preprint arXiv:</em>, :2509.02603.</li>
+<li>González-Leonardo, M., Cabrera, C., Neville, R., Nasuto, A., &amp; Rowe, F. (2025). <a href="https://read.dukeupress.edu/demography/article-abstract/62/4/1171/402145">Beyond the Immediate Impacts of COVID-19 on Internal Population Movements in Mexico: Facebook Data Reveal Urban Decay and Slow Recovery—A Research Note</a>. <em>Demography</em>, 62 (4), 1171-1184.</li>
+<li>Prieto-Curiel, R. &amp; Cabrera, C. (2025). <a href="https://link.springer.com/chapter/10.1007/978-3-031-82666-5_5">Modeling Urban Population Dynamics and City-to-City Migration</a>. <em>Compendium of Urban Complexity</em>, 99-117.</li>
+<li>Cabrera, C., González-Leonardo, M., Nasuto, A., Neville, R., &amp; Rowe, F. (2025). <a href="https://arxiv.org/abs/2504.15871">Sustained changes to urban mobility after COVID-19 amplified socio-economic inequalities in Latin America</a>. <em>arXiv preprint arXiv:</em>, :2504.15871.</li>
+<li>Cabrera, C. (2025). <a href="https://region.wu.ac.at/ojs/index.php/region/article/view/562">Spatial network analysis</a>. <em>REGION</em>, 12 (1), 73-101.</li>
+<li>Renninger, A. &amp; Cabrera, C. (2025). <a href="https://arxiv.org/abs/2501.03978">Extreme heat reduces and reshapes urban mobility</a>. <em>arXiv preprint arXiv:</em>, :2501.03978.</li>
+<li>Nelson, T., E Frazier, A., Kedron, P., Dodge, S., Zhao, B., Goodchild, M., Murray, A., Battersby, S., Bennett, L., I Blanford, J., Cabrera-Arnau, C., Claramunt, C., Franklin, R., Holler, J., Koylu, C., Lee, A., Manson, S., McKenzie, G., Miller, H., Oshan, T., Rey, S., Rowe, F., Şalap-Ayça, S., Shook, E., Spielman, S., Xu, W., &amp; Wilson, J. (2025). <a href="https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2405191">A research agenda for GIScience in a time of disruptions</a>. <em>International Journal of Geographical Information Science</em>, 39 (1), 1-24.</li>
+<li>Cabrera, C., Rowe, F., González-Leonardo, M., Nasuto, A., &amp; Neville, R. (2025). <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250415871C/abstract">Long-term disparities in the recovery of urban mobility after COVID-19 in Latin America</a>. <em>arXiv e-prints, arXiv:</em>, 2504.15871.</li>
+<li>E Frazier, A., Nelson, T., Kedron, P., Shook, E., Dodge, S., Murray, A., Goodchild, M., Battersby, S., I Blanford, J., Claramunt, C., Holler, J., Koylu, C., Lee, A., Manson, S., Şalap‐Ayça, S., P Wilson, J., Zhao, B., Bennett, L., Cabrera, C., Franklin, R., McKenzie, G., Miller, H., Oshan, T., Rey, S., Rowe, F., Spielman, S., &amp; Xu, W. (2025). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.70048">Rethinking GIScience education in an age of disruptions</a>. <em>Transactions in GIS</em>, 29 (2), e70048.</li>
+<li>Rowe, F., Cabrera-Arnau, C., González-Leonardo, M., Nasuto, A., &amp; Neville, R. (2024). <a href="https://repositorio.cepal.org/entities/publication/48cdabf4-a1af-4a2e-8974-3191b7e23993">Cambios a mediano plazo en los movimientos poblacionales internos de los países de América Latina: los efectos de la pandemia de COVID-19</a>. <em>CEPAL</em>.</li>
+<li>Rowe, F., Cabrera-Arnau, C., González-Leonardo, M., Nasuto, A., &amp; Neville, R. (2024). <a href="https://repositorio.cepal.org/entities/publication/1bb0e4d4-f51a-47e9-8a4d-b9fea79f16dc">Medium-term changes in the patterns of internal population movements in Latin American countries: effects of the COVID-19 pandemic</a>. <em>ECLAC</em>.</li>
+<li>González-Leonardo, M., Cabrera-Arnau, C., Neville, R., Nasuto, A., &amp; Rowe, F. (2024). <a href="https://pure.iiasa.ac.at/id/eprint/19447/">“Urban Exodus” During COVID-19in Mexico? UsingDigital Data to AnalyzeMedium-Term Pandemic Impacts on Internal Population Movements</a>. <em>OSF preprrints</em>.</li>
+<li>González-Leonardo, M., Cabrera-Arnau, C., Neville, R., Nasuto, A., &amp; Rowe, F. (2024). <a href="https://www.scielo.org.mx/scielo.php?pid=S0186-72102024000300102&amp;script=sci_abstract&amp;tlng=en">COVID-19 and internal population movements across the urban hierarchy in Mexico. An analysis using digital data</a>. <em>Estudios demográficos y urbanos</em>, 39 (3).</li>
+<li>González-Leonardo, M., Cabrera-Arnau, C., Neville, R., Nasuto, A., &amp; Rowe, F. (2024). <a href="https://www.scielo.org.mx/scielo.php?pid=S0186-72102024000300102&amp;script=sci_arttext">COVID-19 y movimientos de población entre la jerarquía urbana en México. Un análisis utilizando datos digitales</a>. <em>Estudios demográficos y urbanos</em>, 39 (3).</li>
+<li>González-Leonardo, M., Cabrera-Arnau, C., &amp; Rowe, F. (2024). <a href="https://www.researchgate.net/profile/Miguel-Gonzalez-Leonardo/publication/387378294_Harnessing_Digital_Data_to_Strengthen_Disaster_Response_in_Valencia's_2024_Floods/links/676b594c894c552085285acc/Harnessing-Digital-Data-to-Strengthen-Disaster-Response-in-Valencias-2024-Floods.pdf">Harnessing digital data to strengthen disaster response in valencia’s 2024 floods</a>. <em>Population Europe. Available online: https://population-europe. eu/research …</em>.</li>
+<li>Cabrera-Arnau, C., Wei Ng, L., Wong, H., &amp; Zhong, C. (2023). <a href="https://arxiv.org/abs/2310.02385">The temporal concentration of travel demand in an urban transport network</a>. <em>arXiv preprint arXiv:</em>, :2310.02385.</li>
+<li>Renninger, A., Marín Maureira, V., Cabrera-Arnau, C., &amp; Prieto-Curiel, R. (2023). <a href="https://arxiv.org/abs/2307.06402">Detecting the sensitive spots of the African interurban transport network</a>. <em>arXiv preprint arXiv:</em>, :2307.06402.</li>
+<li>Cabrera-Arnau, C., Zhong, C., Batty, M., Silva, R., &amp; Moon Kang, S. (2023). <a href="https://www.nature.com/articles/s41598-023-33003-7">Inferring urban polycentricity from the variability in human mobility patterns</a>. <em>Scientific Reports</em>, 13 (1), 5751.</li>
+<li>Wang, Y., Zhong, C., Gao, Q., &amp; Cabrera-Arnau, C. (2022). <a href="https://link.springer.com/article/10.1007/s44212-022-00018-w">Understanding internal migration in the UK before and during the COVID-19 pandemic using twitter data</a>. <em>Urban informatics</em>, 1 (1), 15.</li>
+<li>Prieto Curiel, R., Cabrera-Arnau, C., &amp; Richard Bishop, S. (2022). <a href="https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2022.858307/full">Scaling beyond cities</a>. <em>Frontiers in Physics</em>, 10, 858307.</li>
+<li>Cabrera Arnau, C. (2021). <a href="https://discovery.ucl.ac.uk/id/eprint/10139346/">Mathematical modelling of social phenomena in urban areas</a>. <em>UCL (University College London)</em>.</li>
+<li>Cabrera-Arnau, C. &amp; R Bishop, S. (2021). <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256485">Urban population size and road traffic collisions in Europe</a>. <em>PLoS one</em>, 16 (8), e0256485.</li>
+<li>Cabrera-Arnau, C. &amp; R Bishop, S. (2020). <a href="https://www.nature.com/articles/s41598-020-77232-6">The effect of dragon-kings on the estimation of scaling law parameters</a>. <em>Scientific reports</em>, 10 (1), 20226.</li>
+<li>Cabrera-Arnau, C., Prieto Curiel, R., &amp; Richard Bishop, S. (2020). <a href="https://royalsocietypublishing.org/rsos/article/7/4/191739/116869">Uncovering the behaviour of road accidents in urban areas</a>. <em>Royal Society open science</em>, 7 (4).</li>
+<li>Prieto Curiel, R., Cabrera-Arnau, C., Torres Pinedo, M., González Ramírez, H., &amp; R Bishop, S. (2020). <a href="https://www.sciencedirect.com/science/article/pii/S2215016119302857">A continuous binning for discrete, sparse and concentrated observations</a>. <em>MethodsX</em>, 7, 100709.</li>
+<li>Prieto Curiel, R., Cabrera-Arnau, C., Torres Pinedo, M., González Ramírez, H., &amp; R Bishop, S. (2019). <a href="https://www.sciencedirect.com/science/article/pii/S0198971518303995">Temporal and spatial analysis of the media spotlight</a>. <em>Computers, Environment and Urban Systems</em>, 75, 254-263.</li>
+<li>Newsham, N., Kumar, P., Cabrera-Arnau, C., &amp; Rowe, F. (NA). <a href="https://www.researchgate.net/profile/Francisco-Rowe/publication/380988314_A_Long_Short-Term_Memory_Forecast_of_sub-National_Population_Change_Across_Europe/links/6744f06a27661f7ae66b6891/A-Long-Short-Term-Memory-Forecast-of-sub-National-Population-Change-Across-Europe.pdf">A Long Short-Term Memory Forecast of sub-National Population Change Across Europe</a>. <em>OSF</em>.</li>
+<li>Vision, O. (NA). <a href="https://www.turing.ac.uk/sites/default/files/2021-11/the_alan_turing_institute_data_study_group_final_report_-_odin_vision.pdf">Data Study Group Final Report</a>.</li>
+<li>Rowe, F., Cabrera-Arnau, C., &amp; Pietrostefani, E. (NA). <a href="https://scholar.google.com/scholar?cluster=10810875128070651709&amp;hl=en&amp;oi=scholarr">Population Science</a>.</li>
+</ul>
+</div>
 
 
 
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-left" data-index="0" data-categories="Research article,Internal mobility,Facebook data,Covid-19,Mexico" data-listing-date-sort="1754434800000" data-listing-file-modified-sort="1757408136011" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="186">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2025/2025-08-06-demography/index.html" class="no-external">Beyond the Immediate Impacts of COVID-19 on Internal Population Movements in Mexico: Facebook Data Reveal Urban Decay and Slow Recovery—A Research Note</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2025/2025-08-06-demography/index.html" class="no-external"> </a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research article'); return false;">
-Research article
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Internal mobility'); return false;">
-Internal mobility
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Facebook data'); return false;">
-Facebook data
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Covid-19'); return false;">
-Covid-19
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Mexico'); return false;">
-Mexico
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2025/2025-08-06-demography/index.html" class="no-external">
-<div class="listing-date">
-Aug 6, 2025
-</div>
-<div class="listing-author">
-Miguel González-Leonardo, Carmen Cabrera, Ruth Neville, Andrea Nasuto, Francisco Rowe
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="1" data-categories="Book chapter" data-listing-date-sort="1750114800000" data-listing-file-modified-sort="1757407742424" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2025/2025-05-01-compendium/index.html" class="no-external">Modeling Urban Population Dynamics and City-to-City Migration</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2025/2025-05-01-compendium/index.html" class="no-external"> </a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Book chapter'); return false;">
-Book chapter
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2025/2025-05-01-compendium/index.html" class="no-external">
-<div class="listing-date">
-Jun 17, 2025
-</div>
-<div class="listing-author">
-Rafael Prieto-Curiel, Carmen Cabrera
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="2" data-categories="Research article,Education,GIS,Manifesto" data-listing-date-sort="1744758000000" data-listing-file-modified-sort="1757407440017" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="225">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2025/2025-03-01-gis-education/index.html" class="no-external">Rethinking GIScience education in an age of disruptions</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2025/2025-03-01-gis-education/index.html" class="no-external"> </a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research article'); return false;">
-Research article
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Education'); return false;">
-Education
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('GIS'); return false;">
-GIS
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Manifesto'); return false;">
-Manifesto
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2025/2025-03-01-gis-education/index.html" class="no-external">
-<div class="listing-date">
-Apr 16, 2025
-</div>
-<div class="listing-author">
-Amy E. Frazier, Trisalyn Nelson, Peter Kedron, Eric Shook, Somayeh Dodge, Alan Murray, Michael Goodchild, Sarah Battersby, Justine I. Blanford, Christophe Claramunt, Joseph Holler, Caglar Koylu, Angela Lee, Steven Manson, Seda Şalap-Ayça, John P. Wilson, Bo Zhao, Lauren Bennett, Carmen Cabrera, Rachel Franklin, Grant McKenzie, Harvey Miller, Taylor Oshan, Sergio Rey, Francisco Rowe, Seth Spielman, Wenfei Xu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="3" data-categories="Article,Netowrk analysis" data-listing-date-sort="1744412400000" data-listing-file-modified-sort="1757407957949" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2025/2025-04-12-region/index.html" class="no-external">Spatial Network Analysis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2025/2025-04-12-region/index.html" class="no-external"> </a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Article'); return false;">
-Article
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Netowrk analysis'); return false;">
-Netowrk analysis
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2025/2025-04-12-region/index.html" class="no-external">
-<div class="listing-date">
-Apr 12, 2025
-</div>
-<div class="listing-author">
-Carmen Cabrera
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="4" data-categories="Policy report,Internal mobility,Facebook data,Flooding,Valencia" data-listing-date-sort="1733011200000" data-listing-file-modified-sort="1757406720744" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2024/2024-10-23-harnessing-dtd/index.html" class="no-external">Harnessing Digital Data to Strengthen Disaster Response in Valencia’s 2024 Floods</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2024/2024-10-23-harnessing-dtd/index.html" class="no-external"> </a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Policy report'); return false;">
-Policy report
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Internal mobility'); return false;">
-Internal mobility
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Facebook data'); return false;">
-Facebook data
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Flooding'); return false;">
-Flooding
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Valencia'); return false;">
-Valencia
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2024/2024-10-23-harnessing-dtd/index.html" class="no-external">
-<div class="listing-date">
-Dec 1, 2024
-</div>
-<div class="listing-author">
-Miguel González-Leonardo, Francisco Rowe, Carmen Cabrera
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="5" data-categories="Research article,Internal mobility,Facebook data,Covid-19,Latin Americo" data-listing-date-sort="1727737200000" data-listing-file-modified-sort="1740558328242" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="260">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2024/2024-10-23-internal-migration-covid-latin-eclac/index.html" class="no-external">Medium-term changes in the patterns of internal population movements in Latin American countries: effects of the COVID-19 pandemic</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2024/2024-10-23-internal-migration-covid-latin-eclac/index.html" class="no-external"> </a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research article'); return false;">
-Research article
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Internal mobility'); return false;">
-Internal mobility
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Facebook data'); return false;">
-Facebook data
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Covid-19'); return false;">
-Covid-19
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Latin Americo'); return false;">
-Latin Americo
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2024/2024-10-23-internal-migration-covid-latin-eclac/index.html" class="no-external">
-<div class="listing-date">
-Oct 1, 2024
-</div>
-<div class="listing-author">
-Francisco Rowe, Carmen Cabrera-Arnau, Miguel González-Leonardo, Ruth Neville, Andrea Nasuto
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="6" data-categories="Internal mobility,Facebook data,Covid-19,Mexico" data-listing-date-sort="1727564400000" data-listing-file-modified-sort="1740558328240" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="191">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2024/2024-09-29-gis-agenda/index.html" class="no-external">A research agenda for GIScience in a time of disruptions</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2024/2024-09-29-gis-agenda/index.html" class="no-external">A discussion on to establish a research agenda for GIScience focusing on the relevance and real-world impact of research, adopting systems-based thinking and contextual approaches and emphasising inclusive practices.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Internal mobility'); return false;">
-Internal mobility
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Facebook data'); return false;">
-Facebook data
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Covid-19'); return false;">
-Covid-19
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Mexico'); return false;">
-Mexico
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2024/2024-09-29-gis-agenda/index.html" class="no-external">
-<div class="listing-date">
-Sep 29, 2024
-</div>
-<div class="listing-author">
-Trisalyn Nelson, Amy E. Frazier, Peter Kedron, Somayeh Dodge, Bo Zhao, Michael Goodchild, Alan Murray, Sarah Battersby, Lauren Bennett, Justine I. Blanford, Carmen Cabrera-Arnau, Christophe Claramunt, Rachel Franklin, Joseph Holler, Caglar Koylu, Angela Lee, Steven Manson, Grant McKenzie, Harvey Miller, Taylor Oshan, Sergio Rey, Francisco Rowe, Seda Şalap-Ayça, Eric Shook, Seth Spielman, Wenfei Xu, John Wilson
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="7" data-categories="Internal mobility,Facebook data,Covid-19,Mexico" data-listing-date-sort="1722466800000" data-listing-file-modified-sort="1740558328239" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="357">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2024/2024-08-01-migration-covid-mexico-spanish/index.html" class="no-external">COVID-19 y movimientos de población entre la jerarquía urbana en México. Un análisis utilizando datos digitales</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2024/2024-08-01-migration-covid-mexico-spanish/index.html" class="no-external">Analysis of the extent and persistence of patterns of urban exodus due to COVID-19 in Mexico.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Internal mobility'); return false;">
-Internal mobility
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Facebook data'); return false;">
-Facebook data
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Covid-19'); return false;">
-Covid-19
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Mexico'); return false;">
-Mexico
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2024/2024-08-01-migration-covid-mexico-spanish/index.html" class="no-external">
-<div class="listing-date">
-Aug 1, 2024
-</div>
-<div class="listing-author">
-Miguel González-Leonardo, Carmen Cabrera-Arnau, Francisco Rowe, Andrea Nasuto, Ruth Neville
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="8" data-categories="Research,Urban mobility,Transport network,Spatio-temporal variability" data-listing-date-sort="1696287600000" data-listing-file-modified-sort="1740558328222" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="253">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2023/2023-10-03-time-concentration-network/index.html" class="no-external">The temporal concentration of travel demand in an urban transport network</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2023/2023-10-03-time-concentration-network/index.html" class="no-external">A metric is proposed to measure the temporal concentration of travel demand across the underground network in London. A methodology is proposed to understand the spatial variability and the drivers of the temporal concentration of travel demand. The analysis uses smart travel card data facilitated by Transport for London.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Urban mobility'); return false;">
-Urban mobility
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Transport network'); return false;">
-Transport network
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Spatio-temporal variability'); return false;">
-Spatio-temporal variability
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2023/2023-10-03-time-concentration-network/index.html" class="no-external">
-<div class="listing-date">
-Oct 3, 2023
-</div>
-<div class="listing-author">
-Carmen Cabrera-Arnau, Liang Wei Ng, Howard Wong, Chen Zhong
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="9" data-categories="Research,Transport network,Network resilience,Violent conflict,Africa" data-listing-date-sort="1689116400000" data-listing-file-modified-sort="1740558328220" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="243">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2023/2023-07-12-sensitive-african-network/index.html" class="no-external">Detecting the sensitive spots of the African interurban transport network</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2023/2023-07-12-sensitive-african-network/index.html" class="no-external">We measure the resilience of the African transport network based on the intensity of future violent events and the impact of one event on the flow that travels through the network. We use data from OpenStreetMap to construct the road network.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Transport network'); return false;">
-Transport network
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Network resilience'); return false;">
-Network resilience
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Violent conflict'); return false;">
-Violent conflict
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Africa'); return false;">
-Africa
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2023/2023-07-12-sensitive-african-network/index.html" class="no-external">
-<div class="listing-date">
-Jul 12, 2023
-</div>
-<div class="listing-author">
-Andrew Renninger, Valentina Marín Maureira, Carmen Cabrera-Arnau, Rafael Prieto Curiel
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="10" data-categories="Research,Urban mobility,Urban structure,Statistical Inference" data-listing-date-sort="1680822000000" data-listing-file-modified-sort="1740558328217" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="160">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2023/2023-04-07-inferring-polycentricity/index.html" class="no-external">Inferring urban polycentricity from the variability in human mobility patterns</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2023/2023-04-07-inferring-polycentricity/index.html" class="no-external">Smart travel card data is used to infer urban polycentricity by examining how a city departs from a well-defined monocentric model. The analysis is applied to London and Seoul.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Urban mobility'); return false;">
-Urban mobility
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Urban structure'); return false;">
-Urban structure
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Statistical Inference'); return false;">
-Statistical Inference
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2023/2023-04-07-inferring-polycentricity/index.html" class="no-external">
-<div class="listing-date">
-Apr 7, 2023
-</div>
-<div class="listing-author">
-Carmen Cabrera-Arnau, Chen Zhong, Michael Batty, Richardo Silva, Soon Moon Kang
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="11" data-categories="Research,Internal migration,Twitter data,Covid-19,UK" data-listing-date-sort="1669680000000" data-listing-file-modified-sort="1740558328215" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="240">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2022/2022-11-29-migration-uk-covid/index.html" class="no-external">Understanding internal migration in the UK before and during the COVID-19 pandemic using Twitter data</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2022/2022-11-29-migration-uk-covid/index.html" class="no-external">Twitter data is used to monitor internal migration patterns in the UK during the COVID-19 pandemic.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Internal migration'); return false;">
-Internal migration
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Twitter data'); return false;">
-Twitter data
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Covid-19'); return false;">
-Covid-19
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UK'); return false;">
-UK
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2022/2022-11-29-migration-uk-covid/index.html" class="no-external">
-<div class="listing-date">
-Nov 29, 2022
-</div>
-<div class="listing-author">
-Yikang Wang, Chen Zhong, Carmen Cabrera-Arnau, Qili Gao
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="12" data-categories="Research,Urban analytics,City sizes,Urban scaling,Africa" data-listing-date-sort="1649113200000" data-listing-file-modified-sort="1740558328213" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2022/2022-04-05-scaling-beyond-cities/index.html" class="no-external">Sacaling beyond cities</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2022/2022-04-05-scaling-beyond-cities/index.html" class="no-external">An analysis of the scaling behaviour of cities beyond their boundaries by considering the emergence and growth of nearby cities, using data from OpenStreetMap.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Urban analytics'); return false;">
-Urban analytics
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('City sizes'); return false;">
-City sizes
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Urban scaling'); return false;">
-Urban scaling
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Africa'); return false;">
-Africa
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2022/2022-04-05-scaling-beyond-cities/index.html" class="no-external">
-<div class="listing-date">
-Apr 5, 2022
-</div>
-<div class="listing-author">
-Rafael Prieto Curiel, Carmen Cabrera-Arnau, Steven R. Bishop
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="13" data-categories="Research,PhD thesis" data-listing-date-sort="1638230400000" data-listing-file-modified-sort="1740558328208" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="236">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2021/2021-11-30-thesis/index.html" class="no-external">Mathematical modelling of social phenomena in urban areas</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2021/2021-11-30-thesis/index.html" class="no-external">Doctoral thesis in Applied mathematics, completed at UCL’s Departmet of mathematics</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('PhD thesis'); return false;">
-PhD thesis
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2021/2021-11-30-thesis/index.html" class="no-external">
-<div class="listing-date">
-Nov 30, 2021
-</div>
-<div class="listing-author">
-Carmen Cabrera-Arnau
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="14" data-categories="Research,Urban scaling,Road traffic collisions,Europe" data-listing-date-sort="1630018800000" data-listing-file-modified-sort="1740558328205" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2021/2021-08-27-urban-collisions-europe/index.html" class="no-external">Urban population size and road traffic collisions in Europe</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2021/2021-08-27-urban-collisions-europe/index.html" class="no-external">An analysis of road traffic collisions in European cities from the perspective of urban scaling models</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Urban scaling'); return false;">
-Urban scaling
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Road traffic collisions'); return false;">
-Road traffic collisions
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Europe'); return false;">
-Europe
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2021/2021-08-27-urban-collisions-europe/index.html" class="no-external">
-<div class="listing-date">
-Aug 27, 2021
-</div>
-<div class="listing-author">
-Carmen Cabrera-Arnau, Steven R. Bishop
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="15" data-categories="Research,Urban scaling,Dragon-king cities" data-listing-date-sort="1605657600000" data-listing-file-modified-sort="1740558328202" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="197">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2020/2020-11-18-dragon-kings/index.html" class="no-external">The effect of dragon-kings on the estimation of scaling law parameters</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2020/2020-11-18-dragon-kings/index.html" class="no-external">An analysis based on synthetic data to test the sensitivity of urban scaling law parameters to the presence of statistical outliers</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Urban scaling'); return false;">
-Urban scaling
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Dragon-king cities'); return false;">
-Dragon-king cities
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2020/2020-11-18-dragon-kings/index.html" class="no-external">
-<div class="listing-date">
-Nov 18, 2020
-</div>
-<div class="listing-author">
-Carmen Cabrera-Arnau, Steven R. Bishop
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="16" data-categories="Research,Urban scaling,Road traffic collisions,UK" data-listing-date-sort="1586905200000" data-listing-file-modified-sort="1740558328198" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="201">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2020/2020-04-15-uncovering-road-traffic/index.html" class="no-external">Uncovering the behaviour of road accidents in urban areas</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2020/2020-04-15-uncovering-road-traffic/index.html" class="no-external">An analysis looking into the scaling behaviour of road traffic collisions in England and Wales, according to the degree of severity</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Urban scaling'); return false;">
-Urban scaling
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Road traffic collisions'); return false;">
-Road traffic collisions
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UK'); return false;">
-UK
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2020/2020-04-15-uncovering-road-traffic/index.html" class="no-external">
-<div class="listing-date">
-Apr 15, 2020
-</div>
-<div class="listing-author">
-Carmen Cabrera-Arnau, Rafael Prieto Curiel, Steven R. Bishop
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="17" data-categories="Research,Urban scaling,Time series analysis,Media coverage,Mexico" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1747590518295" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="164">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2020/2020-01-01-methodsx-binning/index.html" class="no-external">Temporal and spatial analysis of the media spotlight</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2020/2020-01-01-methodsx-binning/index.html" class="no-external">Study of the spatiotemporal variation of the media coverage following a natural disaster affecting multiple Mexican cities</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Urban scaling'); return false;">
-Urban scaling
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Time series analysis'); return false;">
-Time series analysis
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Media coverage'); return false;">
-Media coverage
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Mexico'); return false;">
-Mexico
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2020/2020-01-01-methodsx-binning/index.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2020
-</div>
-<div class="listing-author">
-Rafael Prieto Curiel, Carmen Cabrera-Arnau, Mara Torres Pinedo, Humberto González Ramírez, Steven R. Bishop
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="18" data-categories="Research,Methods,Time series" data-listing-date-sort="1546300800000" data-listing-file-modified-sort="1747590459525" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="137">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publication/2019/2019-05-01-media-spotlight/index.html" class="no-external">A continuous binning for discrete, sparse and concentrated observations</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publication/2019/2019-05-01-media-spotlight/index.html" class="no-external">A new method for computing functions over sparse and concentrated data is constructed.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Research'); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Methods'); return false;">
-Methods
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Time series'); return false;">
-Time series
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../publication/2019/2019-05-01-media-spotlight/index.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2019
-</div>
-<div class="listing-author">
-Rafael Prieto Curiel, Carmen Cabrera-Arnau, Mara Torres Pinedo, Humberto González Ramírez, Steven R. Bishop
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

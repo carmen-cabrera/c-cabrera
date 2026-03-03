@@ -1,0 +1,30 @@
+.pub-list ul li {
+  margin-bottom: 0.85rem;
+}
+
+.pub-list ul li:last-child {
+  margin-bottom: 0;
+}
+
+/* Ensure title block sits above intro text (not inline with it) */
+#title-block-header,
+#title-block-header-title {
+  display: block;
+  width: 100%;
+}
+
+/* Remove featured-image title strip on publications index */
+#title-block-header-title.featured-image {
+  background-image: none !important;
+  padding: 0 !important;
+}
+
+#title-block-header-title .title {
+  color: inherit !important;
+  margin-bottom: 0;
+}
+
+/* Push intro text ~1.5 cm below title */
+#title-block-header + p {
+  margin-top: 1.5cm !important;
+}

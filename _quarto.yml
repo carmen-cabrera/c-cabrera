@@ -18,15 +18,15 @@ website:
   navbar:
 
     right:
+      - text: HOME
+        aria-label: "Home"
+        href: index.qmd
       - text: Publications
         aria-label: "Publications"
         href: publication/index.qmd
       - text: Courses 
         aria-label: "Courses"
         href: courses/index.qmd  
-      - text: Posts
-        aria-label: "Posts"
-        href: posts/index.qmd
       - text: Projects
         aria-label: "Projects"
         href: project/index.qmd
