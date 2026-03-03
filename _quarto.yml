@@ -35,9 +35,8 @@ website:
   
   page-footer:  
     left: >-
-     &#169; 2024 Carmen Cabrera &#8729; Made with [Quarto](https://quarto.org), using [Silvia Calderon](https://silviacanelon.com/)'s template.
+     <span style="white-space: nowrap;">&#169; 2024 Carmen Cabrera &#8729; Made with [Quarto](https://quarto.org), using [Silvia Calderon](https://silviacanelon.com/)'s template.</span>
     center: |
-      <a class="link-dark me-1" href="https://twitter.com/CarmenCabArn" title="twitter" target="_blank" rel="noopener">{{< fa brands twitter >}}</a>
       <a class="link-dark me-1" href="https://github.com/CrmnCA" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
       <a class="link-dark me-1" href="https://www.linkedin.com/in/carmen-cabrera-arnau/" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
       <a class="link-dark me-1" href="https://orcid.org/0000-0002-2732-6436" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>

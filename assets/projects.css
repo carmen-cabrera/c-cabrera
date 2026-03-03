@@ -1,0 +1,16 @@
+/* Projects page spacing tweak */
+#quarto-document-content > ul:first-of-type {
+  margin-top: 1.3cm;
+}
+
+#quarto-document-content > ul:first-of-type > li {
+  margin-bottom: 1.5rem;
+}
+
+#quarto-document-content > ul:first-of-type > li:last-child {
+  margin-bottom: 0;
+}
+
+#quarto-document-content > ul:first-of-type > li > ul {
+  margin-top: 0.1rem;
+}

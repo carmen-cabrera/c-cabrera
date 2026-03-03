@@ -1,5 +1,5 @@
 ---
-title: "Population Data Science"
+title: "Computational Social Science"
 subtitle: A course based on R computational notebooks. Designed and delivered by Dr. Carmen Cabrera, Prof. Francisco Rowe and Dr. Elisabetta Pietrostefani.
 author: 
   - Francisco Rowe
@@ -17,7 +17,7 @@ categories:
 
 **URL:** [population-science.net](https://www.population-science.net/)
 
-**Description:** You will learn applied tools and cutting-edge analytical approaches to use digital footprint data to explore and understand human population trends and patterns.
+**Description:** This module introduces computational social science, where data science meets the study of human behaviour and societal change, equipping students to analyse data and address problems related to population dynamics, human mobility and demographics.
 
 **Contents:**<br>
 1. Overview<br>
@@ -33,5 +33,3 @@ categories:
 11. Datasets<br>
 
 **Delivery:** as part of the MSc in Geographic Data Science at the University of Liverpool.
-
-

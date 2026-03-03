@@ -6,7 +6,6 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="I am a contributor to multiple open-source courses, intended for university teahing and training workshops.">
 
 <title>Courses | Carmen Cabrera – Carmen Cabrera</title>
 <style>
@@ -32,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../assets/cca/img/logo_rounded.svg" rel="icon" type="image/svg+xml">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -74,73 +71,16 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-categories','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <link rel="stylesheet" href="../assets/listing-default.css">
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
+<link rel="stylesheet" href="../assets/courses.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -154,6 +94,10 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">HOME</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="../publication/index.html"> 
 <span class="menu-text">Publications</span></a>
@@ -175,16 +119,25 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content column-page" id="quarto-document-content">
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
 <header id="title-block-header" class="quarto-title-block default page-columns">
 <div id="title-block-header-title" class="quarto-title page-columns page-full page-layout-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);">
 <h1 class="title">Courses</h1>
 </div>
 
-<div>
-  <div id="title-block-title-desc" class="description pt-4">
-    <p>I am a contributor to multiple open-source courses, intended for university teahing and training workshops.</p>
-  </div>
-</div>
 
 
 <div class="quarto-title-meta column-page">
@@ -197,213 +150,41 @@ window.Quarto = {
 
 
 
-</header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
-<!-- sidebar -->
-<!-- margin-sidebar -->
-    
-<!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
-
-<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
-<!-- 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title"> 
--->
-<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
-<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+</header>
 
 
+<!-- Auto-generated by scripts/update_courses_list.R -->
+<ul>
+<li><a href="https://carmen-cabrera.github.io/gds4eco/">Geographic Data Science for Applied Economists</a>
+<ul>
+<li>Description: This course provides an introduction to Geographic Data Science for applied economists using Python.</li>
+<li>Authors: Prof.&nbsp;Dani Arribas-Bel, Prof.&nbsp;Diego Puga, Dr.&nbsp;Carmen Cabrera</li>
+</ul></li>
+<li><a href="https://www.population-science.net/">Computational Social Science</a>
+<ul>
+<li>Description: This module introduces computational social science, where data science meets the study of human behaviour and societal change, equipping students to analyse data and address problems related to population dynamics, human mobility and demographics.</li>
+<li>Authors: Francisco Rowe, Carmen Cabrera, Elisabetta Pietrostefani</li>
+</ul></li>
+<li><a href="https://pietrostefani.github.io/gds/">Geographic Data Science</a>
+<ul>
+<li>Description: This module will introduce students to the field of Geographic Data Science (GDS), a discipline established at the intersection between Geographic Information Science (GIS) and Data Science.</li>
+<li>Authors: Elisabetta Pietrostefani, Carmen Cabrera</li>
+</ul></li>
+<li><a href="https://crmnca.github.io/nets4gis/">An Introduction to Network Analysis for GIS</a>
+<ul>
+<li>Description: This workshop offers an introduction to Network Analysis.</li>
+<li>Authors: Carmen Cabrera, Francisco Rowe, Andrew Renninger, Valentina Marín Maureira, Rafael Prieto-Curiel</li>
+</ul></li>
+<li><a href="https://fcorowe.github.io/dfd4mobility/">Using Digital Footprint Data to Measure and Monitor Human Mobility</a>
+<ul>
+<li>Description: This workshop offers an introduction to the use of digital footprint data from Meta-Facebook to analyse internal population movements.</li>
+<li>Authors: Francisco Rowe, Carmen Cabrera, Miguel González-Leonardo, Ruth Neville, Andrea Nasuto</li>
+</ul></li>
+</ul>
 
 
 
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-left" data-index="0" data-categories="Teaching,Python,Data Science,Postgraduate,Urban economics" data-listing-date-sort="1729638000000" data-listing-file-modified-sort="1740558327905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="67">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../courses/2024-10-23-gds4eco/index.html" class="no-external">Geographic Data Science for Applied Economists</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../courses/2024-10-23-gds4eco/index.html" class="no-external">Delivered by Dr.&nbsp;Carmen Cabrera. The course website has been created by Dr.&nbsp;Cabrera based on a previous version of the course designed by </a><a href="https://darribas.org/">Prof.&nbsp;Dani Arribas-Bel</a>, <a href="https://diegopuga.org/">Prof.&nbsp;Diego Puga</a> and <a href="Dr. https://c-cabrera.com/">Carmen Cabrera</a>.
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Teaching'); return false;">
-Teaching
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
-Python
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Data Science'); return false;">
-Data Science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Postgraduate'); return false;">
-Postgraduate
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Urban economics'); return false;">
-Urban economics
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../courses/2024-10-23-gds4eco/index.html" class="no-external">
-<div class="listing-date">
-Oct 23, 2024
-</div>
-<div class="listing-author">
-Prof.&nbsp;Dani Arribas-Bel, Prof.&nbsp;Diego Puga, Dr.&nbsp;Carmen Cabrera
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="1" data-categories="Teaching,R,Data Science,Postgraduate" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1740558327901" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../courses/2024-07-01-pop-data-sci/index.html" class="no-external">Population Data Science</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../courses/2024-07-01-pop-data-sci/index.html" class="no-external">A course based on R computational notebooks. Designed and delivered by Dr.&nbsp;Carmen Cabrera, Prof.&nbsp;Francisco Rowe and Dr.&nbsp;Elisabetta Pietrostefani.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Teaching'); return false;">
-Teaching
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Data Science'); return false;">
-Data Science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Postgraduate'); return false;">
-Postgraduate
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../courses/2024-07-01-pop-data-sci/index.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2024
-</div>
-<div class="listing-author">
-Francisco Rowe, Carmen Cabrera, Elisabetta Pietrostefani
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="2" data-categories="Teaching,R,Data Science,Postgraduate,Undergraduate" data-listing-date-sort="1696114800000" data-listing-file-modified-sort="1740558327898" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../courses/2024-07-01-geo-data-sci/index.html" class="no-external">Geographic Data Science</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../courses/2024-07-01-geo-data-sci/index.html" class="no-external">A course based on R computational notebooks. Designed and delivered by Dr.&nbsp;Elisabetta Pietrostefani and Dr.&nbsp;Carmen Cabrera.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Teaching'); return false;">
-Teaching
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Data Science'); return false;">
-Data Science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Postgraduate'); return false;">
-Postgraduate
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Undergraduate'); return false;">
-Undergraduate
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../courses/2024-07-01-geo-data-sci/index.html" class="no-external">
-<div class="listing-date">
-Oct 1, 2023
-</div>
-<div class="listing-author">
-Elisabetta Pietrostefani, Carmen Cabrera
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="3" data-categories="Workshop,R,Digital trace data,Internal mobility" data-listing-date-sort="1693522800000" data-listing-file-modified-sort="1740558327894" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../courses/2023-09-01-nets4gis/index.html" class="no-external">An Introduction to <br>Network Analysis for GIS</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../courses/2023-09-01-nets4gis/index.html" class="no-external">A course based on R computational notebooks. Delivered by Dr.&nbsp;Carmen Cabrera and Prof.&nbsp;Francisco Rowe.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Workshop'); return false;">
-Workshop
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Digital trace data'); return false;">
-Digital trace data
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Internal mobility'); return false;">
-Internal mobility
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../courses/2023-09-01-nets4gis/index.html" class="no-external">
-<div class="listing-date">
-Sep 1, 2023
-</div>
-<div class="listing-author">
-Carmen Cabrera, Francisco Rowe, Andrew Renninger, Valentina Marín Maureira, Rafael Prieto-Curiel
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-left" data-index="4" data-categories="Workshop,R,Data Science,Internal mobility,Facebook" data-listing-date-sort="1688166000000" data-listing-file-modified-sort="1740558327893" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../courses/2023-07-01-dfd4mobility/index.html" class="no-external">Using Digital Footprint Data <br>to Measure and Monitor Human Mobility</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../courses/2023-07-01-dfd4mobility/index.html" class="no-external">A workshop based on R computation notebooks. Delivered by Prof.&nbsp;Francisco Rowe and Dr.&nbsp;Carmen Cabrera.</a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Workshop'); return false;">
-Workshop
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Data Science'); return false;">
-Data Science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Internal mobility'); return false;">
-Internal mobility
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Facebook'); return false;">
-Facebook
-</div>
-</div>
-</div>
-<div class="metadata">
-<a href="../courses/2023-07-01-dfd4mobility/index.html" class="no-external">
-<div class="listing-date">
-Jul 1, 2023
-</div>
-<div class="listing-author">
-Francisco Rowe, Carmen Cabrera, Miguel González-Leonardo, Ruth Neville, Andrea Nasuto
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -974,10 +755,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2024 Carmen Cabrera ∙ Made with <a href="https://quarto.org">Quarto</a>, using <a href="https://silviacanelon.com/">Silvia Calderon</a>’s template.</p>
+<p><span style="white-space: nowrap;">© 2024 Carmen Cabrera ∙ Made with <a href="https://quarto.org">Quarto</a>, using <a href="https://silviacanelon.com/">Silvia Calderon</a>’s template.</span></p>
 </div>   
     <div class="nav-footer-center">
-<p><a class="link-dark me-1" href="https://twitter.com/CarmenCabArn" title="twitter" target="_blank" rel="noopener"><i class="fa-brands fa-twitter" aria-label="twitter"></i></a> <a class="link-dark me-1" href="https://github.com/CrmnCA" title="github" target="_blank" rel="noopener"><i class="fa-brands fa-github" aria-label="github"></i></a> <a class="link-dark me-1" href="https://www.linkedin.com/in/carmen-cabrera-arnau/" title="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a> <a class="link-dark me-1" href="https://orcid.org/0000-0002-2732-6436" title="orcid" target="_blank" rel="noopener"><i class="ai  ai-orcid" style="color:black"></i></a> <a class="link-dark me-1" href="https://scholar.google.com/citations?hl=en&amp;user=qAvR9zgAAAAJ" title="Google Scholar" target="_blank" rel="noopener"><i class="ai  ai-google-scholar" style="color:black"></i></a></p>
+<p><a class="link-dark me-1" href="https://github.com/CrmnCA" title="github" target="_blank" rel="noopener"><i class="fa-brands fa-github" aria-label="github"></i></a> <a class="link-dark me-1" href="https://www.linkedin.com/in/carmen-cabrera-arnau/" title="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a> <a class="link-dark me-1" href="https://orcid.org/0000-0002-2732-6436" title="orcid" target="_blank" rel="noopener"><i class="ai  ai-orcid" style="color:black"></i></a> <a class="link-dark me-1" href="https://scholar.google.com/citations?hl=en&amp;user=qAvR9zgAAAAJ" title="Google Scholar" target="_blank" rel="noopener"><i class="ai  ai-google-scholar" style="color:black"></i></a></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

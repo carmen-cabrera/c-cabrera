@@ -5,7 +5,7 @@
   line-height: 1.1em !important;
 }
 
-/* subtitle + Download my CV */
+/* subtitle + links */
 .subtitle {
 #  font-family: "Petrona";
   font-size: 1rem;
@@ -16,45 +16,70 @@
 
 /* heading, subtitle, and blurb */
 .entity-contents {
-  text-align: right !important;
+  text-align: center !important;
   padding: 0 2em 0 2em;
 }
 
 /* blurb */
 .about-contents {
-  padding: 0 0 0 2em !important;
+  padding: 0 0 0 3.1em !important;
 }
 
-/* social links: block of links */
+/* social links: block */
 .about-entity .about-links {
-  justify-content: flex-end !important;
+  display: flex !important;
+  width: 100%;
+  justify-content: center !important;
   column-gap: 0em !important;
-  font-size: 1.2em !important;
+  font-size: 1.45em !important;
 }
 
-/* social links: individual links */
+/* social links: icons */
 .about-entity .about-link {
   padding: 0.25em 0.25em !important;
-  border: none !important;  
+  border: none !important;
 }
 
-/* Download CV */
+.about-entity .about-link i,
+.about-entity .about-link .about-link-text i {
+  font-size: 1.08em !important;
+}
+
+/* download CV link under hero (if present) */
 .about-links.subtitle {
   font-size: 1em !important;
 #  font-family: "Red Hat Text";
-  justify-content: flex-end !important;
+  justify-content: center !important;
 }
 
-/* image */
+/* ensure title + subtitle centered under image */
+.about-entity #title-block-header .quarto-title,
+.about-entity #title-block-header .title,
+.about-entity #title-block-header .subtitle {
+  text-align: center !important;
+}
+
+.about-entity #title-block-header {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* profile image */
 .about-image {
-  margin-top: -2em;
-  padding: 0 2em 0em 0;
+  display: block;
+  margin: 0 auto;
+  padding: 0 !important;
+  border-radius: 22px;
+  border: none;
+  box-shadow: 0 4px 12px rgba(122, 103, 64, 0.16);
 }
 
-/* desktop: keep left profile panel vertically aligned with bio */
+/* desktop: align columns */
 @media screen and (min-width: 992px) {
   .quarto-about-trestles {
     align-items: center !important;
+    gap: 2.9rem;
   }
 
   .quarto-about-trestles .about-entity,
@@ -67,56 +92,84 @@
   }
 }
 
-/* // Home
-
-// social links
-.about-entity {
-  // block of links
-  .about-links {
-    column-gap: 0em !important;
-    font-size: 1.2em;
+/* About me: tighten columns and keep Education on one line (desktop) */
+@media screen and (min-width: 992px) {
+  #about-me + .grid,
+  #about-me .grid {
+    column-gap: 0.8rem;
   }
-  // individual links
-  .about-link {
-    padding: 0.25em 0.25em !important;
-    border: none !important;
-  }
-} */
 
-/* mobile query up for screens up to ~992px wide */
+  #about-me-2 ul li {
+    white-space: nowrap;
+    font-size: 0.96rem;
+  }
+
+  #about-me-2 {
+    margin-left: -0.5cm;
+  }
+}
+
+.about-list {
+  list-style: disc;
+  margin: 0;
+  padding-left: 1.05rem;
+}
+
+.about-list li::marker {
+  color: #7a6740;
+  font-size: 0.82em;
+}
+
+/* Fallback: if old fa-ul markup is still present, show plain bullets */
+#about-me .fa-ul,
+#about-me .about-list {
+  list-style: disc;
+  margin: 0;
+  padding-left: 1.05rem;
+}
+
+#about-me .fa-ul li {
+  margin-left: 0 !important;
+}
+
+#about-me .fa-ul i {
+  display: none !important;
+}
+
+/* Footer social icons */
+.nav-footer-center a i,
+.nav-footer-center a .ai {
+  font-size: 1.35rem !important;
+}
+
+/* mobile */
 @media screen and (max-width: 991.98px) {
-    /* move text up & center */
-    .entity-contents {
-      order: 2 !important;
-      margin: -4em 0 0 0 !important;
-      padding: 0 0 0 0em !important;
-      text-align: center !important;
-    }
+  .entity-contents {
+    order: 2 !important;
+    margin: -4em 0 0 0 !important;
+    padding: 0 !important;
+    text-align: center !important;
+  }
 
-    /* center subtitle */
-    .subtitle {
-      text-align: center !important;
-    }
+  .subtitle {
+    text-align: center !important;
+  }
 
-    /* social links: block of links */
-    .about-entity .about-links {
-      justify-content: center !important;
-      font-size: 1em !important;
-    }
+  .about-entity .about-links {
+    justify-content: center !important;
+    font-size: 1em !important;
+  }
 
-    /* blurb */
-    .about-contents {
-      padding: 0 0 0 0em !important;
-    }
+  .about-contents {
+    padding: 0 !important;
+  }
 
-    /* center Learn More About Me */
-    .about-links.subtitle {
-      justify-content: center !important;
-    }
+  .about-links.subtitle {
+    justify-content: center !important;
+  }
 
-    /* move image up, adjust padding */
-    .about-image {
-      order: 1 !important;
-      padding: 0 2em 0 2em !important;
-    }
+  .about-image {
+    order: 1 !important;
+    padding: 0 2em 0 2em !important;
+  }
 }

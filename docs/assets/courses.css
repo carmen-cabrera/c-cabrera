@@ -1,0 +1,12 @@
+/* Courses page spacing tweaks */
+#quarto-document-content > ul:first-of-type {
+  margin-top: 2cm;
+}
+
+#quarto-document-content > ul:first-of-type > li {
+  margin-bottom: 1.35rem;
+}
+
+#quarto-document-content > ul:first-of-type > li:last-child {
+  margin-bottom: 0;
+}

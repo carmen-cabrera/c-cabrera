@@ -37,7 +37,7 @@ execute:
   echo: false
   warning: false
 
-header-includes: >
+header-includes: |
   <link rel="stylesheet" href="assets/index.css">
 resources:
   - assets/index.css
@@ -60,34 +60,34 @@ Carmen collaborates with international and policy-facing partners, including var
 ## About me
 
 ::: grid
-::: {#about-me-1 .g-col-6}
+::: {#about-me-1 .g-col-5}
 **Interests**
 
-<ul class="fa-ul">
+<ul class="about-list">
 
-<li><i class="fa-solid fa-certificate"></i> Human mobility</li>
+<li>Human mobility</li>
 
-<li><i class="fa-solid fa-certificate"></i> Geographic Data Science</li>
+<li>Geographic Data Science</li>
 
-<li><i class="fa-solid fa-certificate"></i> Network theory</li>
+<li>Network theory</li>
 
-<li><i class="fa-solid fa-certificate"></i> Urban structure</li>
+<li>Urban structure</li>
 
-<li><i class="fa-solid fa-certificate"></i> Socieconomic inequalities</li>
+<li>Socieconomic inequalities</li>
 
 </ul>
 :::
 
-::: {#about-me-2 .g-col-6}
+::: {#about-me-2 .g-col-7}
 **Education**
 
-<ul class="fa-ul">
+<ul class="about-list">
 
-<li><i class="fa-solid fa-graduation-cap"></i> PhD in Applied Mathematics ∙ UCL ∙ 2021</li>
+<li>PhD in Applied Mathematics ∙ University College London ∙ 2021</li>
 
-<li><i class="fa-solid fa-graduation-cap"></i> MSc in Complex Systems ∙ King's College London ∙ 2017</li>
+<li>MSc in Complex Systems ∙ King's College London ∙ 2017</li>
 
-<li><i class="fa-solid fa-graduation-cap"></i> B.S. in Physics ∙ University of Valencia (year abroad at Imperial College London) ∙ 2016</li>
+<li>B.S. in Physics ∙ University of Valencia (year abroad at Imperial College London) ∙ 2016</li>
 
 </ul>
 :::
