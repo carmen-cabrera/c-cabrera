@@ -72,7 +72,20 @@ build_fallback_scholar_url <- function(pubid) {
   )
 }
 
-pubs <- get_publications(scholar_id) |>
+raw_pubs <- get_publications(scholar_id)
+
+if (!is.data.frame(raw_pubs)) {
+  stop(
+    paste(
+      "Failed to fetch publications from Google Scholar.",
+      "The request was likely rate-limited.",
+      "Try again later or restore publication/_scholar_publications.md from git history."
+    ),
+    call. = FALSE
+  )
+}
+
+pubs <- raw_pubs |>
   mutate(
     year_raw = suppressWarnings(as.integer(year)),
     authors_full = map2_chr(pubid, author, function(id, author_fallback) {
