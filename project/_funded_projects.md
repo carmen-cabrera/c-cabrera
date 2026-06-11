@@ -1,5 +1,8 @@
 <!-- Funded projects list from CV -->
 
+- Towards a neighbourhood-level measure of Social Cohesion  
+  - Funder: [Interdisciplinary Centre for Sustainability Research](https://www.liverpool.ac.uk/research/interdisciplinary-centre-for-sustainability-research/)
+
 - Building Imago-HASP collaborative infrastructure for joint data products linking satellite, synthetic and trajectory data  
   - Funder: [UK Economic and Social Research Council](https://www.ukri.org/councils/esrc/)
 
