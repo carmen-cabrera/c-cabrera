@@ -30,6 +30,9 @@ website:
       - text: Projects
         aria-label: "Projects"
         href: project/index.qmd
+      - text: Updates
+        aria-label: "Updates"
+        href: posts/index.qmd
 
 
   
