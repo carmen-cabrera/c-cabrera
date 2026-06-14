@@ -1,0 +1,12 @@
+---
+title: 'Keynote at CompleNet 2025, Fortaleza, Brazil'
+date: 2025-04-25
+---
+
+I delivered a keynote talk at the International Conference on Complex Networks, [CompleNet 2025](https://complenet.weebly.com/), held in Fortaleza, Brazil, from April 22 to 25, 2025.
+
+CompleNet brings together researchers and practitioners from a wide range of fields working on topics related to complex networks, including the study of human mobility.
+
+In the keynote, I discussed the use of digital trace data for mobility research and the methodological challenges that come with these data, with a particular focus on bias. I presented recent work using Facebook data to examine long-term disparities in the recovery of urban mobility following COVID-19 in Latin America.
+
+This research, currently available as a [preprint](https://arxiv.org/abs/2504.15871), proposes a methodology for data imputation designed to address biases arising from missing data.

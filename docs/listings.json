@@ -3,18 +3,22 @@
     "listing": "/recent/index.html",
     "items": [
       "/posts/2026-06-14-debiasr-beta-launch/index.html",
+      "/posts/2026-06-07-mobile-tartu/index.html",
+      "/posts/2026-06-02-boston-visit-urbannet/index.html",
+      "/posts/2026-04-28-un-cebd-mobile-phone-data/index.html",
+      "/posts/2026-03-19-city-lab-barcelona/index.html",
+      "/posts/2026-01-29-winter-workshop-complex-systems/index.html",
+      "/posts/2025-09-13-cemfi-spatial-analysis/index.html",
+      "/posts/2025-05-04-complexity-science-hub/index.html",
+      "/posts/2025-04-25-complenet/index.html",
+      "/posts/2025-01-23-erasmus-mundus-geospatial-technologies/index.html",
+      "/posts/2025-01-15-nowcasting-populations/index.html",
       "/courses/2024-10-23-gds4eco/index.html",
       "/courses/2024-07-01-pop-data-sci/index.html",
       "/courses/2024-07-01-geo-data-sci/index.html",
       "/courses/2023-09-01-nets4gis/index.html",
       "/courses/2023-07-01-dfd4mobility/index.html",
       "/project/debias/index.html"
-    ]
-  },
-  {
-    "listing": "/posts/index.html",
-    "items": [
-      "/posts/2026-06-14-debiasr-beta-launch/index.html"
     ]
   }
 ]

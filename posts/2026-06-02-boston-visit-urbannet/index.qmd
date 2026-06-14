@@ -1,0 +1,12 @@
+---
+title: 'Visit to Boston: Northeastern University, MIT Senseable City Lab and UrbanNET'
+date: 2026-06-02
+---
+
+I visited Boston to meet with research groups working on urban mobility, digital trace data and network science, and to present work from [DEBIAS](https://de-bias.github.io/debias/) at UrbanNET, a satellite session of the NetSci Conference.
+
+On May 29, I visited the [Northeastern University Network Science Institute](https://networkscienceinstitute.org/), where I met with Professor Esteban Moro and the Social Urban Networks group. We discussed work on urban mobility, social mixing and the impacts of transport interventions.
+
+I also visited the [MIT Senseable City Lab](https://senseable.mit.edu/), where I met with Paolo Santi, Francois Gu and Pei Zhao to exchange ideas on data bias, remote work patterns, truck electrification and other emerging directions in urban data science.
+
+During the visit, I presented DEBIAS research at UrbanNET, a NetSci satellite focused on urban systems, network science and complex systems methods. The session brought together researchers using conventional and non-conventional data to understand urban mobility networks, city structure, socio-economic patterns, neighbourhood dynamics and the design and management of resilient urban systems.

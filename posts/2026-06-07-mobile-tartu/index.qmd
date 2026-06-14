@@ -1,0 +1,12 @@
+---
+title: 'DEBIAS at Mobile Tartu'
+date: 2026-06-07
+---
+
+We brought [DEBIAS](https://de-bias.github.io/debias/) to [Mobile Tartu](https://mobiletartu.ut.ee/), which brings together researchers working on human mobility, mobile big data and mobility data justice for resilient, just and sustainable societies.
+
+On June 7 and 8, Francisco Rowe and I led the PhD School workshop *Correcting Biases in Mobile-Phone Mobility Data: The DEBIAS Framework*, part of the 10th Mobile Tartu Conference hosted by the Mobility Lab at the University of Tartu.
+
+The workshop introduced the DEBIAS project and a beta version of [`debiasR`](https://de-bias.github.io/debiasR/), our R package under development for identifying, assessing and correcting coverage and representativeness biases in digital trace mobility data. Participants worked through the conceptual foundations of the DEBIAS framework before applying `debiasR` in practical data analysis and group exercises.
+
+On June 9, Francisco also presented DEBIAS progress in a World Bank Group session supported through the [Global Data Facility](https://www.worldbank.org/en/programs/global-data-facility) programme and chaired by Siim Esko from [Positium](https://positium.com/).

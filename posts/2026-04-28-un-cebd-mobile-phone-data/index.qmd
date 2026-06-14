@@ -1,0 +1,12 @@
+---
+title: 'Joining the UN Committee of Experts on Big Data and Data Science for Official Statistics'
+date: 2026-04-28
+---
+
+I have joined the [United Nations Committee of Experts on Big Data and Data Science for Official Statistics](https://unstats.un.org/bigdata/) (UN-CEBD).
+
+I will contribute to the [Mobile Phone Data Task Team](https://unstats.un.org/bigdata/task-teams/mobile-phone/index.cshtml), which supports the responsible use of mobile phone data in official statistics by developing methodological guidance, technical resources and best practices for national statistical offices.
+
+As part of this work, I will contribute to a methodological guide on the use of mobile phone data in transport statistics, leading the section on data quality and bias and drawing on research from the [DEBIAS project](https://de-bias.github.io/debias/).
+
+This role strengthens the contribution of DEBIAS to international efforts to help statistical systems use new forms of mobility data responsibly, transparently and with careful attention to the limitations of the data.

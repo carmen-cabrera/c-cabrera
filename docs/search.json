@@ -4,7 +4,7 @@
     "href": "recent/index.html",
     "title": "Recent activity",
     "section": "",
-    "text": "Posts\n\n\n\n\n\n\n\n\n\n\nDebiasR beta launched at the Mobile Data Conference PhD School\n\n\n\n\n\nNo matching items\n\nSee all →\n\n\nPublications\n\n\n\n\nNo matching items\n\nSee all →\n\n\nCourses\n\n\n\n\n\n\n\n\n\n\nGeographic Data Science for Applied Economists\n\n\nDelivered by Dr. Carmen Cabrera. The course website has been created by Dr. Cabrera based on a previous version of the course designed by Prof. Dani Arribas-Bel, Prof. Diego Puga and Carmen Cabrera.\n\n\n\n\n\nNo matching items\n\nSee all →\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDEBIAS\n\n\nDEveloping a framework to measure and correct BIASes in human mobility data extracted from digital footprints\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Posts\n\n\n\n\n\n\n\n\n\n\nFirst beta version of debiasR now available\n\n\n\n\n\nNo matching items\n\nSee all →\n\n\nPublications\n\n\n\n\nNo matching items\n\nSee all →\n\n\nCourses\n\n\n\n\n\n\n\n\n\n\nGeographic Data Science for Applied Economists\n\n\nDelivered by Dr. Carmen Cabrera. The course website has been created by Dr. Cabrera based on a previous version of the course designed by Prof. Dani Arribas-Bel, Prof. Diego Puga and Carmen Cabrera.\n\n\n\n\n\nNo matching items\n\nSee all →\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDEBIAS\n\n\nDEveloping a framework to measure and correct BIASes in human mobility data extracted from digital footprints\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "courses/2024-07-01-geo-data-sci/index.html",
@@ -175,11 +175,46 @@
     "text": "City population size is a crucial measure when trying to understand urban life. Many socio-economic indicators scale superlinearly with city size, whilst some infrastructure indicators scale sublinearly with city size. However, the impact of size also extends beyond the city’s limits. Here, we analyse the scaling behaviour of cities beyond their boundaries by considering the emergence and growth of nearby cities. Based on an urban network from African continental cities, we construct an algorithm to create the region of influence of cities. The number of cities and the population within a region of influence are then analysed in the context of urban scaling. Our results are compared against a random permutation of the network, showing that the observed scaling power of cities to enhance the emergence and growth of cities is not the result of randomness. By altering the radius of influence of cities, we observe three regimes. Large cities tend to be surrounded by many small towns for small distances. For medium distances (above 114 km), large cities are surrounded by many other cities containing large populations. Large cities boost urban emergence and growth (even more than 190 km away), but their scaling power decays with distance."
   },
   {
+    "objectID": "posts/2025-05-04-complexity-science-hub/index.html",
+    "href": "posts/2025-05-04-complexity-science-hub/index.html",
+    "title": "Contribution to workshop at the Complexity Science Hub",
+    "section": "",
+    "text": "I contributed to the workshop “Cities as Complex Systems (CtCS2025) - Lessons Learned from Three Decades of Urban Complexity Science: Formulating Policy Recommendations”, organised by the Complexity Science Hub in Vienna, Austria, from May 4 to 5, 2025.\nThe event brought together researchers in urban complexity science from institutions including the Santa Fe Institute, University of Chicago, University College London, Columbia University, and the Leibniz Institute of Ecological Urban and Regional Development. The aim was to reflect on key insights from the past thirty years of urban complexity research and formulate evidence-based policy recommendations for the future.\nI delivered a stimulus talk to help guide some of the workshop discussions. I highlighted the potential of digital trace data for advancing our understanding of urban mobility, while also discussing the methodological and ethical challenges that come with using these data in policy-relevant research.\nIssues related to data accessibility, representativeness and the translation of complex findings into actionable policy recommendations remain significant hurdles. The talk connected these challenges to the DEBIAS project and its methodological framework for mitigating biases in digital trace data.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2025-01-15-nowcasting-populations/index.html",
+    "href": "posts/2025-01-15-nowcasting-populations/index.html",
+    "title": "DEBIAS joins the Collaborative Group on Nowcasting Populations",
+    "section": "",
+    "text": "The DEBIAS team has joined the Collaborative Group on Nowcasting Populations (CGNP), an initiative led by Dr Andrea Aparicio Castro and the Nowcasting Populations (NowPop) team at the Leverhulme Centre for Demographic Science.\nThe CGNP initiative brings together academics from institutions including the University of Oxford Department of Sociology, the University of Manchester Department of Social Statistics, the University of Southampton and the University of Liverpool Geographic Data Science Lab.\nThrough a series of collaborative meetings hosted by the participating institutions, the group aims to advance knowledge in real-time population estimation, mobility and migration. Combining Bayesian methodologies with digital trace and traditional data sources, CGNP addresses challenges in contexts where conventional data collection is limited, such as conflict zones, offering timely insights to support humanitarian efforts.\nWe are pleased to bring expertise from the DEBIAS project to this collaboration.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2026-01-29-winter-workshop-complex-systems/index.html",
+    "href": "posts/2026-01-29-winter-workshop-complex-systems/index.html",
+    "title": "Keynote at the Winter Workshop on Complex Systems",
+    "section": "",
+    "text": "I gave a keynote at the 11th Winter Workshop on Complex Systems, held in Santuari de Lluc, Mallorca, from January 25 to 30, 2026.\nThe Winter Workshop on Complex Systems is a one-week event where early-career researchers from around the world develop interdisciplinary projects in complex systems. The 2026 edition was hosted in Mallorca, Spain.\nMy keynote introduced the DEBIAS framework and ongoing work on the analysis of digital trace data to evaluate the impact of disruptions to day-to-day mobility. The talk connected DEBIAS to wider work on disruption and inequality in mobility, including research showing how extreme heat reduces and reshapes urban mobility and how sustained changes to urban mobility after COVID-19 amplified socio-economic inequalities in Latin America.\n\n\n\n Back to top"
+  },
+  {
     "objectID": "posts/index.html",
     "href": "posts/index.html",
     "title": "Updates",
     "section": "",
-    "text": "First beta version of debiasR now available\n\nJune 12, 2026\n\n\n\n\n\n Back to top"
+    "text": "First beta version of debiasR now available\n\nJune 12, 2026\n\nDEBIAS at Mobile Tartu\n\nJune 7, 2026\n\nVisit to Boston: Northeastern University, MIT Senseable City Lab and UrbanNET\n\nJune 2, 2026\n\nJoining the UN Committee of Experts on Big Data and Data Science for Official Statistics\n\nApril 28, 2026\n\nDigital trace data for the study of urban dynamics: a valuable asset with caveats\n\nMarch 19, 2026\n\nKeynote at the Winter Workshop on Complex Systems\n\nJanuary 29, 2026\n\nInvited lectures at CEMFI on spatial analysis\n\nSeptember 13, 2025\n\nContribution to workshop at the Complexity Science Hub\n\nMay 4, 2025\n\nKeynote at CompleNet 2025, Fortaleza, Brazil\n\nApril 25, 2025\n\nLecture at the Erasmus Mundus MSc in Geospatial Technologies program\n\nJanuary 23, 2025\n\nDEBIAS joins the Collaborative Group on Nowcasting Populations\n\nJanuary 15, 2025\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2026-06-14-debiasr-beta-launch/index.html",
+    "href": "posts/2026-06-14-debiasr-beta-launch/index.html",
+    "title": "First beta version of debiasR now available",
+    "section": "",
+    "text": "The first beta testing version of debiasR is now available. debiasR is an open-source R package developed as part of the DEBIAS project to support researchers working with digital trace data on human mobility.\nThe package provides tools for assessing and correcting population representation bias in spatio-temporally aggregated data, including population counts by location and origin-destination flows between places. The current beta version focuses on three tasks: measuring coverage and representativeness bias, adjusting biased mobility flows, and validating adjusted outputs against benchmark data.\nWe introduced the beta version during the PhD School workshop “Correcting Biases in Mobile-Phone Mobility Data: The DEBIAS Framework” at the 10th Mobile Tartu Conference, hosted by the Mobility Lab at the University of Tartu. The workshop gave doctoral researchers hands-on experience with the DEBIAS framework and the package workflow.\nThe package can be installed from GitHub using:\npak::pak(\"de-bias/debiasR\")\nor:\nremotes::install_github(\"de-bias/debiasR\")\nUsers who want to reproduce the empirical examples in the vignettes can also install the companion data package:\npak::pak(\"de-bias/debiasRdata\")\nThis is an early testing version. Feedback can be submitted through the debiasR GitHub repository, using GitHub Issues for bug reports, feature requests and methodological suggestions. Contributions are also welcome through pull requests, following the package contributing guidelines.\nMore information is available on the debiasR package website and the DEBIAS project website.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2026-06-07-mobile-tartu/index.html",
+    "href": "posts/2026-06-07-mobile-tartu/index.html",
+    "title": "DEBIAS at Mobile Tartu",
+    "section": "",
+    "text": "We brought DEBIAS to Mobile Tartu, which brings together researchers working on human mobility, mobile big data and mobility data justice for resilient, just and sustainable societies.\nOn June 7 and 8, Francisco Rowe and I led the PhD School workshop Correcting Biases in Mobile-Phone Mobility Data: The DEBIAS Framework, part of the 10th Mobile Tartu Conference hosted by the Mobility Lab at the University of Tartu.\nThe workshop introduced the DEBIAS project and a beta version of debiasR, our R package under development for identifying, assessing and correcting coverage and representativeness biases in digital trace mobility data. Participants worked through the conceptual foundations of the DEBIAS framework before applying debiasR in practical data analysis and group exercises.\nOn June 9, Francisco also presented DEBIAS progress in a World Bank Group session supported through the Global Data Facility programme and chaired by Siim Esko from Positium.\n\n\n\n Back to top"
   },
   {
     "objectID": "contact.html",
@@ -189,11 +224,46 @@
     "text": "You can use this form to contact me about speaking engagements, collaborations, or simply to say hello.\nI also love hearing if my educational materials have been helpful for you, and how they could be improved — particularly if they could be made more accessible \n      \n\n\n\n\n\n\n\n\nFull Name \nEmail Address \nMessage\n\n\nSend message\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "posts/2026-06-14-debiasr-beta-launch/index.html",
-    "href": "posts/2026-06-14-debiasr-beta-launch/index.html",
-    "title": "First beta version of debiasR now available",
+    "objectID": "posts/2025-09-13-cemfi-spatial-analysis/index.html",
+    "href": "posts/2025-09-13-cemfi-spatial-analysis/index.html",
+    "title": "Invited lectures at CEMFI on spatial analysis",
     "section": "",
-    "text": "The first beta testing version of debiasR is now available. debiasR is an open-source R package developed as part of the DEBIAS project to support researchers working with digital trace data on human mobility.\nThe package provides tools for assessing and correcting population representation bias in spatio-temporally aggregated data, including population counts by location and origin-destination flows between places. The current beta version focuses on three tasks: measuring coverage and representativeness bias, adjusting biased mobility flows, and validating adjusted outputs against benchmark data.\nWe introduced the beta version during the PhD School workshop “Correcting Biases in Mobile-Phone Mobility Data: The DEBIAS Framework” at the 10th Mobile Tartu Conference, hosted by the Mobility Lab at the University of Tartu. The workshop gave doctoral researchers hands-on experience with the DEBIAS framework and the package workflow.\nThe package can be installed from GitHub using:\npak::pak(\"de-bias/debiasR\")\nor:\nremotes::install_github(\"de-bias/debiasR\")\nUsers who want to reproduce the empirical examples in the vignettes can also install the companion data package:\npak::pak(\"de-bias/debiasRdata\")\nThis is an early testing version. Feedback can be submitted through the debiasR GitHub repository, using GitHub Issues for bug reports, feature requests and methodological suggestions. Contributions are also welcome through pull requests, following the package contributing guidelines.\nMore information is available on the debiasR package website and the DEBIAS project website.\n\n\n\n Back to top"
+    "text": "On September 13, 2025, I was invited by Professor Diego Puga to deliver lectures on spatial analysis as part of the Urban Economics course at CEMFI in Madrid.\nCEMFI, the Centro de Estudios Monetarios y Financieros, is a graduate school and research centre specialising in economics and finance. My module introduced spatial analysis tools for applied economics, with a focus on how spatial data, geographic relationships and computational methods can support urban and regional economic analysis.\nThe lectures built on material from my open course Geographic Data Science for Applied Economists, which introduces spatial data, geovisualisation, spatial feature engineering, OpenStreetMap and transport costs using Python.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2025-04-25-complenet/index.html",
+    "href": "posts/2025-04-25-complenet/index.html",
+    "title": "Keynote at CompleNet 2025, Fortaleza, Brazil",
+    "section": "",
+    "text": "I delivered a keynote talk at the International Conference on Complex Networks, CompleNet 2025, held in Fortaleza, Brazil, from April 22 to 25, 2025.\nCompleNet brings together researchers and practitioners from a wide range of fields working on topics related to complex networks, including the study of human mobility.\nIn the keynote, I discussed the use of digital trace data for mobility research and the methodological challenges that come with these data, with a particular focus on bias. I presented recent work using Facebook data to examine long-term disparities in the recovery of urban mobility following COVID-19 in Latin America.\nThis research, currently available as a preprint, proposes a methodology for data imputation designed to address biases arising from missing data.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2026-03-19-city-lab-barcelona/index.html",
+    "href": "posts/2026-03-19-city-lab-barcelona/index.html",
+    "title": "Digital trace data for the study of urban dynamics: a valuable asset with caveats",
+    "section": "",
+    "text": "I presented Digital trace data for the study of urban dynamics: a really valuable asset… with caveats at City Lab Barcelona, hosted by the Institute of Environmental Science and Technology at the Universitat Autonoma de Barcelona, on March 19, 2026.\nThe talk explored how digital trace data can support the study of urban dynamics by offering timely, spatially detailed insights into how people move through and use cities. It also reflected on the caveats that come with these data, including questions of representativeness, coverage, bias and the risks of drawing conclusions from populations that are unevenly captured by digital systems.\nCity Lab Barcelona, led by Jordi Honey-Roses, studies the impacts of urban projects, policies and interventions through formal experiments and direct observation. The group works across impact evaluation, tactical urbanism, experimentation and applied partnerships to generate knowledge that can accelerate the transition to more sustainable urban planning and design.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2025-01-23-erasmus-mundus-geospatial-technologies/index.html",
+    "href": "posts/2025-01-23-erasmus-mundus-geospatial-technologies/index.html",
+    "title": "Lecture at the Erasmus Mundus MSc in Geospatial Technologies program",
+    "section": "",
+    "text": "I was invited as a guest lecturer for the Erasmus Mundus MSc in Geospatial Technologies program. The international master’s program is supported by the European Commission’s Erasmus+ programme and brings together the University of Munster, Universitat Jaume I and Universidade Nova de Lisboa.\nDuring the lecture at Universitat Jaume I, I introduced network analysis for GIS and shared examples from DEBIAS. The session discussed the potential of digital trace data for research while also addressing representativeness bias in these data.\nThe lecture encouraged students to critically consider both the opportunities and limitations of mobility data derived from digital technologies.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2026-04-28-un-cebd-mobile-phone-data/index.html",
+    "href": "posts/2026-04-28-un-cebd-mobile-phone-data/index.html",
+    "title": "Joining the UN Committee of Experts on Big Data and Data Science for Official Statistics",
+    "section": "",
+    "text": "I have joined the United Nations Committee of Experts on Big Data and Data Science for Official Statistics (UN-CEBD).\nI will contribute to the Mobile Phone Data Task Team, which supports the responsible use of mobile phone data in official statistics by developing methodological guidance, technical resources and best practices for national statistical offices.\nAs part of this work, I will contribute to a methodological guide on the use of mobile phone data in transport statistics, leading the section on data quality and bias and drawing on research from the DEBIAS project.\nThis role strengthens the contribution of DEBIAS to international efforts to help statistical systems use new forms of mobility data responsibly, transparently and with careful attention to the limitations of the data.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2026-06-02-boston-visit-urbannet/index.html",
+    "href": "posts/2026-06-02-boston-visit-urbannet/index.html",
+    "title": "Visit to Boston: Northeastern University, MIT Senseable City Lab and UrbanNET",
+    "section": "",
+    "text": "I visited Boston to meet with research groups working on urban mobility, digital trace data and network science, and to present work from DEBIAS at UrbanNET, a satellite session of the NetSci Conference.\nOn May 29, I visited the Northeastern University Network Science Institute, where I met with Professor Esteban Moro and the Social Urban Networks group. We discussed work on urban mobility, social mixing and the impacts of transport interventions.\nI also visited the MIT Senseable City Lab, where I met with Paolo Santi, Francois Gu and Pei Zhao to exchange ideas on data bias, remote work patterns, truck electrification and other emerging directions in urban data science.\nDuring the visit, I presented DEBIAS research at UrbanNET, a NetSci satellite focused on urban systems, network science and complex systems methods. The session brought together researchers using conventional and non-conventional data to understand urban mobility networks, city structure, socio-economic patterns, neighbourhood dynamics and the design and management of resilient urban systems.\n\n\n\n Back to top"
   },
   {
     "objectID": "publication/2022/2022-11-29-migration-uk-covid/index.html",
