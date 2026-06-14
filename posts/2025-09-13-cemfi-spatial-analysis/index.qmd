@@ -1,0 +1,10 @@
+---
+title: 'Invited lectures at CEMFI on spatial analysis'
+date: 2025-09-13
+---
+
+On September 13, 2025, I was invited by Professor [Diego Puga](https://diegopuga.org/) to deliver lectures on spatial analysis as part of the Urban Economics course at [CEMFI](https://www.cemfi.es/) in Madrid.
+
+CEMFI, the Centro de Estudios Monetarios y Financieros, is a graduate school and research centre specialising in economics and finance. My module introduced spatial analysis tools for applied economics, with a focus on how spatial data, geographic relationships and computational methods can support urban and regional economic analysis.
+
+The lectures built on material from my open course [Geographic Data Science for Applied Economists](https://carmen-cabrera.github.io/gds4eco/), which introduces spatial data, geovisualisation, spatial feature engineering, OpenStreetMap and transport costs using Python.

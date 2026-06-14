@@ -1,0 +1,10 @@
+---
+title: 'Lecture at the Erasmus Mundus MSc in Geospatial Technologies program'
+date: 2025-01-23
+---
+
+I was invited as a guest lecturer for the [Erasmus Mundus MSc in Geospatial Technologies program](https://mastergeotech.info/master-program/description/). The international master's program is supported by the European Commission's Erasmus+ programme and brings together the University of Munster, Universitat Jaume I and Universidade Nova de Lisboa.
+
+During the lecture at Universitat Jaume I, I introduced network analysis for GIS and shared examples from [DEBIAS](https://de-bias.github.io/debias/). The session discussed the potential of digital trace data for research while also addressing representativeness bias in these data.
+
+The lecture encouraged students to critically consider both the opportunities and limitations of mobility data derived from digital technologies.
