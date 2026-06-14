@@ -1,0 +1,32 @@
+---
+title: 'First beta version of debiasR now available'
+date: 2026-06-12
+---
+
+The first beta testing version of [<span style="font-family: var(--bs-font-monospace);">debiasR</span>](https://de-bias.github.io/debiasR/) is now available. <span style="font-family: var(--bs-font-monospace);">debiasR</span> is an open-source R package developed as part of the [DEBIAS project](https://de-bias.github.io/debias/) to support researchers working with digital trace data on human mobility.
+
+The package provides tools for assessing and correcting population representation bias in spatio-temporally aggregated data, including population counts by location and origin-destination flows between places. The current beta version focuses on three tasks: measuring coverage and representativeness bias, adjusting biased mobility flows, and validating adjusted outputs against benchmark data.
+
+We introduced the beta version during the PhD School workshop ["Correcting Biases in Mobile-Phone Mobility Data: The DEBIAS Framework"](https://mobiletartu.ut.ee/workshops-and-academic-lecture/) at the [10th Mobile Tartu Conference](https://mobiletartu.ut.ee/), hosted by the [Mobility Lab](https://mobilitylab.ut.ee/) at the [University of Tartu](https://ut.ee/en). The workshop gave doctoral researchers hands-on experience with the DEBIAS framework and the package workflow.
+
+The package can be installed from GitHub using:
+
+```r
+pak::pak("de-bias/debiasR")
+```
+
+or:
+
+```r
+remotes::install_github("de-bias/debiasR")
+```
+
+Users who want to reproduce the empirical examples in the vignettes can also install the companion data package:
+
+```r
+pak::pak("de-bias/debiasRdata")
+```
+
+This is an early testing version. Feedback can be submitted through the [<span style="font-family: var(--bs-font-monospace);">debiasR</span> GitHub repository](https://github.com/de-bias/debiasR), using [GitHub Issues](https://github.com/de-bias/debiasR/issues) for bug reports, feature requests and methodological suggestions. Contributions are also welcome through pull requests, following the package [contributing guidelines](https://de-bias.github.io/debiasR/CONTRIBUTING.html).
+
+More information is available on the [<span style="font-family: var(--bs-font-monospace);">debiasR</span> package website](https://de-bias.github.io/debiasR/) and the [DEBIAS project website](https://de-bias.github.io/debias/).

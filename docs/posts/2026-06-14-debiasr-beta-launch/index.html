@@ -6,15 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Miguel González-Leonardo">
-<meta name="author" content="Carmen Cabrera">
-<meta name="author" content="Ruth Neville">
-<meta name="author" content="Andrea Nasuto">
-<meta name="author" content="Francisco Rowe">
-<meta name="dcterms.date" content="2025-08-06">
-<meta name="description" content="Internal mobility in Mexico">
+<meta name="dcterms.date" content="2026-06-12">
 
-<title>Beyond the Immediate Impacts of COVID-19 on Internal Population Movements in Mexico: Facebook Data Reveal Urban Decay and Slow Recovery—A Research Note | Carmen Cabrera – Carmen Cabrera</title>
+<title>First beta version of debiasR now available | Carmen Cabrera – Carmen Cabrera</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -30,33 +24,68 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../../">
-<link href="../../../assets/cca/img/logo_rounded.svg" rel="icon" type="image/svg+xml">
-<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet" class="quarto-color-scheme-extra">
-<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-91a63cb67e3f81564dbb24c2e11fe834.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../site_libs/bootstrap/bootstrap-dark-62eaa48640a66bbf20a88bcf2e148b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../../../site_libs/bootstrap/bootstrap-91a63cb67e3f81564dbb24c2e11fe834.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
-<link href="../../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../assets/cca/img/logo_rounded.svg" rel="icon" type="image/svg+xml">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet" class="quarto-color-scheme-extra">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-91a63cb67e3f81564dbb24c2e11fe834.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-62eaa48640a66bbf20a88bcf2e148b00.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-91a63cb67e3f81564dbb24c2e11fe834.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -257,7 +286,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Carmen Cabrera</span>
     </a>
   </div>
@@ -268,23 +297,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../publication/index.html"> 
+    <a class="nav-link" href="../../publication/index.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../courses/index.html"> 
+    <a class="nav-link" href="../../courses/index.html"> 
 <span class="menu-text">Courses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../project/index.html"> 
+    <a class="nav-link" href="../../project/index.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../posts/index.html"> 
+    <a class="nav-link" href="../../posts/index.html"> 
 <span class="menu-text">Updates</span></a>
   </li>  
 </ul>
@@ -298,40 +327,18 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns">
 <div id="title-block-header-title" class="quarto-title page-columns page-full page-layout-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);">
-<h1 class="title">Beyond the Immediate Impacts of COVID-19 on Internal Population Movements in Mexico: Facebook Data Reveal Urban Decay and Slow Recovery—A Research Note</h1>
-    <div class="quarto-categories">
-        <div class="quarto-category">Research article</div>
-        <div class="quarto-category">Internal mobility</div>
-        <div class="quarto-category">Facebook data</div>
-        <div class="quarto-category">Covid-19</div>
-        <div class="quarto-category">Mexico</div>
-      </div>
-  </div>
-
-<div>
-  <div id="title-block-title-desc" class="description pt-4">
-    Internal mobility in Mexico
-  </div>
+<h1 class="title">First beta version of debiasR now available</h1>
 </div>
+
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Authors</div>
-    <div class="quarto-title-meta-contents">
-             <p>Miguel González-Leonardo </p>
-             <p>Carmen Cabrera </p>
-             <p>Ruth Neville </p>
-             <p>Andrea Nasuto </p>
-             <p>Francisco Rowe </p>
-          </div>
-  </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">August 6, 2025</p>
+      <p class="date">June 12, 2026</p>
     </div>
   </div>
   
@@ -340,9 +347,6 @@ ul.task-list li input[type="checkbox"] {
   
 
 
-<div class="mt-4 d-flex flex-row flex-wrap gap-1 justify-content-left justify-content-sm-start" role="group" aria-label="Links">
-<a href="https://doi.org/10.1215/00703370-12183205" class="btn btn-secondary text-capitalize"><i class="bi bi-file-richtext-fill me-1"></i> Publication</a>
-</div>
 
 </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
@@ -362,12 +366,19 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Previous research has shown that internal mobility declined and outflows from large cities increased during the early months of the COVID-19 pandemic in many Global North countries. However, the longer term impacts of the pandemic on mobility levels and patterns across the rural–urban hierarchy and in Global South contexts remain poorly understood because of limited high-resolution data. Drawing on location data of Facebook users, we examine changes in long-distance movements (&gt;100 kilometers) across population density categories in Mexico from April 2020 to May 2022. We find a 40% decline in long-distance movements during April–December 2020 relative to a prepandemic baseline, with the largest reductions—more than 50%—in flows to and from large cities. In contrast to Global North patterns, we observe no increase in outflows from large cities. Movement patterns gradually returned to baseline during 2021–2022, but recovery was slower in the most densely populated areas. Our findings provide the first medium-term evidence of how the pandemic affected internal mobility across the rural–urban hierarchy in a major Global South country. They highlight the distinct dynamics of mobility disruptions in highly urbanized and socioeconomically unequal contexts and demonstrate the value of digital trace data for studying population movements where conventional statistics are unavailable.</p>
+<p>The first beta testing version of <a href="https://de-bias.github.io/debiasR/"><span style="font-family: var(--bs-font-monospace);">debiasR</span></a> is now available. <span style="font-family: var(--bs-font-monospace);">debiasR</span> is an open-source R package developed as part of the <a href="https://de-bias.github.io/debias/">DEBIAS project</a> to support researchers working with digital trace data on human mobility.</p>
+<p>The package provides tools for assessing and correcting population representation bias in spatio-temporally aggregated data, including population counts by location and origin-destination flows between places. The current beta version focuses on three tasks: measuring coverage and representativeness bias, adjusting biased mobility flows, and validating adjusted outputs against benchmark data.</p>
+<p>We introduced the beta version during the PhD School workshop <a href="https://mobiletartu.ut.ee/workshops-and-academic-lecture/">“Correcting Biases in Mobile-Phone Mobility Data: The DEBIAS Framework”</a> at the <a href="https://mobiletartu.ut.ee/">10th Mobile Tartu Conference</a>, hosted by the <a href="https://mobilitylab.ut.ee/">Mobility Lab</a> at the <a href="https://ut.ee/en">University of Tartu</a>. The workshop gave doctoral researchers hands-on experience with the DEBIAS framework and the package workflow.</p>
+<p>The package can be installed from GitHub using:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>pak<span class="sc">::</span><span class="fu">pak</span>(<span class="st">"de-bias/debiasR"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>or:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"de-bias/debiasR"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Users who want to reproduce the empirical examples in the vignettes can also install the companion data package:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>pak<span class="sc">::</span><span class="fu">pak</span>(<span class="st">"de-bias/debiasRdata"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>This is an early testing version. Feedback can be submitted through the <a href="https://github.com/de-bias/debiasR"><span style="font-family: var(--bs-font-monospace);">debiasR</span> GitHub repository</a>, using <a href="https://github.com/de-bias/debiasR/issues">GitHub Issues</a> for bug reports, feature requests and methodological suggestions. Contributions are also welcome through pull requests, following the package <a href="https://de-bias.github.io/debiasR/CONTRIBUTING.html">contributing guidelines</a>.</p>
+<p>More information is available on the <a href="https://de-bias.github.io/debiasR/"><span style="font-family: var(--bs-font-monospace);">debiasR</span> package website</a> and the <a href="https://de-bias.github.io/debias/">DEBIAS project website</a>.</p>
 
 
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
