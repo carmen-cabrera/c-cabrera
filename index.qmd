@@ -1,13 +1,13 @@
 ---
 title: "Carmen Cabrera"
 pagetitle: "Carmen Cabrera"
-subtitle: "Lecturer in Geographic Data Science"
+subtitle: "Senior Lecturer in Geographic Data Science"
 image: assets/media/avatar.webp
 
 twitter-card:
     title: Carmen Cabrera
     description: |
-      Lecturer in Geographic Data Science.
+      Senior Lecturer in Geographic Data Science.
     image: assets/media/avatar.webp
 
 about:
@@ -46,7 +46,7 @@ resources:
 <br><br>
 
 ::: {#hero-heading}
-Carmen Cabrera is Senior Lecturer in Geographic Data Science at the Geographic Data Science Lab at the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/) ([University of Liverpool](https://www.liverpool.ac.uk/people/carmen-cabrera-arnau)), and an Honorary member of the [Centre for Advanced Spatial Analysis](https://www.ucl.ac.uk/bartlett/casa) (UCL). Her work sits at the intersection of geographic data science and computational social science.
+Carmen Cabrera is Senior Lecturer in Geographic Data Science at the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/) ([University of Liverpool](https://www.liverpool.ac.uk/people/carmen-cabrera-arnau)), and an Honorary member of the [Centre for Advanced Spatial Analysis](https://www.ucl.ac.uk/bartlett/casa) (UCL). Her work sits at the intersection of geographic data science and computational social science.
 
 Her research uses high-resolution digital trace data and quantitative modelling to examine how disruptions, including extreme weather, pandemics and other shocks, reshape human mobility across urban space and population groups. Methodologically, she develops statistical and computational frameworks to measure, explain and adjust biases in digital mobility data, strengthening its reliability for scientific inference and policy use, particularly in data-scarce contexts.
 
