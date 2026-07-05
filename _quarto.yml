@@ -58,18 +58,11 @@ website:
 format: 
   html:
     theme:
-      light:
-        - cosmo
-        - assets/cca-theme-light.scss
-        - assets/cca/colors-light.scss
-        - assets/cca/fonts.scss
-      dark: 
-        - cosmo
-        - assets/cca-theme-dark.scss
-        - assets/cca/colors-dark.scss
-    highlight-style:
-      light: assets/cca/a11y-light.theme
-      dark: assets/cca/a11y-dark.theme
+      - cosmo
+      - assets/cca-theme-light.scss
+      - assets/cca/colors-light.scss
+      - assets/cca/fonts.scss
+    highlight-style: assets/cca/a11y-light.theme
     code-link: true
     pagetitle: "{{< meta title >}} | Carmen Cabrera"
     lightbox: true
